@@ -1,0 +1,19 @@
+baseURL = "https://zapatos.tole.es"
+languageCode = "es-es"
+title = "Los últimos descuentos detectados!"
+theme = "hugo-shopping-product-catalogue-simple"
+
+[Params]
+description = "Las últimas rebajas de"
+channel = "https://t.me/s/todozapatos"
+ga = "G-CCLRP3R12J"
+yandex = "27d3b6cce1d74b40"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
