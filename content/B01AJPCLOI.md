@@ -14,10 +14,12 @@ comparePrice: 40.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PLAYMOBIL City Action Coche de Policía con Luces y Sonido  a Partir de 5 Años  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) a 21.99 EUR (original: 40.5 EUR) (45.70 %  de descuento) en el siguiente enlace!
+Está [PLAYMOBIL City Action Coche de Policía con Luces y Sonido  a Partir de 5 Años  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 45.70 de descuento por 21.99 EUR (original: 40.5 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL City Action Coche de Policía c](https://m.media-amazon.com/images/I/51cVohAzDWL._SL200_.jpg)](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
