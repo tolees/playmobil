@@ -4,7 +4,7 @@ title = "Los últimos descuentos detectados!"
 theme = "hugo-shopping-product-catalogue-simple"
 
 [Params]
-description = "Las últimas rebajas de"
+description = "Playmobil rebajado!"
 channel = "https://t.me/s/estodoplaymobil"
 ga = "G-CCLRP3R12J"
 yandex = "27d3b6cce1d74b40"
