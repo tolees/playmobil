@@ -10,8 +10,11 @@ author: ring
 slug: B01M0PPXGK
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 40.95 EUR
 inStock: true
+prodname: 'Playmobil Granja- Maletín  única  4897 '
 ---
 
 Está [Playmobil Granja- Maletín  única  4897 ](https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21) con 34.19 de descuento por 26.95 EUR (original: 40.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AJPC9X6
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 107.91 EUR
 inStock: true
+prodname: 'PLAYMOBIL City Action Comisaría de Policía con Prisión  a Partir de 4 Años  6919 '
 ---
 
 Tienes [PLAYMOBIL City Action Comisaría de Policía con Prisión  a Partir de 4 Años  6919 ](https://www.amazon.es/dp/B01AJPC9X6/?tag=tolees-21) con un 44.41 % de descuento con precio de oferta de 59.99 EUR (original: 107.91 EUR) en el siguiente enlace!

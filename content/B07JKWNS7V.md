@@ -10,8 +10,11 @@ author: ring
 slug: B07JKWNS7V
 description:
 actualPrice: 26.1 EUR
+currency: EUR
+price: 26.1
 comparePrice: 36.0 EUR
 inStock: true
+prodname: 'Playmobil - Concha de perla  Figurinas  Color Multicolor  70095'
 ---
 
 Está [Playmobil - Concha de perla  Figurinas  Color Multicolor  70095](https://www.amazon.es/dp/B07JKWNS7V/?tag=tolees-21) con 27.50 de descuento por 26.1 EUR (original: 36.0 EUR) en el siguiente enlace!

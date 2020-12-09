@@ -10,8 +10,11 @@ author: ring
 slug: B01LWT6YD9
 description:
 actualPrice: 4.75 EUR
+currency: EUR
+price: 4.75
 comparePrice: 8.9 EUR
 inStock: true
+prodname: 'PLAYMOBIL Especiales Plus- Mujer con Scooter  única  9084 '
 ---
 
 Tienes [PLAYMOBIL Especiales Plus- Mujer con Scooter  única  9084 ](https://www.amazon.es/dp/B01LWT6YD9/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 4.75 EUR (original: 8.9 EUR) en el siguiente enlace!

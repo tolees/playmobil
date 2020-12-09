@@ -10,8 +10,11 @@ author: ring
 slug: B0767BJJZM
 description:
 actualPrice: 1.35 EUR
+currency: EUR
+price: 1.35
 comparePrice: 7.5 EUR
 inStock: true
+prodname: 'Sirena Playmobil'
 ---
 
 Ahora mismo tienes [Sirena Playmobil](https://www.amazon.es/dp/B0767BJJZM/?tag=tolees-21) a 1.35 EUR (original: 7.5 EUR) (82.00 %  de descuento) en el siguiente enlace!
