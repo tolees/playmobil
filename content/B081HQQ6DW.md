@@ -17,10 +17,12 @@ inStock: true
 prodname: 'PLAYMOBIL Scooby-DOO! Aventura en Egipto  70365 '
 ---
 
-Ahora mismo tienes [PLAYMOBIL Scooby-DOO! Aventura en Egipto  70365 ](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21) a 26.79 EUR (original: 41.99 EUR) (36.20 %  de descuento) en el siguiente enlace!
+Está [PLAYMOBIL Scooby-DOO! Aventura en Egipto  70365 ](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21) con 36.20 de descuento por 26.79 EUR (original: 41.99 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL Scooby-DOO! Aventura en Egipto](https://m.media-amazon.com/images/I/61eKA6EhfJL._SL200_.jpg)](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
