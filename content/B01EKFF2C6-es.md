@@ -22,6 +22,9 @@ Tienes [Playmobil - Torre de Control y Aeropuerto  5338 ](https://www.amazon.es/
 
 [![Playmobil - Torre de Control y Aeropuert](https://images-eu.ssl-images-amazon.com/images/I/61LCZSe2-gL._SL200_.jpg)](https://www.amazon.es/dp/B01EKFF2C6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EKFF2C6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,13 @@ Está [PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Color carbón  7003
 
 [![PLAYMOBIL- Starter Pack Starterpack Bata](https://m.media-amazon.com/images/I/61sb4F0M1CL._SL200_.jpg)](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21)
 
+Principales características:
+
+- Contiene 39 piezas
+- Incluye dos figuras y varios accesorios
+- Desarrolla la imaginación y la creatividad
+- Con operativa ballesta
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

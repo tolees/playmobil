@@ -22,6 +22,13 @@ Está [Playmobil Granja- Maletín  única  4897 ](https://www.amazon.es/dp/B01M0
 
 [![Playmobil Granja- Maletín  única  4897 ](https://m.media-amazon.com/images/I/51oVN5u19LL._SL200_.jpg)](https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21)
 
+Principales características:
+
+- Incluye tres figuras
+- Incluye varios animales y accesorios
+- Es maletín y en ella se pueden guardar todos los accesorios
+- Desarrolla la imaginación y la creatividad
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

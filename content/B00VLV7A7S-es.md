@@ -22,6 +22,9 @@ Ahora mismo tienes [Playmobil - Satélite con láser para los meteoritos  61970 
 
 [![Playmobil - Satélite con láser para los ](https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00VLV7A7S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00VLV7A7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
