@@ -24,10 +24,10 @@ Tienes [PLAYMOBIL Scooby-DOO! Aventura en Egipto  70365 ](https://www.amazon.es/
 
 Características principales:
 
-- Las dos tarjetas fantasmas incluidas para el prisionero y Cléopâtre se pueden iluminar y leer con el círculo de la casa encantada o con el lector de la Mystery Machine (70361 y 70286, cada uno está disponible por separado)
-- Entrada de templo egipcio con 3 figuras y Scooby
 - Para el montaje, consulta el manual de instrucciones en el interior del embalaje; es posible limpiar las piezas con cuidado de utilizar agua y sin utilizar productos químicos
+- Entrada de templo egipcio con 3 figuras y Scooby
 - Scooby-Doo puede poner y sostener cosas en su boca y la placa de soporte le permite mantenerse de pie sobre sus patas traseras
+- Las dos tarjetas fantasmas incluidas para el prisionero y Cléopâtre se pueden iluminar y leer con el círculo de la casa encantada o con el lector de la Mystery Machine (70361 y 70286, cada uno está disponible por separado)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081HQQ6DW/?tag=tolees-21)
 
