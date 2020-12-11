@@ -25,8 +25,8 @@ Tienes [PLAYMOBIL 70194 City Life Abuela con Niña  Acción/Aventura  4 año s  
 Características principales:
 
 - Contiene 20 piezas
-- Recomendado a partir de 4 años
 - Desarrolla la imaginación y la creatividad
+- Recomendado a partir de 4 años
 - El juego contiene dos personajes, un andador, un bolso, un ramo de flores, chocolate y otros accesorios
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P581CJH/?tag=tolees-21)
