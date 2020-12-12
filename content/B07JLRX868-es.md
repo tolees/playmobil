@@ -3,6 +3,7 @@ layout: post
 title: 'PLAYMOBIL PLAYMOBIL-70034 Starterpack Co al 44.49 % de descuento'
 date: 2020-12-04 12:01:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.04 EUR
 inStock: true
 prodname: 'PLAYMOBIL PLAYMOBIL-70034 Starterpack Consulta pediatra  Multicolor  70034 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21'
+descuento: '44.49'
+titulo: 'PLAYMOBIL PLAYMOBIL-70034 Starterpack Co'
 ---
 
 Ahora mismo tienes [PLAYMOBIL PLAYMOBIL-70034 Starterpack Consulta pediatra  Multicolor  70034 ](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21) a 13.9 EUR (original: 25.04 EUR) (44.49 %  de descuento) en el siguiente enlace!
 
 [![PLAYMOBIL PLAYMOBIL-70034 Starterpack Co](https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg)](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
 
