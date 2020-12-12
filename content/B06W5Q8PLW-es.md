@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Agentes Secretos- Agentes Secr al 61.05 % de descuento'
-date: 2020-12-09 11:46:00
+date: 2020-12-12 10:42:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Está [PLAYMOBIL Agentes Secretos- Agentes Secretos-Centro de Mando del Dr.Drone
 
 Principales características:
 
+- Dimensiones aprox. 27x20x16 cm (LxPxA).
+- Con doble plataforma de aterrizaje para los dos drones.
+- El centro de mando se abre y cierra
+- Los drones disponen de brazos móviles y con herramientas intercambiables. Además, disparan.
+- Incluye dos figuras.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06W5Q8PLW/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - SCOOBY-DOO Aventura en el Sa al 33.01 % de descuento'
-date: 2020-12-10 15:22:04
+date: 2020-12-12 11:09:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/61zN3toc+bL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/61zN3toc+bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61zN3toc+bL._SL200_.jpg' ]
@@ -28,6 +28,10 @@ Ahora mismo tienes [Playmobil - SCOOBY-DOO Aventura en el Salvaje Oeste Juguete 
 
 Características:
 
+- Diligencia tirada por dos caballos, incluye a Scooby y a dos figuras
+- Diseño funcional
+- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
+- Calidad garantizada por la marca Playmobil
 
 [Visítala!!!](https://www.amazon.es/dp/B081HQ5NBV/?tag=tolees-21)
 
