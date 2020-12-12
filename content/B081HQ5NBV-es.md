@@ -28,10 +28,10 @@ Ahora mismo tienes [Playmobil - SCOOBY-DOO Aventura en el Salvaje Oeste Juguete 
 
 Características:
 
-- Diligencia tirada por dos caballos, incluye a Scooby y a dos figuras
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
-- Diseño funcional
 - Calidad garantizada por la marca Playmobil
+- Diligencia tirada por dos caballos, incluye a Scooby y a dos figuras
+- Diseño funcional
 
 [Visítala!!!](https://www.amazon.es/dp/B081HQ5NBV/?tag=tolees-21)
 
