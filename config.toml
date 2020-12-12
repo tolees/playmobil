@@ -1,19 +1,34 @@
 baseURL = "https://playmobil.tole.es"
+title = "Últimas ofertas"
+theme = "portfolio"
 languageCode = "es-es"
-title = "Los últimos descuentos detectados!"
-theme = "hugo-shopping-product-catalogue-simple"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
 
-[Params]
-description = "Playmobil rebajado!"
-channel = "https://t.me/s/estodoplaymobil"
-ga = "G-CCLRP3R12J"
-yandex = "27d3b6cce1d74b40"
 
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
 
-[outputs]
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Nuestras últimas ofertas"
+  copyright = ""
+  sidebarAbout = []
+  # Enable Google Analytics by entering your tracking code
+  gtag = "G-CCLRP3R12J"
+  yandex = "27d3b6cce1d74b40"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Raíz  "
+  url = "/"
+  home = true
+
+
+  [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "RSS"]
