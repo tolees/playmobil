@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EKFF2C6/?tag=tolees-21'
 descuento: '28.29'
+average: '43'
 ---
 
 Tienes [Playmobil - Torre de Control y Aeropuerto  5338 ](https://www.amazon.es/dp/B01EKFF2C6/?tag=tolees-21) con un 28.29 % de descuento con precio de oferta de 43 EUR (original: 59.96 EUR) en el siguiente enlace!
