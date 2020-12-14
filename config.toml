@@ -1,5 +1,5 @@
 baseURL = "https://playmobil.tole.es"
-title = "Últimas ofertas"
+title = "Últimas ofertas detectadas"
 theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
@@ -15,7 +15,7 @@ disqusShortname = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Nuestras últimas ofertas"
+  description = "Playmobil de oferta!"
   copyright = ""
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
