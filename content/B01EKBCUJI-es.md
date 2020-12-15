@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Crucero-6979 Playset  Multicol al 31.98 % de descuento'
-date: 2020-11-19 19:35:07
+date: 2020-12-15 19:36:33
 image: 'https://m.media-amazon.com/images/I/61bYYuWFlmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EKBCUJI/?tag=tolees-21'
 descuento: '31.98'
+average: '28.556206896551725'
 ---
 
 Está [Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 ](https://www.amazon.es/dp/B01EKBCUJI/?tag=tolees-21) con 31.98 de descuento por 25.8 EUR (original: 37.93 EUR) en el siguiente enlace!
@@ -24,5 +25,9 @@ Está [Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 ](https://ww
 
 ℹ️:
 
+- Contiene tortuga, flamenco y tabla de surf
+- Incluye cuatro figuras y varios accesorios
+- Desarrolla la imaginación y la creatividad
+- Isla Resort con bar con tobogán, palmeras, mesa, sillas, bebidas y copas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EKBCUJI/?tag=tolees-21)
