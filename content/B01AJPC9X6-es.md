@@ -25,10 +25,10 @@ Está [PLAYMOBIL City Action Comisaría de Policía con Prisión  a Partir de 4 
 
 ℹ️:
 
+- Playset for children aged 5+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
+- Fun for little police officers: Police Command Centre with Prison, police officers and criminals, many accessories for accurate role-play
+- Three figures, two prison cells, with command centre and telephone system, helicopter landing field, courtyard with parking for police cars (6873 sold separately) and much more
 - Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
 - Contents: 1 x Police Command Centre with Prison, 256-piece playset with instructions: 1 Police Station, 3 figures, 252 accessories, Material: plastic, L x W x H: 63 x 45 x 26 cm, 6872
-- Playset for children aged 5+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
-- Three figures, two prison cells, with command centre and telephone system, helicopter landing field, courtyard with parking for police cars (6873 sold separately) and much more
-- Fun for little police officers: Police Command Centre with Prison, police officers and criminals, many accessories for accurate role-play
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01AJPC9X6/?tag=tolees-21)
