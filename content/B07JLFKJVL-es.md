@@ -25,9 +25,9 @@ Ahora mismo tienes [PLAYMOBIL Magic Buscador Perlas  Color carbón  70099 ](http
 
 🔎:
 
+- Contiene 32 piezas
 - Desarrolla la imaginación y la creatividad
 - Recomendado a partir de 4 años
-- Contiene 32 piezas
 - Incluye 2 figuras, animales y accesorios
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLFKJVL/?tag=tolees-21)
