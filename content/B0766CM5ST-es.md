@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.36 % en PLAYMOBIL Knights Carruaje de Caballos c'
-date: 2020-12-21 22:48:32
+date: 2020-12-24 17:18:48
 image: 'https://m.media-amazon.com/images/I/61sjhC6kkKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0766CM5ST/?tag=tolees-21'
 descuento: '27.36'
-average: '19.7025'
+average: '19.188333333333336'
 ---
 
 Tienes [PLAYMOBIL Knights Carruaje de Caballos con Ballesta Enanos  a Partir de 5 Años  9341 ](https://www.amazon.es/dp/B0766CM5ST/?tag=tolees-21) con un 27.36 % de descuento con precio de oferta de 18.16 EUR (original: 25.0 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [PLAYMOBIL Knights Carruaje de Caballos con Ballesta Enanos  a Partir de 
 
 ℹ️:
 
+- Diversión para niños imaginativos: PLAYMOBIL Carruaje de Caballos con Ballesta Enanos con figuras, accesorios, ballesta que dispara y otras funciones increíbles
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, diseño robusto y de alta calidad, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1 PLAYMOBIL Carruaje de Caballos con Ballesta Enanos, Juego de 61 piezas con instrucciones: 3 figuras y muchos accesorios, material: plástico, LxPxA: 18.6 x 28.2 x 9.2 cm, 9341
 - 3 figuras, 1 ballesta y multitud de accesorios, combinable con 6627 Bastión de los Caballeros del Dragón (se vende por separado)
-- Diversión para niños imaginativos: PLAYMOBIL Carruaje de Caballos con Ballesta Enanos con figuras, accesorios, ballesta que dispara y otras funciones increíbles
 - Juego adecuado para niños a partir de 5 años, óptimo para las manos de los niños gracias a su tamaño adaptado y fácil sujeción gracias a sus bordes redondeados
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, diseño robusto y de alta calidad, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0766CM5ST/?tag=tolees-21)
