@@ -25,9 +25,9 @@ Está [PLAYMOBIL Family Fun Mini Golf](https://www.amazon.es/dp/B07JMCC3D1/?tag=
 
 ℹ️:
 
+- Desarrolla la imaginación y la creatividad
+- Juego individual o en grupo
 - Contiene 46 piezas
 - El campo de minigolf ofrece variedad de opciones de juego
-- Juego individual o en grupo
-- Desarrolla la imaginación y la creatividad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JMCC3D1/?tag=tolees-21)
