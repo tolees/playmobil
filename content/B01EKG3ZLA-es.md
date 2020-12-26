@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Romanos y Egipcios Playmobil P con un 31.03 % de descuento'
-date: 2020-12-22 18:04:16
+date: 2020-12-26 10:31:37
 image: 'https://m.media-amazon.com/images/I/61sL7kSKzjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Playmobil Romanos y Egipcios Playmobil Playset  Miscelane
 
 🔎:
 
-- Juego educativo para los niños
-- Incluye figura de egipcio
-- Camello con silla para montar y correas
 - Desarrolla la imaginación y la creatividad
+- Camello con silla para montar y correas
+- Incluye figura de egipcio
+- Juego educativo para los niños
 
 [Aquí!!!](https://www.amazon.es/dp/B01EKG3ZLA/?tag=tolees-21)
