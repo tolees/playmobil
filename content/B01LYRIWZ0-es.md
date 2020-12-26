@@ -25,10 +25,10 @@ Tienes [PLAYMOBIL Ghostbusters Ecto-1 con Módulo de Luz y Sonido  a Partir de 6
 
 ℹ️:
 
-- Techo extraíble, puerta de maletero abatible, 2 figuras, 4 fijaciones para los equipos, trampa para fantasmas y mucho más, compatible con el Cuartel Estación de Bomberos de los Cazafantasmas (9219)
-- Contenido: 1 PLAYMOBIL Ghostbusters Ecto-1, Juego de 79 piezas con instrucciones: 1 Ghostbusters Ecto-1, 2 figuras, 76 accesorios
 - Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para pequeños cazafantasmas: Ecto-1 de los Cazafantasmas de PLAYMOBIL con fantásticos efectos de luz y sonido y espacio para 4 cazafantasmas y su equipo
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para pequeños cazafantasmas: Ecto-1 de los Cazafantasmas de PLAYMOBIL con fantásticos efectos de luz y sonido y espacio para 4 cazafantasmas y su equipo
+- Contenido: 1 PLAYMOBIL Ghostbusters Ecto-1, Juego de 79 piezas con instrucciones: 1 Ghostbusters Ecto-1, 2 figuras, 76 accesorios
+- Techo extraíble, puerta de maletero abatible, 2 figuras, 4 fijaciones para los equipos, trampa para fantasmas y mucho más, compatible con el Cuartel Estación de Bomberos de los Cazafantasmas (9219)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21)
