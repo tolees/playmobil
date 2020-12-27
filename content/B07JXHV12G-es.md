@@ -25,9 +25,9 @@ Ahora mismo tienes [PLAYMOBIL Life City Quad Rescate+Remolque  Color carbón  70
 
 🔎:
 
-- 1 figura con vehículo
-- Incluye camilla y sólo suministro material en el interior
 - Techo extraíble
+- 1 figura con vehículo
 - Con luz y sonido (requiere 1 x pila micor de 1, 5 v)
+- Incluye camilla y sólo suministro material en el interior
 
 [Visítala!!!](https://www.amazon.es/dp/B07JXHV12G/?tag=tolees-21)
