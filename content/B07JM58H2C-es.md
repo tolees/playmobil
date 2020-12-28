@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL DreamWorks Dragons Hipo y Desd al 22.24 % de descuento'
-date: 2020-12-27 02:42:36
+date: 2020-12-28 09:40:29
 image: 'https://m.media-amazon.com/images/I/516Q-FZyS0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JM58H2C/?tag=tolees-21'
 descuento: '22.24'
-average: '34.00173410404622'
+average: '34.01302857142855'
 ---
 
 Ahora mismo tienes [PLAYMOBIL DreamWorks Dragons Hipo y Desdentao con Bebé Dragón  a Partir de 4 Años  70037 ](https://www.amazon.es/dp/B07JM58H2C/?tag=tolees-21) a 34.99 EUR (original: 45.0 EUR) (22.24 %  de descuento) en el siguiente enlace!
