@@ -25,9 +25,9 @@ Está [PLAYMOBIL Top Agents Spy Team Turbonave  A partir de 6 años  70002 ](htt
 
 ℹ️:
 
-- Diversión para agentes aventureros: Spy Team Turbonave de PLAYMOBIL con figuras, accesorios y armas para un juego repleto de acción
 - Contenido: 1 PLAYMOBIL Top Agents Spy Team Turbonave, Juego de 47 piezas con instrucciones: 1 Turbonave, 2 figuras, 44 accesorios, Material: plástico, LxPxA: 41 x 20 x 11-26,5 cm, 70002
 - Flotante, transformable para ataque o defensa, techo plegable, espacio para 1 figura, se le puede añadir motor submarino (7350)
+- Diversión para agentes aventureros: Spy Team Turbonave de PLAYMOBIL con figuras, accesorios y armas para un juego repleto de acción
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego de figuras para niños a partir de 6 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
