@@ -25,10 +25,10 @@ Ahora mismo tienes [PLAYMOBIL DreamWorks Spirit Establo con Fortu  Pru y Abigaí
 
 🔎:
 
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1 PLAYMOBIL DreamWorks Spirit Establo con Fortu, Pru y Abigaíl, Juego de 153 piezas con manual de instrucciones: 1 establo, 4 figuras, 148 accesorios
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para los pequeños héroes del oeste: PLAYMOBIL establo de caballos, set de juego con figuras, silla de montar, pajar, pegatinas y adornos para decorar y muchos accesorios
+- Contenido: 1 PLAYMOBIL DreamWorks Spirit Establo con Fortu, Pru y Abigaíl, Juego de 153 piezas con manual de instrucciones: 1 establo, 4 figuras, 148 accesorios
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Con Fortu, Pru, Abigaíl, Al Granger, Ajenjo y mucho más, ampliable con los establos de PLAYMOBIL DreamWorks Spirit (9478, 9479, 9480)
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLFKJSP/?tag=tolees-21)
