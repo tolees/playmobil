@@ -25,7 +25,7 @@ Está [PLAYMOBIL REF. 5090 LA RONDE DE NUIT  THE NIGHT WATCH  DE REMBRANDT](http
 
 ℹ️:
 
-- Replica versión Playmobil del famoso cuadro La ronda de Noche de Rembrant
 - Contiene dos figuras
+- Replica versión Playmobil del famoso cuadro La ronda de Noche de Rembrant
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00U1E6T6O/?tag=tolees-21)
