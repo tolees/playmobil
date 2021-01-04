@@ -25,9 +25,9 @@ Está [Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 ](https://ww
 
 ℹ️:
 
-- Isla Resort con bar con tobogán, palmeras, mesa, sillas, bebidas y copas
-- Incluye cuatro figuras y varios accesorios
 - Desarrolla la imaginación y la creatividad
 - Contiene tortuga, flamenco y tabla de surf
+- Isla Resort con bar con tobogán, palmeras, mesa, sillas, bebidas y copas
+- Incluye cuatro figuras y varios accesorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EKBCUJI/?tag=tolees-21)
