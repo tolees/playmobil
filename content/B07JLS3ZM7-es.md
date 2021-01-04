@@ -25,9 +25,9 @@ Ahora mismo tienes [PLAYMOBIL - Super set Buceo Figuras de Juguete  Color Multic
 
 🔎:
 
-- Con escondite secreto para el tesoro
 - Las boyas flotantes hacen que el tesoro flote
 - Desarrolla la imaginación y la creatividad
 - Juego educativo para los niños
+- Con escondite secreto para el tesoro
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLS3ZM7/?tag=tolees-21)
