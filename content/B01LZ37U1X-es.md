@@ -25,10 +25,10 @@ Está [PLAYMOBIL 1.2.3 Barco Pirata  a Partir de 1.5 Años  9118 ](https://www.a
 
 ℹ️:
 
-- Fun for little ones: PLAYMOBIL Pirate Ship with figures and accessories for accurate role-play, Features large parts - ideal for small hands
-- 2 pirates, 1 pirate, ship and several accessories, Combine with PLAYMOBIL My Take Along 1.2.3 Noah´s Ark (6765 sold separately)
-- Playset for children 18 months, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 - Contents: 1x PLAYMOBIL Pirate Ship, 8-piece playset with instructions: 1 figurine, many accessories, Material: BPA-free plastic, LxWxH: 29.5 x 13 x 14 cm, 9118
+- Playset for children 18 months, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
+- 2 pirates, 1 pirate, ship and several accessories, Combine with PLAYMOBIL My Take Along 1.2.3 Noah´s Ark (6765 sold separately)
 - Can be used every day: instructions for setting up with parents, High quality and robust design, Clean the parts (without stickers) under running water and without chemical agents
+- Fun for little ones: PLAYMOBIL Pirate Ship with figures and accessories for accurate role-play, Features large parts - ideal for small hands
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZ37U1X/?tag=tolees-21)
