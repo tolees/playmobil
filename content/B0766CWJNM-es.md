@@ -26,8 +26,8 @@ Está [PLAYMOBIL- Princesa Cristal de Hielo Juguete  Multicolor  geobra Brandst�
 ℹ️:
 
 - La base de goma protege la pantalla del smartphone o tablet
-- Desarrolla la imaginación y la creatividad
-- El vestido de dos piezas se puede quitar
 - La base de cristal sirva como soporte para la pirámide
+- El vestido de dos piezas se puede quitar
+- Desarrolla la imaginación y la creatividad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0766CWJNM/?tag=tolees-21)
