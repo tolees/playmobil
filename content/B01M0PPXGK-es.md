@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.09 % en Playmobil Granja- Maletín  única  4897 '
-date: 2021-01-10 20:32:15
+date: 2021-01-12 21:52:42
 image: 'https://m.media-amazon.com/images/I/51oVN5u19LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21'
 descuento: '34.09'
-average: '28.64328947368421'
+average: '28.62181818181818'
 ---
 
 Tienes [Playmobil Granja- Maletín  única  4897 ](https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21) con un 34.09 % de descuento con precio de oferta de 26.99 EUR (original: 40.95 EUR) en el siguiente enlace!
