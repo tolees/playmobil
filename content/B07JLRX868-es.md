@@ -25,9 +25,9 @@ En este momento está [PLAYMOBIL PLAYMOBIL-70034 Starterpack Consulta pediatra  
 
 🔎:
 
-- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
-- Desarrolla la imaginación y la creatividad
 - Incluye tres figuras con varios accesorios
+- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
 - Hay espacio para dos figuras en el vehículo
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
