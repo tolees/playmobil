@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'PLAYMOBIL- City Action Playset  Coche de al 38.27 % de descuento'
-date: 2021-01-15 16:33:06
+title: 'PLAYMOBIL- City Action Playset  Coche de al 30.89 % de descuento'
+date: 2021-01-16 22:58:37
 image: 'https://m.media-amazon.com/images/I/51Cfz-GK8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01AJPCLOI-es'
-actualPrice: 25.0 EUR
+actualPrice: 27.99 EUR
 currency: EUR
-price: 25.0
+price: 27.99
 comparePrice: 40.5 EUR
 prodname: 'PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Multicolor  6920 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21'
-descuento: '38.27'
-average: '25.817656250000002'
+descuento: '30.89'
+average: '25.851076923076924'
 ---
 
-Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Multicolor  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 38.27 de descuento por 25.0 EUR (original: 40.5 EUR) en el siguiente enlace!
+Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Multicolor  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 30.89 de descuento por 27.99 EUR (original: 40.5 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL- City Action Playset  Coche de](https://m.media-amazon.com/images/I/51Cfz-GK8gL._SL200_.jpg)](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)
 
 ℹ️:
 
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 1 PLAYMOBIL City Action Coche de Policía con Luces y Sonido, Juego de 35 piezas con instrucciones: 1 Coche de Policía, 2 figuras, 32 accesorios
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1 PLAYMOBIL City Action Coche de Policía con Luces y Sonido, Juego de 35 piezas con instrucciones: 1 Coche de Policía, 2 figuras, 32 accesorios
 - Diversión para los pequeños policías: Coche de policía PLAYMOBIL con geniales efectos de luz y sonido y muchos accesorios para jugar
 - 2 figuras, 2 sirenas diferentes, techo desmontable, espacio para 4 figuras, asiento trasero plegable, entre otros, ampliable con Comisaría de Policía con Prisión (6919)
 
