@@ -25,8 +25,8 @@ En este momento está [PLAYMOBIL - Casita de Verano  Set de Juego  4857 ](https:
 
 🔎:
 
-- Fomenta creatividad e imaginación
-- Juguete educativo
 - Con figuras y accesorios
+- Juguete educativo
+- Fomenta creatividad e imaginación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0032O3NIW/?tag=tolees-21)
