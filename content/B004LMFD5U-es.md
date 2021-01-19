@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LMFD5U-es PLAYMOBIL Oeste - Diligencia 4399'
-tags: playmobil
+tags: tole.es, playmobil
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M20RZZC-es PLAYMOBIL 1.2.3-9119 Isla Pirata Multicolor única 9119'
-tags: playmobil
+tags: tole.es, playmobil
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

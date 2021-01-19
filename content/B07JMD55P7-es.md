@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD55P7-es PLAYMOBIL- HIPO y Astrid Juguete Multicolor Dimensions:...'
-tags: playmobil-
+tags: tole.es, playmobil-
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

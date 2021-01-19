@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07668RPWD-es PLAYMOBIL 1.2.3 Comisaría Policía Maletín a Partir de 1.5...'
-tags: playmobil
+tags: tole.es, playmobil
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

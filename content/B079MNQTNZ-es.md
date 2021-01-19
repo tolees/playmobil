@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MNQTNZ-es PLAYMOBIL City Action Camión de Bomberos con Luces y...'
-tags: playmobil
+tags: tole.es, playmobil
 actualPrice: 46.68 EUR
 currency: EUR
 price: 46.68
