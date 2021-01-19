@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WCZCTQY-es Cómo entrenar a tu dragón-Eret con Ballesta de 4 Disparos...'
-tags: 'playmobil'
+tags: playmobil
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

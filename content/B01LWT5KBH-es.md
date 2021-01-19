@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWT5KBH-es Playmobil Centro Comercial- Cajero Automático Playset de...'
-tags: 'playmobil'
+tags: playmobil
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

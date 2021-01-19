@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCBHSY-es PLAYMOBIL- Patán Mocoso con Traje Volador Juguete...'
-tags: 'playmobil-'
+tags: playmobil-
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

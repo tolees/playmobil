@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVQLVJP-es PLAYMOBIL Country Set de Limpieza para Caballos con Bomba...'
-tags: 'playmobil'
+tags: playmobil
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

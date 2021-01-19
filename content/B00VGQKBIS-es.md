@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VGQKBIS-es PLAYMOBIL Cofre Caballeros única 5637'
-tags: 'playmobil'
+tags: playmobil
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95
