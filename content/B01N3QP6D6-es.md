@@ -26,9 +26,9 @@ Está [Playmobil- Maletín Grande Pirata y Soldado Figuras de Juguete  Multicolo
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Maletín en el que podrás guardar todos los accesorios
 - Incluye dos figuras y varios accesorios
 - Contiene 62 piezas
+- Maletín en el que podrás guardar todos los accesorios
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N3QP6D6/?tag=tolees-21)
