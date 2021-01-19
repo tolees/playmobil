@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4E20QK-es PLAYMOBIL - Duopack Piratas 51640'
-tags: [ tole.es, playmobil ]
+tags: [ 'tole.es','playmobil', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74
