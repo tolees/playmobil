@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLRX84L-es Playmobil Top Agents Spy Team Underwater Wing - Sets de...'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EKBCU7U-es Playmobil Crucero Playset de Figuras de Juguete Multicolor...'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

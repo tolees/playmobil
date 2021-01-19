@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004V3WA6Y-es PLAYMOBIL City Action - Furgón de policía 626563'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

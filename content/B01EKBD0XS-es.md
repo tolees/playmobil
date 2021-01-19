@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EKBD0XS-es PLAYMOBIL - Vestidor de Princesas 6850'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

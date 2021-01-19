@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EKG3YZM-es Playmobil - Biga Romana 5391'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

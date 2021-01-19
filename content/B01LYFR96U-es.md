@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFR96U-es Playmobil Porsche 911 GT3 Cup 9225'
-tags: tole.es, playmobil
+tags: [ tole.es, playmobil ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99
