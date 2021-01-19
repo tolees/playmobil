@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HJ1STG-es Playmobil 5953 Maletín Conjunto de hospital'
-tags: [ 'tole.es','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

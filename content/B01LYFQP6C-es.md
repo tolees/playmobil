@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFQP6C-es PLAYMOBIL 1.2.3- Ambulancia única 9122'
-tags: [ 'tole.es','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

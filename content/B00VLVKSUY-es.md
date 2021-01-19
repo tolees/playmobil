@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLVKSUY-es Playmobil - Juego Diversión en Vacaciones 60500'
-tags: [ 'tole.es','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9
