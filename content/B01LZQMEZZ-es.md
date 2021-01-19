@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rmw127pnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZQMEZZ-es'
+slug: 'B01LZQMEZZ-es PLAYMOBIL- Ciclista y Excursionista Juguetes Multicolor 9129'
+tags: 'playmobil-'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

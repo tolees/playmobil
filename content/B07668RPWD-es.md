@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KyMCwPBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07668RPWD-es'
+slug: 'B07668RPWD-es PLAYMOBIL 1.2.3 Comisaría Policía Maletín a Partir de 1.5...'
+tags: 'playmobil'
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

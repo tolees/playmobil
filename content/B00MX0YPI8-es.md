@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Pce13q2dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MX0YPI8-es'
+slug: 'B00MX0YPI8-es Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle...'
+tags: 'playmobil'
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

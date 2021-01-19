@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61tFQy2+4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKG3YZM-es'
+slug: 'B01EKG3YZM-es Playmobil - Biga Romana 5391'
+tags: 'playmobil'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

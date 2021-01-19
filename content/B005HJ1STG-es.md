@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qBnufOrBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HJ1STG-es'
+slug: 'B005HJ1STG-es Playmobil 5953 Maletín Conjunto de hospital'
+tags: 'playmobil'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

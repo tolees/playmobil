@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n3199aW6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0E2K9A-es'
+slug: 'B01M0E2K9A-es Playmobil Tortuga con Bebés 9071'
+tags: 'playmobil'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

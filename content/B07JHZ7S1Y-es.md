@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51la48qfLBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHZ7S1Y-es'
+slug: 'B07JHZ7S1Y-es PLAYMOBIL- Maletín Cocina Juguete Multicolor geobra...'
+tags: 'playmobil-'
 actualPrice: 12.38 EUR
 currency: EUR
 price: 12.38

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZbCTtlSxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4E20QK-es'
+slug: 'B00O4E20QK-es PLAYMOBIL - Duopack Piratas 51640'
+tags: 'playmobil'
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61f4F8Gf9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKG4BM2-es'
+slug: 'B01EKG4BM2-es Playmobil Romanos y Egipcios - Legionarios Playset de...'
+tags: 'playmobil'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pjmj9GD4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKBCU7U-es'
+slug: 'B01EKBCU7U-es Playmobil Crucero Playset de Figuras de Juguete Multicolor...'
+tags: 'playmobil'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

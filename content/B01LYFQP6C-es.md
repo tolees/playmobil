@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kXS9Aah+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYFQP6C-es'
+slug: 'B01LYFQP6C-es PLAYMOBIL 1.2.3- Ambulancia única 9122'
+tags: 'playmobil'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

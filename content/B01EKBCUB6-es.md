@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hoM7lNsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKBCUB6-es'
+slug: 'B01EKBCUB6-es Playmobil Crucero-6980 Playset Multicolor Miscelanea 6980'
+tags: 'playmobil'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

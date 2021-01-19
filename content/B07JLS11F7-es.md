@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61zHrMiJKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLS11F7-es'
+slug: 'B07JLS11F7-es Playmobil 70033 Starter Pack Starter Pack Caballito de mar...'
+tags: 'playmobil'
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

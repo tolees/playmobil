@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bhqtrBB0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4E2K0Q-es'
+slug: 'B00O4E2K0Q-es PLAYMOBIL - Flamencos 6651'
+tags: 'playmobil'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

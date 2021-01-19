@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Du3XRj03L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLVKSUY-es'
+slug: 'B00VLVKSUY-es Playmobil - Juego Diversión en Vacaciones 60500'
+tags: 'playmobil'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

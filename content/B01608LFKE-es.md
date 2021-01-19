@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FNNkBdxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01608LFKE-es'
+slug: 'B01608LFKE-es PLAYMOBIL Especiales Plus- DJ Figura con Accesorios...'
+tags: 'playmobil'
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

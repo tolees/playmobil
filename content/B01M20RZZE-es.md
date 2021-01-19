@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K9MPixFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M20RZZE-es'
+slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
+tags: 'playmobil'
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

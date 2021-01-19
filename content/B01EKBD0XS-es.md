@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512m5L7-OfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKBD0XS-es'
+slug: 'B01EKBD0XS-es PLAYMOBIL - Vestidor de Princesas 6850'
+tags: 'playmobil'
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

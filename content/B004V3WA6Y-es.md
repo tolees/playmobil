@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004V3WA6Y-es'
+slug: 'B004V3WA6Y-es PLAYMOBIL City Action - Furgón de policía 626563'
+tags: 'playmobil'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

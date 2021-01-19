@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61XgpKzhdEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B47V4RS-es'
+slug: 'B07B47V4RS-es PLAYMOBIL Family Fun Quitanieves A partir de 4 años 9500'
+tags: 'playmobil'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

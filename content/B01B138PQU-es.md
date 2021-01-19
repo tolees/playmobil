@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GW0VWaleL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B138PQU-es'
+slug: 'B01B138PQU-es PLAYMOBIL Piratas Playset 5655'
+tags: 'playmobil'
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

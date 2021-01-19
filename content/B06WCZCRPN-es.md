@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61BDxl6JtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WCZCRPN-es'
+slug: 'B06WCZCRPN-es Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras...'
+tags: 'playmobil'
 actualPrice: 61.45 EUR
 currency: EUR
 price: 61.45

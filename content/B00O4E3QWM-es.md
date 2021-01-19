@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uLk2402NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4E3QWM-es'
+slug: 'B00O4E3QWM-es PLAYMOBIL- Pirates Cañón Interactivo con Corsario Muñecos...'
+tags: 'playmobil-'
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46
