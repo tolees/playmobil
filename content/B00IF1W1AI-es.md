@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IF1W1AI-es PLAYMOBIL Caballeros - Trol Gigante con Luchadores playset...'
+sku: 'B00IF1W1AI-es'
 tags: [ 'playmobil', ]
 actualPrice: 16.88 EUR
 currency: EUR

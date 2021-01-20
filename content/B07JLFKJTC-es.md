@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKJTC-es Playmobil 70090 Family Fun Agua Deportes de Escuela...'
+sku: 'B07JLFKJTC-es'
 tags: [ 'playmobil', ]
 actualPrice: 14.91 EUR
 currency: EUR

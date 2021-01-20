@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4QQH-es PLAYMOBIL Magic Salón de Belleza con Joya A partir de 4...'
+sku: 'B07JMD4QQH-es'
 tags: [ 'playmobil', ]
 actualPrice: 11.72 EUR
 currency: EUR

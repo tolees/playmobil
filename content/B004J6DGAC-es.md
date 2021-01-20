@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004J6DGAC-es Playmobil- Thief with Safe and Getaway Car Ladrón de Caja...'
+sku: 'B004J6DGAC-es'
 tags: [ 'playmobil-', ]
 actualPrice: 12.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFU5AP-es PLAYMOBIL 1.2.3- Huevo de Dinosaurio única 9121'
+sku: 'B01LYFU5AP-es'
 tags: [ 'playmobil', ]
 actualPrice: 3.55 EUR
 currency: EUR

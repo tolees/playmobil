@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ATBWC64-es Playmobil Maletín Moda 5652'
+sku: 'B01ATBWC64-es'
 tags: [ 'playmobil', ]
 actualPrice: 11.6 EUR
 currency: EUR

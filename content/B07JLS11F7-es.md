@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLS11F7-es Playmobil 70033 Starter Pack Starter Pack Caballito de mar...'
+sku: 'B07JLS11F7-es'
 tags: [ 'playmobil', ]
 actualPrice: 10.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M11JSLQ-es Playmobil Cofre "Palacio Real" 4898'
+sku: 'B01M11JSLQ-es'
 tags: [ 'playmobil', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08175KBLK-es PLAYMOBIL Pirates - Carabela a partir de 5 Años 70412'
+sku: 'B08175KBLK-es'
 tags: [ 'playmobil', ]
 actualPrice: 33.95 EUR
 currency: EUR

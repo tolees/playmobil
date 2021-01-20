@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVPG5K4-es PLAYMOBIL Family Fun Cabaña de Esquí A partir de 4 años 9280'
+sku: 'B06WVPG5K4-es'
 tags: [ 'playmobil', ]
 actualPrice: 51.43 EUR
 currency: EUR

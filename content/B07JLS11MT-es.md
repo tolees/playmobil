@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLS11MT-es PLAYMOBIL- Fiures Niño S16 Juguete Multicolor geobra...'
+sku: 'B07JLS11MT-es'
 tags: [ 'playmobil-', ]
 actualPrice: 2.08 EUR
 currency: EUR

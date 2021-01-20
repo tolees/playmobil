@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0E2K9A-es Playmobil Tortuga con Bebés 9071'
+sku: 'B01M0E2K9A-es'
 tags: [ 'playmobil', ]
 actualPrice: 6.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWT6O7E-es PLAYMOBIL- Todoterreno con Piratas del Hielo única 9059'
+sku: 'B01LWT6O7E-es'
 tags: [ 'playmobil-', ]
 actualPrice: 14.9 EUR
 currency: EUR

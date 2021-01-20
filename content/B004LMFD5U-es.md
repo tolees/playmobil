@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LMFD5U-es PLAYMOBIL Oeste - Diligencia 4399'
+sku: 'B004LMFD5U-es'
 tags: [ 'playmobil', ]
 actualPrice: 19.99 EUR
 currency: EUR
