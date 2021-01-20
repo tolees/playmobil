@@ -26,9 +26,9 @@ En este momento está [Playmobil- Construcción Grúa RC Juguete  Multicolor  70
 
 🔎:
 
+- Contiene 80 piezas
 - Desarrolla la imaginación y la creatividad
 - Con pieza de sujeción para el gancho para la elevación de mercancías
-- Contiene 80 piezas
 - Dimensiones: 14.7 x 50 x 58.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HQ5S8H/?tag=tolees-21)
