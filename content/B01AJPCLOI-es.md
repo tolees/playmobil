@@ -27,10 +27,10 @@ Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Mul
 
 ℹ️:
 
-- 2 figuras, 2 sirenas diferentes, techo desmontable, espacio para 4 figuras, asiento trasero plegable, entre otros, ampliable con Comisaría de Policía con Prisión (6919)
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Diversión para los pequeños policías: Coche de policía PLAYMOBIL con geniales efectos de luz y sonido y muchos accesorios para jugar
 - Contenido: 1 PLAYMOBIL City Action Coche de Policía con Luces y Sonido, Juego de 35 piezas con instrucciones: 1 Coche de Policía, 2 figuras, 32 accesorios
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para los pequeños policías: Coche de policía PLAYMOBIL con geniales efectos de luz y sonido y muchos accesorios para jugar
+- 2 figuras, 2 sirenas diferentes, techo desmontable, espacio para 4 figuras, asiento trasero plegable, entre otros, ampliable con Comisaría de Policía con Prisión (6919)
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)
