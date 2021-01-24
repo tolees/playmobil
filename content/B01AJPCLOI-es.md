@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL- City Action Playset  Coche de al 30.89 % de descuento'
-date: 2021-01-23 17:19:50
+date: 2021-01-24 17:30:12
 image: 'https://m.media-amazon.com/images/I/51Cfz-GK8gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21'
 descuento: '30.89'
-average: '26.0038571428571'
+average: '26.0318309859154'
 ---
 
 Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Multicolor  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 30.89 de descuento por 27.99 EUR (original: 40.5 EUR) en el siguiente enlace!
