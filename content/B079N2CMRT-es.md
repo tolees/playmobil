@@ -27,10 +27,10 @@ Ahora mismo tienes [PLAYMOBIL DreamWorks Spirit Casa de Fortu  a Partir de 4 Añ
 
 🔎:
 
-- Contents: 1 x PLAYMOBIL DreamWorks Spirit Luckys Happy Home, 137-piece playset with instructions: 1 wooden-effect villa, two figures, 134 accessories, Material: plastic, L x W x H: 39 x 34 x 48 cm, 9475
-- Accurate role-play thanks to many figures, includes Spirit, Lucky and Aunt Cora, kitchen furniture, etc., can be combined with Luckys bedroom (9476 sold separately)
 - Playset for children aged 4+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
-- PLAYMOBIL Luckys happy home, western-style dolls house with furnished kitchen, secret hideout and lots of accessories
+- Contents: 1 x PLAYMOBIL DreamWorks Spirit Luckys Happy Home, 137-piece playset with instructions: 1 wooden-effect villa, two figures, 134 accessories, Material: plastic, L x W x H: 39 x 34 x 48 cm, 9475
 - Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
+- PLAYMOBIL Luckys happy home, western-style dolls house with furnished kitchen, secret hideout and lots of accessories
+- Accurate role-play thanks to many figures, includes Spirit, Lucky and Aunt Cora, kitchen furniture, etc., can be combined with Luckys bedroom (9476 sold separately)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079N2CMRT/?tag=tolees-21)
