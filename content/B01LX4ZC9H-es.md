@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'CAZAFANTASMAS Spengler and Ghost Playset al 17.40 % de rebaja'
-date: 2021-01-13 13:49:21
+date: 2021-01-29 22:39:46
 image: 'https://m.media-amazon.com/images/I/61VfEnfFJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX4ZC9H-es'
+slug: 'B01LX4ZC9H-es CAZAFANTASMAS Spengler and Ghost Playset de Figuras de...'
+sku: 'B01LX4ZC9H-es'
+tags: [ 'playmobil', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6
@@ -25,9 +27,9 @@ Tienes [CAZAFANTASMAS Spengler and Ghost Playset de Figuras de Juguete  Multicol
 
 🔎:
 
-- Figura de fantasma que brilla en la oscuridad
-- Las figuras de los fantasmas se iluminan cuando las luces se apagan
 - Desarrolla la imaginación y la creatividad
+- Figura de fantasma que brilla en la oscuridad
 - Contiene 18 piezas
+- Las figuras de los fantasmas se iluminan cuando las luces se apagan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LX4ZC9H/?tag=tolees-21)
