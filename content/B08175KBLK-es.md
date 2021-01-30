@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL Pirates - Carabela  a partir de 5 Años  70412'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08175KBLK/?tag=tolees-21'
 descuento: '15.10'
 average: '33.95'

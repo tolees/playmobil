@@ -16,6 +16,7 @@ comparePrice: 31.89 EUR
 prodname: 'PLAYMOBIL Mansión Moderna Playset Piscina con terraza  5575 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IAJMSPI/?tag=tolees-21'
 descuento: '18.50'
 average: '25.99'

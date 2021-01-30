@@ -16,6 +16,7 @@ comparePrice: 33.26 EUR
 prodname: 'PLAYMOBIL - Vestidor de Princesas  6850 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EKBD0XS/?tag=tolees-21'
 descuento: '49.73'
 average: '16.72'

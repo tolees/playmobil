@@ -16,6 +16,7 @@ comparePrice: 132.0 EUR
 prodname: 'PLAYMOBIL City Life Colegio  a Partir de 5 Años  9453 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079N1NV2Y/?tag=tolees-21'
 descuento: '35.23'
 average: '97.30555555555556'

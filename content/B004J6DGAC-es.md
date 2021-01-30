@@ -16,6 +16,7 @@ comparePrice: 21.27 EUR
 prodname: 'Playmobil- Thief with Safe and Getaway Car Ladrón de Caja Fuerte con Coche   626564 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004J6DGAC/?tag=tolees-21'
 descuento: '40.43'
 average: '12.67'

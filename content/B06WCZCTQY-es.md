@@ -16,6 +16,7 @@ comparePrice: 21.2 EUR
 prodname: 'Cómo entrenar a tu dragón-Eret con Ballesta de 4 Disparos Playset de figuras de juguete  color marrón  28 4 x 9 3 x 18 7 cm Playmobil 9249'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WCZCTQY/?tag=tolees-21'
 descuento: '21.70'
 average: '13.291891891891892'

@@ -16,6 +16,7 @@ comparePrice: 77.94 EUR
 prodname: 'PLAYMOBIL Family Fun Cabaña de Esquí  A partir de 4 años  9280 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVPG5K4/?tag=tolees-21'
 descuento: '34.01'
 average: '56.67307692307692'

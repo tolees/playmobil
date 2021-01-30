@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'PLAYMOBIL 1.2.3- Huevo de Dinosaurio  única  9121 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYFU5AP/?tag=tolees-21'
 descuento: '62.43'
 average: '5.725'

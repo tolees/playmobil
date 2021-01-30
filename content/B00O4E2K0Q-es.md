@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'PLAYMOBIL - Flamencos  6651 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4E2K0Q/?tag=tolees-21'
 descuento: '66.67'
 average: '2.99'

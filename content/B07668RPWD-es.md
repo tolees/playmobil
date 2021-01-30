@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'PLAYMOBIL 1.2.3 Comisaría Policía Maletín  a Partir de 1.5 Años  9382 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07668RPWD/?tag=tolees-21'
 descuento: '36.26'
 average: '27.550000000000004'

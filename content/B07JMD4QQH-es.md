@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'PLAYMOBIL Magic Salón de Belleza con Joya  A partir de 4 años  70096 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMD4QQH/?tag=tolees-21'
 descuento: '52.93'
 average: '11.72'

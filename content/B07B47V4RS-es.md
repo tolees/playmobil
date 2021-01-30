@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Family Fun Quitanieves  A partir de 4 años  9500 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B47V4RS/?tag=tolees-21'
 descuento: '17.46'
 average: '18.435'

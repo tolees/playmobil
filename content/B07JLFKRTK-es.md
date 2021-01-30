@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'PLAYMOBIL- Maricela con Bicicleta Juguete  Multicolor  geobra Brandstätter 70124 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLFKRTK/?tag=tolees-21'
 descuento: '30.00'
 average: '6.3'

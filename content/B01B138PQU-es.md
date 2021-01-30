@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'PLAYMOBIL Piratas Playset  5655 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B138PQU/?tag=tolees-21'
 descuento: '32.56'
 average: '8.96875'

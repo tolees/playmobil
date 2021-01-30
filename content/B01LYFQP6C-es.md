@@ -16,6 +16,7 @@ comparePrice: 18.45 EUR
 prodname: 'PLAYMOBIL 1.2.3- Ambulancia  única  9122 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYFQP6C/?tag=tolees-21'
 descuento: '24.66'
 average: '13.641578947368421'

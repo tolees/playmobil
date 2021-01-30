@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'PLAYMOBIL City Action Camión de Bomberos con Luces y Sonido  a Partir de 4 Años  9464 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MNQTNZ/?tag=tolees-21'
 descuento: '29.27'
 average: '48.533750000000005'

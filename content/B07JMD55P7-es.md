@@ -16,6 +16,7 @@ comparePrice: 10.28 EUR
 prodname: 'PLAYMOBIL- HIPO y Astrid Juguete  Multicolor  Dimensions: 14.2 x 14.2 x 4.1 cm LXWXH   geobra Brandstätter 70045 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMD55P7/?tag=tolees-21'
 descuento: '42.22'
 average: '6.4504761904761905'

@@ -16,6 +16,7 @@ comparePrice: 29.38 EUR
 prodname: 'PLAYMOBIL 1.2.3 - 1.2.3 Tren con Vías  6880 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BPF7KO2/?tag=tolees-21'
 descuento: '18.35'
 average: '23.676'

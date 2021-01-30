@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Playmobil 70090 Family Fun Agua Deportes de Escuela  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLFKJTC/?tag=tolees-21'
 descuento: '16.89'
 average: '16.9525'

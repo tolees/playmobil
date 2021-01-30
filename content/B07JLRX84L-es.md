@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'Playmobil Top Agents Spy Team Underwater Wing - Sets de Juguetes  Acción / Aventura  6 año s   Niño  Interior   Gente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLRX84L/?tag=tolees-21'
 descuento: '39.53'
 average: '9.915'

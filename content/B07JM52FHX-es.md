@@ -16,6 +16,7 @@ comparePrice: 21.23 EUR
 prodname: 'Playmobil 70138 Country Mobiles Gallinas hogar  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM52FHX/?tag=tolees-21'
 descuento: '20.44'
 average: '16.795'

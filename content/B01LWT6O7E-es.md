@@ -16,6 +16,7 @@ comparePrice: 21.45 EUR
 prodname: 'PLAYMOBIL- Todoterreno con Piratas del Hielo  única  9059 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWT6O7E/?tag=tolees-21'
 descuento: '30.54'
 average: '14.9'

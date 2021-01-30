@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Playmobil - Llavero Policia - Plateado - Hombres - Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP76T2V/?tag=tolees-21'
 descuento: '29.75'
 average: '42.166666666666664'

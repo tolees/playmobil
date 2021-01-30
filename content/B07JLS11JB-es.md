@@ -16,6 +16,7 @@ comparePrice: 9.53 EUR
 prodname: 'PLAYMOBIL- Ostereier Huevo Policia con Perro  Color carbón  70085 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLS11JB/?tag=tolees-21'
 descuento: '37.04'
 average: '6.9799999999999995'

@@ -16,6 +16,7 @@ comparePrice: 26.7 EUR
 prodname: 'Playmobil Crucero Playset de Figuras de Juguete  Multicolor  28 4 x 9 3 x 18 7 cm  Playmobil 6981 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EKBCU7U/?tag=tolees-21'
 descuento: '15.73'
 average: '22.92454545454546'

@@ -16,6 +16,7 @@ comparePrice: 28.19 EUR
 prodname: 'PLAYMOBIL Hadas- Dragón con Bebé  única  9134 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M20RZZE/?tag=tolees-21'
 descuento: '17.38'
 average: '20.9415625'

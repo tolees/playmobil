@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PLAYMOBIL Cofre Caballeros  única  5637 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VGQKBIS/?tag=tolees-21'
 descuento: '16.03'
 average: '19.876086956521736'

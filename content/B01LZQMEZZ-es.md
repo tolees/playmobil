@@ -16,6 +16,7 @@ comparePrice: 15.12 EUR
 prodname: 'PLAYMOBIL- Ciclista y Excursionista Juguetes  Multicolor  9129 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZQMEZZ/?tag=tolees-21'
 descuento: '60.65'
 average: '8.153703703703705'

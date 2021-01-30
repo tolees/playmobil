@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70033 Starter Pack Starter Pack Caballito de mar Carruaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLS11F7/?tag=tolees-21'
 descuento: '27.69'
 average: '12.914000000000001'

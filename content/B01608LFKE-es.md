@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'PLAYMOBIL Especiales Plus- DJ Figura con Accesorios  Multicolor  5377 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01608LFKE/?tag=tolees-21'
 descuento: '41.68'
 average: '4.66'

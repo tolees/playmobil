@@ -16,6 +16,7 @@ comparePrice: 16.74 EUR
 prodname: 'Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle - Rompecabezas  Puzzle Rompecabezas  Juguete  Niños  Playmobil  Niño  8 año s  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MX0YPI8/?tag=tolees-21'
 descuento: '23.48'
 average: '12.81'

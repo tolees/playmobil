@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'PLAYMOBIL- Pirates Cañón Interactivo con Corsario Muñecos y Figuras  Multicolor  6165 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4E3QWM/?tag=tolees-21'
 descuento: '18.74'
 average: '6.46'

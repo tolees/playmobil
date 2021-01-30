@@ -16,6 +16,7 @@ comparePrice: 18.45 EUR
 prodname: 'PLAYMOBIL- Maletín Grande Picnic Familiar  única  9103 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3MJXK1/?tag=tolees-21'
 descuento: '29.59'
 average: '15.921538461538463'

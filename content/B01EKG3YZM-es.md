@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'Playmobil - Biga Romana  5391 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EKG3YZM/?tag=tolees-21'
 descuento: '32.98'
 average: '10.11'

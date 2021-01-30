@@ -16,6 +16,7 @@ comparePrice: 15.3 EUR
 prodname: 'Playmobil - Juego Diversión en Vacaciones  60500 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VLVKSUY/?tag=tolees-21'
 descuento: '22.22'
 average: '12.096'

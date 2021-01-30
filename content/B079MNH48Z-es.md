@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Playmobil- Trineo con Pareja Real Set Juguetes  Multicolor  geobra Brandstätter 9474 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21'
 descuento: '35.35'
 average: '12.96'

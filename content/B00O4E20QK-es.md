@@ -16,6 +16,7 @@ comparePrice: 11.77 EUR
 prodname: 'PLAYMOBIL - Duopack  Piratas  51640 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4E20QK/?tag=tolees-21'
 descuento: '51.23'
 average: '5.74'

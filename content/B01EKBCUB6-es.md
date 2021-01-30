@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'Playmobil Crucero-6980 Playset  Multicolor  Miscelanea  6980 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EKBCUB6/?tag=tolees-21'
 descuento: '17.68'
 average: '16.090769230769236'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Playmobil Centro Comercial- Cajero Automático Playset de Figuras de Juguete  Multicolor  4 1 x 14 2 x 14 2 cm  Playmobil 9081 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWT5KBH/?tag=tolees-21'
 descuento: '30.85'
 average: '8.99'

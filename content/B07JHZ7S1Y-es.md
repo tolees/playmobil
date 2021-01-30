@@ -16,6 +16,7 @@ comparePrice: 15.19 EUR
 prodname: 'PLAYMOBIL- Maletín Cocina Juguete  Multicolor  geobra Brandstätter 9543 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHZ7S1Y/?tag=tolees-21'
 descuento: '18.50'
 average: '12.38'

@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'PLAYMOBIL Caballeros - Trol Gigante con Luchadores  playset  6004 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IF1W1AI/?tag=tolees-21'
 descuento: '19.54'
 average: '20.716562500000002'

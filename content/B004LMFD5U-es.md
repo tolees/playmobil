@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'PLAYMOBIL Oeste - Diligencia  4399 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LMFD5U/?tag=tolees-21'
 descuento: '31.05'
 average: '21.99'

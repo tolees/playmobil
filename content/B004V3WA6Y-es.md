@@ -16,6 +16,7 @@ comparePrice: 39.73 EUR
 prodname: 'PLAYMOBIL City Action - Furgón de policía  626563 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004V3WA6Y/?tag=tolees-21'
 descuento: '20.74'
 average: '31.49'

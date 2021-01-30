@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'PLAYMOBIL- Fiures Niño S16 Juguete  Multicolor  geobra Brandstätter 70159 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLS11MT/?tag=tolees-21'
 descuento: '16.80'
 average: '2.395'

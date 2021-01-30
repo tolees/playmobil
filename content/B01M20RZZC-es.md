@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'PLAYMOBIL 1.2.3-9119 Isla Pirata  Multicolor  única  9119 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21'
 descuento: '70.48'
 average: '9.39'

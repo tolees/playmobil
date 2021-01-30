@@ -16,6 +16,7 @@ comparePrice: 93.99 EUR
 prodname: 'Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras de Juguete  Multicolor  58 5 x 25 x 50 cm Playmobil 9243'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WCZCRPN/?tag=tolees-21'
 descuento: '34.62'
 average: '81.14589743589745'

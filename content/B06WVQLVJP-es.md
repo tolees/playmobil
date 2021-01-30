@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'PLAYMOBIL Country Set de Limpieza para Caballos con Bomba de Agua  A partir de 5 años  6929 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVQLVJP/?tag=tolees-21'
 descuento: '24.40'
 average: '19.49'

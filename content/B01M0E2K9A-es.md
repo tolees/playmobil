@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Playmobil Tortuga con Bebés  9071'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0E2K9A/?tag=tolees-21'
 descuento: '24.53'
 average: '7.25'

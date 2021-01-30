@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'PLAYMOBIL- Patán Mocoso con Traje Volador Juguete  Multicolor  9.3 x 4.5 x 14.2 cm  geobra Brandstätter 70043 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMCBHSY/?tag=tolees-21'
 descuento: '23.33'
 average: '4.003'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Playmobil Maletín Moda 5652'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ATBWC64/?tag=tolees-21'
 descuento: '20.00'
 average: '13.366666666666665'

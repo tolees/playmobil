@@ -16,6 +16,7 @@ comparePrice: 39.89 EUR
 prodname: 'Playmobil 5953 Maletín Conjunto de hospital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005HJ1STG/?tag=tolees-21'
 descuento: '34.85'
 average: '25.99'
