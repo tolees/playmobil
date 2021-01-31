@@ -28,8 +28,8 @@ Ahora mismo tienes [PLAYMOBIL - Novelmore Fortaleza  Multicolor  70222 ](https:/
 
 🔎:
 
-- Con cañones y catapulta para masas
 - En el interior del castillo encontrarás la habitación secreta de las pociones y la escopeta del cerrajero
+- Con cañones y catapulta para masas
 - Rico en accesorios como tendederos, banderas y armas
 - Contiene cuatro personajes, un caballo y un lobo
 
