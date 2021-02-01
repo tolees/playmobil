@@ -30,8 +30,8 @@ Tienes [PLAYMOBIL SCOOBY-DOO La Máquina del Misterio con Efectos de Luz  a part
 
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químico
 - Contenido: 1 PLAYMOBIL SCOOBY-DOO! Juego de 72 piezas con manual de instrucciones: 1 Máquina del Misterio, 1 Fred, 1 Daphne, 1 Vilma, 68 accesorios, Material: plástico, LxPxA: 28.5x11.5x14.5 cm
+- Juego de figuras para niños a partir de 4 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Legendaria diversión para los aficionados detectives: PLAYMOBIL SCOOBY-DOO! La Máquina del Misterio con Fred Jones, Daphne Blake, Vilma Dinkley y muchos accesorios
 - Puertas traseras y techo se pueden abrir, puerta lateral corredera, entre otros, cabina del conductor con espacio para dos figuras, Se puede ampliar con SCOOBY-DOO! Scooby & Shaggy con Fantasma
-- Juego de figuras para niños a partir de 4 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08175VGYQ/?tag=tolees-21)
