@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 44.45 % en PLAYMOBIL 70632 Ataque del T-Rex  Multic'
-date: 2021-01-29 13:05:32
+title: 'Descuento del 33.34 % en PLAYMOBIL 70632 Ataque del T-Rex  Multic'
+date: 2021-02-02 03:06:40
 image: 'https://m.media-amazon.com/images/I/51sbOYyKUeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,28 @@ author: ring
 slug: 'B085FLRDYW-es PLAYMOBIL 70632 Ataque del T-Rex Multicolor'
 sku: 'B085FLRDYW-es'
 tags: [ 'playmobil', ]
-actualPrice: 24.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 24.99
+price: 29.99
 comparePrice: 44.99 EUR
 prodname: 'PLAYMOBIL 70632 Ataque del T-Rex  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B085FLRDYW/?tag=tolees-21'
-descuento: '44.45'
-average: '39.9216666666667'
+descuento: '33.34'
+average: '38.5028571428571'
 ---
 
-Tienes [PLAYMOBIL 70632 Ataque del T-Rex  Multicolor](https://www.amazon.es/dp/B085FLRDYW/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL 70632 Ataque del T-Rex  Multicolor](https://www.amazon.es/dp/B085FLRDYW/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 29.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL 70632 Ataque del T-Rex  Multic](https://m.media-amazon.com/images/I/51sbOYyKUeL._SL200_.jpg)](https://www.amazon.es/dp/B085FLRDYW/?tag=tolees-21)
 
 ℹ️:
 
-- Recomendado a partir de 4 meses
 - Incluye dos dinosaurios T-Rex
 - Con varios accesorios
 - Desarrolla la imaginación y la creatividad
+- Recomendado a partir de 4 meses
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085FLRDYW/?tag=tolees-21)
