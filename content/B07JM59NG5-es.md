@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL Barco Pirata con Motor Submarino 70151  Carbón](https://www.a
 
 ℹ️:
 
+- Desarrolla la imaginación y la creatividad
 - Incluye bajo el agua del motor
 - Cañón con función de disparo
 - Incluye figuras y varios accesorios
-- Desarrolla la imaginación y la creatividad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JM59NG5/?tag=tolees-21)
