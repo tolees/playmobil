@@ -1,33 +1,36 @@
 ---
 layout: post
-title: 'PLAYMOBIL PLAYMOBIL-70034 Starterpack Co con un 42.53 % de descuento'
-date: 2021-01-14 14:04:35
+title: 'Playmobil - Starterpack Consulta Pediatr con un 44.49 % de descuento'
+date: 2021-02-12 15:46:33
 image: 'https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLRX868-es'
-actualPrice: 14.39 EUR
+slug: 'B07JLRX868-es Playmobil - Starterpack Consulta Pediatra Multicolor 70034'
+sku: 'B07JLRX868-es'
+tags: [ 'playmobil', ]
+actualPrice: 13.9 EUR
 currency: EUR
-price: 14.39
+price: 13.9
 comparePrice: 25.04 EUR
-prodname: 'PLAYMOBIL PLAYMOBIL-70034 Starterpack Consulta pediatra  Multicolor  70034 '
+prodname: 'Playmobil - Starterpack Consulta Pediatra  Multicolor  70034 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21'
-descuento: '42.53'
-average: '13.91223404255319'
+descuento: '44.49'
+average: '13.9121052631579'
 ---
 
-En este momento está [PLAYMOBIL PLAYMOBIL-70034 Starterpack Consulta pediatra  Multicolor  70034 ](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21) a 14.39 EUR (original: 25.04 EUR) (42.53 %  de descuento) en el siguiente enlace!
+En este momento está [Playmobil - Starterpack Consulta Pediatra  Multicolor  70034 ](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21) a 13.9 EUR (original: 25.04 EUR) (44.49 %  de descuento) en el siguiente enlace!
 
-[![PLAYMOBIL PLAYMOBIL-70034 Starterpack Co](https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg)](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
+[![Playmobil - Starterpack Consulta Pediatr](https://m.media-amazon.com/images/I/51YxKjRPtAL._SL200_.jpg)](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
 
 🔎:
 
 - Incluye tres figuras con varios accesorios
-- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
 - Hay espacio para dos figuras en el vehículo
+- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
 - Desarrolla la imaginación y la creatividad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
