@@ -28,9 +28,9 @@ Está [PLAYMOBIL - Recinto Animales Granja](https://www.amazon.es/dp/B07JLS11JY/
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Contiene varios accesorios
 - Incluye dos figuras y animales
 - Recomendado a partir de 4 años
+- Contiene varios accesorios
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JLS11JY/?tag=tolees-21)
