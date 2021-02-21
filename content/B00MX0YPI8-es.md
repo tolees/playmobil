@@ -2,7 +2,7 @@
 layout: post
 title: 'Schmidt Spiele Playmobil: Kampf um den K con un 23.48 % de descuento'
 date: 2020-03-26 22:53:21
-image: 'https://m.media-amazon.com/images/I/51Pce13q2dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pce13q2dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.81'
 
 En este momento está [Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle - Rompecabezas  Puzzle Rompecabezas  Juguete  Niños  Playmobil  Niño  8 año s  ](https://www.amazon.es/dp/B00MX0YPI8/?tag=tolees-21) a 12.81 EUR (original: 16.74 EUR) (23.48 %  de descuento) en el siguiente enlace!
 
-[![Schmidt Spiele Playmobil: Kampf um den K](https://m.media-amazon.com/images/I/51Pce13q2dL._SL200_.jpg)](https://www.amazon.es/dp/B00MX0YPI8/?tag=tolees-21)
+[![Schmidt Spiele Playmobil: Kampf um den K](https://m.media-amazon.com/images/I/51Pce13q2dL._SL400_.jpg)](https://www.amazon.es/dp/B00MX0YPI8/?tag=tolees-21)
 
 🔎:
 

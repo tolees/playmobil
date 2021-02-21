@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL City Action - Furgón de policí al 20.74 % de descuento'
 date: 2020-01-31 22:51:48
-image: 'https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.49'
 
 Está [PLAYMOBIL City Action - Furgón de policía  626563 ](https://www.amazon.es/dp/B004V3WA6Y/?tag=tolees-21) con 20.74 de descuento por 31.49 EUR (original: 39.73 EUR) en el siguiente enlace!
 
-[![PLAYMOBIL City Action - Furgón de policí](https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004V3WA6Y/?tag=tolees-21)
+[![PLAYMOBIL City Action - Furgón de policí](https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004V3WA6Y/?tag=tolees-21)
 
 ℹ️:
 

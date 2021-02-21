@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL- Ostereier Huevo Policia con P al 37.04 % de descuento'
 date: 2020-09-05 16:32:09
-image: 'https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.9799999999999995'
 
 Está [PLAYMOBIL- Ostereier Huevo Policia con Perro  Color carbón  70085 ](https://www.amazon.es/dp/B07JLS11JB/?tag=tolees-21) con 37.04 de descuento por 6.0 EUR (original: 9.53 EUR) en el siguiente enlace!
 
-[![PLAYMOBIL- Ostereier Huevo Policia con P](https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL200_.jpg)](https://www.amazon.es/dp/B07JLS11JB/?tag=tolees-21)
+[![PLAYMOBIL- Ostereier Huevo Policia con P](https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL400_.jpg)](https://www.amazon.es/dp/B07JLS11JB/?tag=tolees-21)
 
 ℹ️:
 

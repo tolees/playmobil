@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.10 % en PLAYMOBIL Pirates - Carabela  a partir d'
 date: 2020-08-27 07:42:00
-image: 'https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.95'
 
 Tienes [PLAYMOBIL Pirates - Carabela  a partir de 5 Años  70412](https://www.amazon.es/dp/B08175KBLK/?tag=tolees-21) con un 15.10 % de descuento con precio de oferta de 33.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![PLAYMOBIL Pirates - Carabela  a partir d](https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL200_.jpg)](https://www.amazon.es/dp/B08175KBLK/?tag=tolees-21)
+[![PLAYMOBIL Pirates - Carabela  a partir d](https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL400_.jpg)](https://www.amazon.es/dp/B08175KBLK/?tag=tolees-21)
 
 ℹ️:
 

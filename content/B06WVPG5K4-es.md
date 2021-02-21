@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL Family Fun Cabaña de Esquí  A  al 34.01 % de rebaja'
 date: 2020-09-22 18:49:05
-image: 'https://m.media-amazon.com/images/I/619tFTFzqcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/619tFTFzqcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.67307692307692'
 
 Tienes [PLAYMOBIL Family Fun Cabaña de Esquí  A partir de 4 años  9280 ](https://www.amazon.es/dp/B06WVPG5K4/?tag=tolees-21) con precio final de  51.43 EUR (original: 77.94 EUR) (34.01 %  de rebaja) aqui!
 
-[![PLAYMOBIL Family Fun Cabaña de Esquí  A ](https://m.media-amazon.com/images/I/619tFTFzqcL._SL200_.jpg)](https://www.amazon.es/dp/B06WVPG5K4/?tag=tolees-21)
+[![PLAYMOBIL Family Fun Cabaña de Esquí  A ](https://m.media-amazon.com/images/I/619tFTFzqcL._SL400_.jpg)](https://www.amazon.es/dp/B06WVPG5K4/?tag=tolees-21)
 
 🔎:
 

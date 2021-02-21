@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL- Maricela con Bicicleta Juguet al 30.00 % de descuento'
 date: 2020-02-13 14:54:30
-image: 'https://m.media-amazon.com/images/I/51jtGMcuCCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jtGMcuCCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.3'
 
 Ahora mismo tienes [PLAYMOBIL- Maricela con Bicicleta Juguete  Multicolor  geobra Brandstätter 70124 ](https://www.amazon.es/dp/B07JLFKRTK/?tag=tolees-21) a 6.3 EUR (original: 9.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![PLAYMOBIL- Maricela con Bicicleta Juguet](https://m.media-amazon.com/images/I/51jtGMcuCCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JLFKRTK/?tag=tolees-21)
+[![PLAYMOBIL- Maricela con Bicicleta Juguet](https://m.media-amazon.com/images/I/51jtGMcuCCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JLFKRTK/?tag=tolees-21)
 
 🔎:
 

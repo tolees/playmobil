@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL Piratas Playset  5655  con un 32.56 % de descuento'
 date: 2020-07-21 19:15:35
-image: 'https://m.media-amazon.com/images/I/51GW0VWaleL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GW0VWaleL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.96875'
 
 En este momento está [PLAYMOBIL Piratas Playset  5655 ](https://www.amazon.es/dp/B01B138PQU/?tag=tolees-21) a 9.65 EUR (original: 14.31 EUR) (32.56 %  de descuento) en el siguiente enlace!
 
-[![PLAYMOBIL Piratas Playset  5655 ](https://m.media-amazon.com/images/I/51GW0VWaleL._SL200_.jpg)](https://www.amazon.es/dp/B01B138PQU/?tag=tolees-21)
+[![PLAYMOBIL Piratas Playset  5655 ](https://m.media-amazon.com/images/I/51GW0VWaleL._SL400_.jpg)](https://www.amazon.es/dp/B01B138PQU/?tag=tolees-21)
 
 🔎:
 
