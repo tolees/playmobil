@@ -28,10 +28,10 @@ Está [Playmobil- Novelmore Castillo con Accesorios  Multicolor  Talla Única  7
 
 ℹ️:
 
-- Catapultas en funcionamiento, lanzamiento de piedras y balas, apertura de pared, compuerta mecánica, entre otros, ampliable con playmobil pared con catapulta (9839)
-- Juego de figuras para niños entre 5 y 10 años: ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1 playmobil novelmore gran castillo de novelmore, juego de 362 piezas con instrucciones: 1 castillo, 4 figuras, 357 accesorios, material: plástico, lxpxa: 79x57x44 cm, 70220
 - Diversión para niños de gran imaginación: playmobil gran castillo de novelmore con figuras, muchos accesorios y funciones para jugar
+- Contenido: 1 playmobil novelmore gran castillo de novelmore, juego de 362 piezas con instrucciones: 1 castillo, 4 figuras, 357 accesorios, material: plástico, lxpxa: 79x57x44 cm, 70220
+- Juego de figuras para niños entre 5 y 10 años: ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Catapultas en funcionamiento, lanzamiento de piedras y balas, apertura de pared, compuerta mecánica, entre otros, ampliable con playmobil pared con catapulta (9839)
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P8P6NYP/?tag=tolees-21)
