@@ -29,7 +29,7 @@ Ahora mismo tienes [PLAYMOBIL- Special Plus Especial Niña con Pony  Multicolor 
 🔎:
 
 - Niño con pony y accesorios para adornar
-- Figura con animales y accesorios
 - Material: plástico
+- Figura con animales y accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JKWPRSC/?tag=tolees-21)
