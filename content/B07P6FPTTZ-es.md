@@ -28,8 +28,8 @@ Está [PLAYMOBIL - 1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P
 
 ℹ️:
 
-- Con función basculante
 - Desarrolla la imaginación y la creatividad
+- Con función basculante
 - Camión de basura con volquete y accesorios
 - Transporte los bloques de construcción junto con la trabajadora de la construcción
 
