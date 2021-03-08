@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - 1.2.3 Camión de Construcción al 36.61 % de descuento'
-date: 2021-02-23 09:46:23
+date: 2021-03-08 13:27:09
 image: 'https://m.media-amazon.com/images/I/51YtnboIq0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21'
 descuento: '36.61'
-average: '16.0044897959184'
+average: '15.9709803921569'
 ---
 
 Está [PLAYMOBIL - 1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21) con 36.61 de descuento por 15.15 EUR (original: 23.9 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [PLAYMOBIL - 1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P
 ℹ️:
 
 - Con función basculante
-- Camión de basura con volquete y accesorios
 - Desarrolla la imaginación y la creatividad
+- Camión de basura con volquete y accesorios
 - Transporte los bloques de construcción junto con la trabajadora de la construcción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21)
