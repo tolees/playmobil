@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL- Special Plus Especial Pescador  Color carbón  70
 
 🔎:
 
+- Incluye una figura y varios accesorios
 - Incluye silla, caja, peces y caña de pescar
 - Contiene 17 piezas
-- Incluye una figura y varios accesorios
 - Desarrolla la imaginación y la creatividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLFLCBK/?tag=tolees-21)
