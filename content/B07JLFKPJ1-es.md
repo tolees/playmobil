@@ -28,10 +28,10 @@ Está [PLAYMOBIL Sand Cubo Flor  A partir de 2 años  70065 ](https://www.amazon
 
 ℹ️:
 
-- Diversión para los pequeños constructores: Cubo Flor de PLAYMOBIL en bonitos colores con figuras y moldes, no contiene piezas individuales que se puedan ingerir
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1 PLAYMOBIL Sand Cubo Flor, Juego de 6 piezas: 1 cubo, 1 figura, 4 accesorios, Material: plástico, LxPxA: 20 x 19 x 18 cm, 70065
-- Cubo grande con forma de flor (capacidad aprox. 1 l) con pala de hoja, flor flotante, tamiz de cáliz y asa para transportar
 - Juego de figuras para niños a partir de 2 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para los pequeños constructores: Cubo Flor de PLAYMOBIL en bonitos colores con figuras y moldes, no contiene piezas individuales que se puedan ingerir
+- Cubo grande con forma de flor (capacidad aprox. 1 l) con pala de hoja, flor flotante, tamiz de cáliz y asa para transportar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JLFKPJ1/?tag=tolees-21)
