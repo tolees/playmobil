@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun Mini Golf al 15.91 % de descuento'
-date: 2021-03-01 19:06:27
+date: 2021-03-11 00:36:09
 image: 'https://m.media-amazon.com/images/I/51SHi58j1IL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JMCC3D1/?tag=tolees-21'
 descuento: '15.91'
-average: '11.9988888888889'
+average: '12.0954545454545'
 ---
 
 Está [PLAYMOBIL Family Fun Mini Golf](https://www.amazon.es/dp/B07JMCC3D1/?tag=tolees-21) con 15.91 de descuento por 12.53 EUR (original: 14.9 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [PLAYMOBIL Family Fun Mini Golf](https://www.amazon.es/dp/B07JMCC3D1/?tag=
 
 ℹ️:
 
-- El campo de minigolf ofrece variedad de opciones de juego
-- Juego individual o en grupo
 - Desarrolla la imaginación y la creatividad
+- El campo de minigolf ofrece variedad de opciones de juego
 - Contiene 46 piezas
+- Juego individual o en grupo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JMCC3D1/?tag=tolees-21)
