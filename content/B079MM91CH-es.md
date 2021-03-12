@@ -28,8 +28,8 @@ Está [Playmobil - Space Cohete con Plataforma de Lanzamiento  Multicolor  9488 
 
 ℹ️:
 
-- Contenido: 1 PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, Juego de 113 piezas con instrucciones: 1 Cohete, 3 figuras, 109 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 22x28x72 cm, 9488
 - Original plataforma de lanzamiento, Plataforma de mantenimiento móvil, Cápsula espacial extraíble acoplable a la Estación de Marte 9487, Ampliable con el Satélite con Láser para los Meteoritos (9490)
+- Contenido: 1 PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, Juego de 113 piezas con instrucciones: 1 Cohete, 3 figuras, 109 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 22x28x72 cm, 9488
 - Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para los pequeños astronautas: PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, figuras y numerosos accesorios, así como efectos de luz y sonido

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1.2.3 Avión con Pasajero  Colo al 38.52 % de rebaja'
-date: 2021-03-10 14:43:58
+date: 2021-03-12 18:27:34
 image: 'https://m.media-amazon.com/images/I/51yX3+HL2+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JMD4QMJ/?tag=tolees-21'
 descuento: '38.52'
-average: '12.92'
+average: '12.7625'
 ---
 
 Tienes [PLAYMOBIL 1.2.3 Avión con Pasajero  Color carbón  70185 ](https://www.amazon.es/dp/B07JMD4QMJ/?tag=tolees-21) con precio final de  12.29 EUR (original: 19.99 EUR) (38.52 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL 1.2.3 Avión con Pasajero  Color carbón  70185 ](https://www.
 
 🔎:
 
-- Incluye dos figuras y accesorios
 - Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y accesorios
 - Despega como piloto y lleva a tu pasajero a la ciudad
 - Avión para cargar y descargar
 
