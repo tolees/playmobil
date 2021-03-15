@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL - Pirata y Soldado](https://www.amazon.es/dp/B0829KDTSH/?tag=t
 
 🔎:
 
+- Juegos de construcción
+- Juegos de construcción
 - Plástico
-- Juegos de construcción
-- Juegos de construcción
 - Marca Playmobil
 - Juegos de construcción
 
