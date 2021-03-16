@@ -5,7 +5,7 @@ date: 2020-04-07 13:14:11
 image: 'https://m.media-amazon.com/images/I/51KfwE44ifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ATBWC64-es Playmobil Maletín Moda 5652'
 sku: 'B01ATBWC64-es'
 tags: [ 'playmobil', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 19:15:35
 image: 'https://m.media-amazon.com/images/I/51GW0VWaleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B138PQU-es PLAYMOBIL Piratas Playset 5655'
 sku: 'B01B138PQU-es'
 tags: [ 'playmobil', ]

@@ -5,7 +5,7 @@ date: 2020-03-18 21:35:15
 image: 'https://m.media-amazon.com/images/I/512m5L7-OfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EKBD0XS-es PLAYMOBIL - Vestidor de Princesas 6850'
 sku: 'B01EKBD0XS-es'
 tags: [ 'playmobil', ]

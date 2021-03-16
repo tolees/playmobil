@@ -5,7 +5,7 @@ date: 2020-04-14 08:22:18
 image: 'https://m.media-amazon.com/images/I/51hoM7lNsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EKBCUB6-es Playmobil Crucero-6980 Playset Multicolor Miscelanea 6980'
 sku: 'B01EKBCUB6-es'
 tags: [ 'playmobil', ]

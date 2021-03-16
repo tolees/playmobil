@@ -5,7 +5,7 @@ date: 2020-01-22 09:07:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lBAN5dGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWT6O7E-es PLAYMOBIL- Todoterreno con Piratas del Hielo única 9059'
 sku: 'B01LWT6O7E-es'
 tags: [ 'playmobil-', ]

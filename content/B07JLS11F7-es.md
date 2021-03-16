@@ -5,7 +5,7 @@ date: 2020-10-08 09:24:47
 image: 'https://m.media-amazon.com/images/I/61zHrMiJKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11F7-es Playmobil 70033 Starter Pack Starter Pack Caballito de mar...'
 sku: 'B07JLS11F7-es'
 tags: [ 'playmobil', ]

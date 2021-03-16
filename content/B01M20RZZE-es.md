@@ -5,7 +5,7 @@ date: 2020-04-05 21:17:27
 image: 'https://m.media-amazon.com/images/I/51K9MPixFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
 sku: 'B01M20RZZE-es'
 tags: [ 'playmobil', ]

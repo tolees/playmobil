@@ -5,7 +5,7 @@ date: 2020-05-29 09:10:12
 image: 'https://m.media-amazon.com/images/I/51ZyOFBWMML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD55P7-es PLAYMOBIL- HIPO y Astrid Juguete Multicolor Dimensions:...'
 sku: 'B07JMD55P7-es'
 tags: [ 'playmobil-', ]

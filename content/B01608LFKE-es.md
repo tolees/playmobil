@@ -5,7 +5,7 @@ date: 2020-04-18 02:03:03
 image: 'https://m.media-amazon.com/images/I/51FNNkBdxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01608LFKE-es PLAYMOBIL Especiales Plus- DJ Figura con Accesorios...'
 sku: 'B01608LFKE-es'
 tags: [ 'playmobil', ]

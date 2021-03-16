@@ -5,7 +5,7 @@ date: 2020-02-11 08:09:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j-dMpAd-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYFU5AP-es PLAYMOBIL 1.2.3- Huevo de Dinosaurio única 9121'
 sku: 'B01LYFU5AP-es'
 tags: [ 'playmobil', ]

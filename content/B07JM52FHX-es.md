@@ -5,7 +5,7 @@ date: 2020-01-28 13:25:58
 image: 'https://m.media-amazon.com/images/I/51U+a7+O9VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM52FHX-es Playmobil 70138 Country Mobiles Gallinas hogar Multicolor'
 sku: 'B07JM52FHX-es'
 tags: [ 'playmobil', ]

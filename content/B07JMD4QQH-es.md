@@ -5,7 +5,7 @@ date: 2020-04-07 05:19:01
 image: 'https://m.media-amazon.com/images/I/51vLRpotdnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD4QQH-es PLAYMOBIL Magic Salón de Belleza con Joya A partir de 4...'
 sku: 'B07JMD4QQH-es'
 tags: [ 'playmobil', ]

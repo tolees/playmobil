@@ -5,7 +5,7 @@ date: 2020-02-13 14:54:30
 image: 'https://m.media-amazon.com/images/I/51jtGMcuCCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKRTK-es PLAYMOBIL- Maricela con Bicicleta Juguete Multicolor...'
 sku: 'B07JLFKRTK-es'
 tags: [ 'playmobil-', ]

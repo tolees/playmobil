@@ -5,7 +5,7 @@ date: 2020-08-27 07:42:00
 image: 'https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08175KBLK-es PLAYMOBIL Pirates - Carabela a partir de 5 Años 70412'
 sku: 'B08175KBLK-es'
 tags: [ 'playmobil', ]

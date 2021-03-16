@@ -5,7 +5,7 @@ date: 2020-02-05 12:24:03
 image: 'https://m.media-amazon.com/images/I/51bhqtrBB0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4E2K0Q-es PLAYMOBIL - Flamencos 6651'
 sku: 'B00O4E2K0Q-es'
 tags: [ 'playmobil', ]

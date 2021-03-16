@@ -5,7 +5,7 @@ date: 2020-04-08 06:09:25
 image: 'https://m.media-amazon.com/images/I/41QM75yBFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP76T2V-es Playmobil - Llavero Policia - Plateado - Hombres - Talla...'
 sku: 'B06WP76T2V-es'
 tags: [ 'playmobil', ]

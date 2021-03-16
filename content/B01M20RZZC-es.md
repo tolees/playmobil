@@ -5,7 +5,7 @@ date: 2020-01-30 23:32:36
 image: 'https://m.media-amazon.com/images/I/51NYgs2D4LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M20RZZC-es PLAYMOBIL 1.2.3-9119 Isla Pirata Multicolor única 9119'
 sku: 'B01M20RZZC-es'
 tags: [ 'playmobil', ]

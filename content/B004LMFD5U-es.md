@@ -5,7 +5,7 @@ date: 2020-04-03 13:22:00
 image: 'https://m.media-amazon.com/images/I/51rrZFwfQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LMFD5U-es PLAYMOBIL Oeste - Diligencia 4399'
 sku: 'B004LMFD5U-es'
 tags: [ 'playmobil', ]

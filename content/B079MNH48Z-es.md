@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:14
 image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MNH48Z-es Playmobil- Trineo con Pareja Real Set Juguetes Multicolor...'
 sku: 'B079MNH48Z-es'
 tags: [ 'playmobil-', ]

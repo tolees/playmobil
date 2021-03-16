@@ -5,7 +5,7 @@ date: 2020-06-01 09:15:52
 image: 'https://m.media-amazon.com/images/I/51K-wq40LIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WCZCTQY-es Cómo entrenar a tu dragón-Eret con Ballesta de 4 Disparos...'
 sku: 'B06WCZCTQY-es'
 tags: [ 'playmobil', ]

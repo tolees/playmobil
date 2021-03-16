@@ -5,7 +5,7 @@ date: 2020-04-16 18:28:49
 image: 'https://m.media-amazon.com/images/I/51pb9G20RlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPF7KO2-es PLAYMOBIL 1.2.3 - 1.2.3 Tren con Vías 6880'
 sku: 'B01BPF7KO2-es'
 tags: [ 'playmobil', ]

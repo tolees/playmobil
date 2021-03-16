@@ -5,7 +5,7 @@ date: 2020-10-01 13:46:57
 image: 'https://m.media-amazon.com/images/I/51KyMCwPBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07668RPWD-es PLAYMOBIL 1.2.3 Comisaría Policía Maletín a Partir de 1.5...'
 sku: 'B07668RPWD-es'
 tags: [ 'playmobil', ]

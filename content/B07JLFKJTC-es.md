@@ -5,7 +5,7 @@ date: 2020-03-12 10:44:58
 image: 'https://m.media-amazon.com/images/I/41IJjs7KzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKJTC-es Playmobil 70090 Family Fun Agua Deportes de Escuela...'
 sku: 'B07JLFKJTC-es'
 tags: [ 'playmobil', ]

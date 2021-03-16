@@ -5,7 +5,7 @@ date: 2020-10-07 21:43:41
 image: 'https://m.media-amazon.com/images/I/51x7oVqm65L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N1NV2Y-es PLAYMOBIL City Life Colegio a Partir de 5 Años 9453'
 sku: 'B079N1NV2Y-es'
 tags: [ 'playmobil', ]

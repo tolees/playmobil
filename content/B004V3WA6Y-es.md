@@ -5,7 +5,7 @@ date: 2020-01-31 22:51:48
 image: 'https://m.media-amazon.com/images/I/61myN680pyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004V3WA6Y-es PLAYMOBIL City Action - Furgón de policía 626563'
 sku: 'B004V3WA6Y-es'
 tags: [ 'playmobil', ]

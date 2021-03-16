@@ -5,7 +5,7 @@ date: 2020-02-05 03:47:45
 image: 'https://m.media-amazon.com/images/I/51N1zb2FdLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11MT-es PLAYMOBIL- Fiures Niño S16 Juguete Multicolor geobra...'
 sku: 'B07JLS11MT-es'
 tags: [ 'playmobil-', ]

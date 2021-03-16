@@ -5,7 +5,7 @@ date: 2020-09-14 01:46:05
 image: 'https://m.media-amazon.com/images/I/51oowXH-raL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3MJXK1-es PLAYMOBIL- Maletín Grande Picnic Familiar única 9103'
 sku: 'B01N3MJXK1-es'
 tags: [ 'playmobil-', ]

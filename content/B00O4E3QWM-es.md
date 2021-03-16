@@ -5,7 +5,7 @@ date: 2020-04-18 01:49:46
 image: 'https://m.media-amazon.com/images/I/51uLk2402NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4E3QWM-es PLAYMOBIL- Pirates Cañón Interactivo con Corsario Muñecos...'
 sku: 'B00O4E3QWM-es'
 tags: [ 'playmobil-', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 16:32:09
 image: 'https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11JB-es PLAYMOBIL- Ostereier Huevo Policia con Perro Color carbón...'
 sku: 'B07JLS11JB-es'
 tags: [ 'playmobil-', ]

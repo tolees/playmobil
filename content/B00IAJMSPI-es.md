@@ -5,7 +5,7 @@ date: 2020-08-04 22:57:25
 image: 'https://m.media-amazon.com/images/I/51b152kQOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAJMSPI-es PLAYMOBIL Mansión Moderna Playset Piscina con terraza 5575'
 sku: 'B00IAJMSPI-es'
 tags: [ 'playmobil', ]

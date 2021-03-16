@@ -5,7 +5,7 @@ date: 2020-07-09 17:37:49
 image: 'https://m.media-amazon.com/images/I/61f4F8Gf9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EKG4BM2-es Playmobil Romanos y Egipcios - Legionarios Playset de...'
 sku: 'B01EKG4BM2-es'
 tags: [ 'playmobil', ]

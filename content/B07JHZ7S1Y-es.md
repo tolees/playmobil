@@ -5,7 +5,7 @@ date: 2020-05-22 14:49:00
 image: 'https://m.media-amazon.com/images/I/51la48qfLBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHZ7S1Y-es PLAYMOBIL- Maletín Cocina Juguete Multicolor geobra...'
 sku: 'B07JHZ7S1Y-es'
 tags: [ 'playmobil-', ]

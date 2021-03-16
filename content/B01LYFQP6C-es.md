@@ -5,7 +5,7 @@ date: 2020-07-23 19:10:32
 image: 'https://m.media-amazon.com/images/I/51kXS9Aah+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYFQP6C-es PLAYMOBIL 1.2.3- Ambulancia única 9122'
 sku: 'B01LYFQP6C-es'
 tags: [ 'playmobil', ]

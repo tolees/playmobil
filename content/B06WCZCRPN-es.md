@@ -5,7 +5,7 @@ date: 2020-03-30 05:06:57
 image: 'https://m.media-amazon.com/images/I/61BDxl6JtML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WCZCRPN-es Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras...'
 sku: 'B06WCZCRPN-es'
 tags: [ 'playmobil', ]

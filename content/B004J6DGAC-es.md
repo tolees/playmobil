@@ -5,7 +5,7 @@ date: 2020-08-30 16:02:07
 image: 'https://m.media-amazon.com/images/I/51hEnVEsBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004J6DGAC-es Playmobil- Thief with Safe and Getaway Car Ladrón de Caja...'
 sku: 'B004J6DGAC-es'
 tags: [ 'playmobil-', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 11:20:17
 image: 'https://m.media-amazon.com/images/I/51n3199aW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0E2K9A-es Playmobil Tortuga con Bebés 9071'
 sku: 'B01M0E2K9A-es'
 tags: [ 'playmobil', ]

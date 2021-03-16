@@ -5,7 +5,7 @@ date: 2020-05-18 09:16:26
 image: 'https://m.media-amazon.com/images/I/61XgpKzhdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B47V4RS-es PLAYMOBIL Family Fun Quitanieves A partir de 4 años 9500'
 sku: 'B07B47V4RS-es'
 tags: [ 'playmobil', ]

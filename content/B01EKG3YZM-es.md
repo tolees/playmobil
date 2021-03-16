@@ -5,7 +5,7 @@ date: 2020-04-10 00:25:03
 image: 'https://m.media-amazon.com/images/I/61tFQy2+4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EKG3YZM-es Playmobil - Biga Romana 5391'
 sku: 'B01EKG3YZM-es'
 tags: [ 'playmobil', ]

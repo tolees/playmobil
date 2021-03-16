@@ -5,7 +5,7 @@ date: 2020-04-05 08:45:42
 image: 'https://m.media-amazon.com/images/I/51ZbCTtlSxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4E20QK-es PLAYMOBIL - Duopack Piratas 51640'
 sku: 'B00O4E20QK-es'
 tags: [ 'playmobil', ]
