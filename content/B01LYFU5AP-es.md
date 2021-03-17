@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYFU5AP-es PLAYMOBIL 1.2.3- Huevo de Dinosaurio única 9121'
 sku: 'B01LYFU5AP-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

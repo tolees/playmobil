@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VGQKBIS-es PLAYMOBIL Cofre Caballeros única 5637'
 sku: 'B00VGQKBIS-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08175KBLK-es PLAYMOBIL Pirates - Carabela a partir de 5 Años 70412'
 sku: 'B08175KBLK-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

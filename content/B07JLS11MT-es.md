@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11MT-es PLAYMOBIL- Fiures Niño S16 Juguete Multicolor geobra...'
 sku: 'B07JLS11MT-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

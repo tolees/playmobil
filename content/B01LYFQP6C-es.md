@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYFQP6C-es PLAYMOBIL 1.2.3- Ambulancia única 9122'
 sku: 'B01LYFQP6C-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
 sku: 'B01M20RZZE-es'
-tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29
