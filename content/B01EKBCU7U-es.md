@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKBCU7U-es Playmobil Crucero Playset de Figuras de Juguete Multicolor...'
 sku: 'B01EKBCU7U-es'
-tags: [ 'playmobil', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

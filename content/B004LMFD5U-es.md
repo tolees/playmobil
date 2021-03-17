@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LMFD5U-es PLAYMOBIL Oeste - Diligencia 4399'
 sku: 'B004LMFD5U-es'
-tags: [ 'playmobil', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

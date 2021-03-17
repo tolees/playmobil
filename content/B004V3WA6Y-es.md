@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004V3WA6Y-es PLAYMOBIL City Action - Furgón de policía 626563'
 sku: 'B004V3WA6Y-es'
-tags: [ 'playmobil', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49
