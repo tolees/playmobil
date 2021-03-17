@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD55P7-es PLAYMOBIL- HIPO y Astrid Juguete Multicolor Dimensions:...'
 sku: 'B07JMD55P7-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

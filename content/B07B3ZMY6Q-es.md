@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque A...'
 sku: 'B07B3ZMY6Q-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

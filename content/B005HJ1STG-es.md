@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HJ1STG-es Playmobil 5953 Maletín Conjunto de hospital'
 sku: 'B005HJ1STG-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

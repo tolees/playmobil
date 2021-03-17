@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZC-es PLAYMOBIL 1.2.3-9119 Isla Pirata Multicolor única 9119'
 sku: 'B01M20RZZC-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

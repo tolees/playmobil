@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVQLVJP-es PLAYMOBIL Country Set de Limpieza para Caballos con Bomba...'
 sku: 'B06WVQLVJP-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

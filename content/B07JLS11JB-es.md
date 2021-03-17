@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11JB-es PLAYMOBIL- Ostereier Huevo Policia con Perro Color carbón...'
 sku: 'B07JLS11JB-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0
