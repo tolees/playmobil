@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11JB-es PLAYMOBIL- Ostereier Huevo Policia con Perro Color carbón...'
 sku: 'B07JLS11JB-es'
-tags: [ 'playmobil-', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil-', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

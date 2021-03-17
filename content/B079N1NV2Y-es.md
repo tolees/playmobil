@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N1NV2Y-es PLAYMOBIL City Life Colegio a Partir de 5 Años 9453'
 sku: 'B079N1NV2Y-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

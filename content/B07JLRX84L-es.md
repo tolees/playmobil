@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLRX84L-es Playmobil Top Agents Spy Team Underwater Wing - Sets de...'
 sku: 'B07JLRX84L-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

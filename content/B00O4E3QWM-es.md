@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E3QWM-es PLAYMOBIL- Pirates Cañón Interactivo con Corsario Muñecos...'
 sku: 'B00O4E3QWM-es'
-tags: [ 'playmobil-', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil-', ]
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWT5KBH-es Playmobil Centro Comercial- Cajero Automático Playset de...'
 sku: 'B01LWT5KBH-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

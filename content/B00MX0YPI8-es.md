@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MX0YPI8-es Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle...'
 sku: 'B00MX0YPI8-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

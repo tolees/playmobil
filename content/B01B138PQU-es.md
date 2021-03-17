@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B138PQU-es PLAYMOBIL Piratas Playset 5655'
 sku: 'B01B138PQU-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

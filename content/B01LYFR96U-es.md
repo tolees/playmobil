@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYFR96U-es Playmobil Porsche 911 GT3 Cup 9225'
 sku: 'B01LYFR96U-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD4QQH-es PLAYMOBIL Magic Salón de Belleza con Joya A partir de 4...'
 sku: 'B07JMD4QQH-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

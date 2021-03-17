@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCRPN-es Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras...'
 sku: 'B06WCZCRPN-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 61.45 EUR
 currency: EUR
 price: 61.45
