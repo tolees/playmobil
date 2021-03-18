@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01608LFKE-es PLAYMOBIL Especiales Plus- DJ Figura con Accesorios...'
 sku: 'B01608LFKE-es'
+tags: [ 'playmobil', ]
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

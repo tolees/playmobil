@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3MJXK1-es PLAYMOBIL- Maletín Grande Picnic Familiar única 9103'
 sku: 'B01N3MJXK1-es'
+tags: [ 'playmobil-', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E2K0Q-es PLAYMOBIL - Flamencos 6651'
 sku: 'B00O4E2K0Q-es'
+tags: [ 'playmobil', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

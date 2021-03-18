@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHZ7S1Y-es PLAYMOBIL- Maletín Cocina Juguete Multicolor geobra...'
 sku: 'B07JHZ7S1Y-es'
+tags: [ 'playmobil-', ]
 actualPrice: 12.38 EUR
 currency: EUR
 price: 12.38

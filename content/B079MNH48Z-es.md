@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MNH48Z-es Playmobil- Trineo con Pareja Real Set Juguetes Multicolor...'
 sku: 'B079MNH48Z-es'
+tags: [ 'playmobil-', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKG4BM2-es Playmobil Romanos y Egipcios - Legionarios Playset de...'
 sku: 'B01EKG4BM2-es'
+tags: [ 'playmobil', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

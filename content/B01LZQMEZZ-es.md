@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZQMEZZ-es PLAYMOBIL- Ciclista y Excursionista Juguetes Multicolor 9129'
 sku: 'B01LZQMEZZ-es'
+tags: [ 'playmobil-', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95
