@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07668RPWD-es PLAYMOBIL 1.2.3 Comisaría Policía Maletín a Partir de 1.5...'
 sku: 'B07668RPWD-es'
-tags: [ 'playmobil', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

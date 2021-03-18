@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E20QK-es PLAYMOBIL - Duopack Piratas 51640'
 sku: 'B00O4E20QK-es'
-tags: [ 'playmobil', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

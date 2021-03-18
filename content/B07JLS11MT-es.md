@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11MT-es PLAYMOBIL- Fiures Niño S16 Juguete Multicolor geobra...'
 sku: 'B07JLS11MT-es'
-tags: [ 'playmobil-', ]
+tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil-', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08
