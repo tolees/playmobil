@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKG3YZM-es Playmobil - Biga Romana 5391'
 sku: 'B01EKG3YZM-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

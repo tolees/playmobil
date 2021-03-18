@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCRPN-es Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras...'
 sku: 'B06WCZCRPN-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 61.45 EUR
 currency: EUR
 price: 61.45

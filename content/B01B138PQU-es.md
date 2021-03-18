@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B138PQU-es PLAYMOBIL Piratas Playset 5655'
 sku: 'B01B138PQU-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Embarcación de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65
