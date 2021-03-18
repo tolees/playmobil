@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WP76T2V-es Playmobil - Llavero Policia - Plateado - Hombres - Talla...'
 sku: 'B06WP76T2V-es'
-tags: [ 'playmobil', ]
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 55.5 EUR
 currency: EUR
 price: 55.5

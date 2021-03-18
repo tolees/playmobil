@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFKRTK-es PLAYMOBIL- Maricela con Bicicleta Juguete Multicolor...'
 sku: 'B07JLFKRTK-es'
-tags: [ 'playmobil-', ]
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil-', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

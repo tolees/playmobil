@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ATBWC64-es Playmobil Maletín Moda 5652'
 sku: 'B01ATBWC64-es'
-tags: [ 'playmobil', ]
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6
