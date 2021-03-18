@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0E2K9A-es Playmobil Tortuga con Bebés 9071'
 sku: 'B01M0E2K9A-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

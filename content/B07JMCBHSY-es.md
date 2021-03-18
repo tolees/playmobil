@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCBHSY-es PLAYMOBIL- Patán Mocoso con Traje Volador Juguete...'
 sku: 'B07JMCBHSY-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6
