@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMD4QMJ-es PLAYMOBIL 1.2.3 Avión con Pasajero Color carbón 70185'
 sku: 'B07JMD4QMJ-es'
-tags: [ 'playmobil', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

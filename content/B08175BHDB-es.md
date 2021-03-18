@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08175BHDB-es Playmobil Everdreamerz Candy World - Viona a Partir de 7...'
 sku: 'B08175BHDB-es'
-tags: [ 'playmobil', ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

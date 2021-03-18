@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYFSJ2S-es PLAYMOBIL- Familia de Pelícanos 9070'
 sku: 'B01LYFSJ2S-es'
-tags: [ 'playmobil-', ]
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

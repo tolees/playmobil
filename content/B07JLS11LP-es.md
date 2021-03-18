@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLS11LP-es Playmobil - Ghostbusters Juego con Set de Figuras...'
 sku: 'B07JLS11LP-es'
-tags: [ 'playmobil', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

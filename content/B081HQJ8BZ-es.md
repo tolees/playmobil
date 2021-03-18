@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HQJ8BZ-es PLAYMOBIL- EverDreamerz 70472 Rosalee - Comic World con...'
 sku: 'B081HQJ8BZ-es'
-tags: [ 'playmobil','playmobil-', ]
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

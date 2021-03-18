@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IF1VYII-es PLAYMOBIL Guardería - Mamá con Carrito de Gemelos playset...'
 sku: 'B00IF1VYII-es'
-tags: [ 'playmobil', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

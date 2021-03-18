@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767CKP9M-es Playmobil Playmofriends-9339 Muñecos y Figuras Multicolor...'
 sku: 'B0767CKP9M-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil','playmobil playmofriends', ]
 actualPrice: 2.87 EUR
 currency: EUR
 price: 2.87

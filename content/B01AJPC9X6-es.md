@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AJPC9X6-es PLAYMOBIL City Action Comisaría de Policía con Prisión a...'
 sku: 'B01AJPC9X6-es'
-tags: [ 'playmobil', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

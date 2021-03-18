@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCBHSF-es PLAYMOBIL DreamWorks Dragons Furia Diurna y Bebé Dragón...'
 sku: 'B07JMCBHSF-es'
-tags: [ 'playmobil', ]
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

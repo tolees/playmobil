@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MNQTNZ-es PLAYMOBIL City Action Camión de Bomberos con Luces y...'
 sku: 'B079MNQTNZ-es'
-tags: [ 'playmobil', ]
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

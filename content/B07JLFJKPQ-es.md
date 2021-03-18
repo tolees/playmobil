@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFJKPQ-es PLAYMOBIL Family Fun Caravana de Verano A partir de 4 años...'
 sku: 'B07JLFJKPQ-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

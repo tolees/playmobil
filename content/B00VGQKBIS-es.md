@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VGQKBIS-es PLAYMOBIL Cofre Caballeros única 5637'
 sku: 'B00VGQKBIS-es'
-tags: [ 'playmobil', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

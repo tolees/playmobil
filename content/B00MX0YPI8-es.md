@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MX0YPI8-es Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle...'
 sku: 'B00MX0YPI8-es'
-tags: [ 'playmobil', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

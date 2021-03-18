@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HQ5NBV-es PLAYMOBIL SCOOBY-DOO! 70364 Aventura en el Salvaje Oeste A...'
 sku: 'B081HQ5NBV-es'
-tags: [ 'playmobil', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JM55RQS-es PLAYMOBIL- Special Plus Especial Niños Bici y Patines...'
 sku: 'B07JM55RQS-es'
-tags: [ 'playmobil-', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

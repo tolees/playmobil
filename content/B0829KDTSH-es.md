@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0829KDTSH-es PLAYMOBIL - Pirata y Soldado'
 sku: 'B0829KDTSH-es'
-tags: [ 'playmobil', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

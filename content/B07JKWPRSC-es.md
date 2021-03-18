@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JKWPRSC-es PLAYMOBIL- Special Plus Especial Niña con Pony Multicolor...'
 sku: 'B07JKWPRSC-es'
-tags: [ 'playmobil-', ]
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

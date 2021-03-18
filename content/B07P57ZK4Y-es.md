@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P57ZK4Y-es PLAYMOBIL Novelmore 70229 Ballestero con Lobo Novelmore...'
 sku: 'B07P57ZK4Y-es'
-tags: [ 'playmobil', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

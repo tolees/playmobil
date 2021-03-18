@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCC3D1-es PLAYMOBIL Family Fun Mini Golf'
 sku: 'B07JMCC3D1-es'
-tags: [ 'playmobil', ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

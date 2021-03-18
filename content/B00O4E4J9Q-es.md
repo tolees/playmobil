@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4E4J9Q-es PLAYMOBIL- Summer Fun Juego Avión de Vacaciones Multicolor...'
 sku: 'B00O4E4J9Q-es'
-tags: [ 'playmobil-', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

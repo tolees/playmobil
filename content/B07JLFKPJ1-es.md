@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFKPJ1-es PLAYMOBIL Sand Cubo Flor A partir de 2 años 70065'
 sku: 'B07JLFKPJ1-es'
-tags: [ 'playmobil', ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

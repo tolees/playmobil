@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ATBW8T0-es PLAYMOBIL City Action Maletín Bomberos con Bomba de Agua...'
 sku: 'B01ATBW8T0-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 7.11 EUR
 currency: EUR
 price: 7.11

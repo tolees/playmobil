@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MM91CH-es Playmobil - Space Cohete con Plataforma de Lanzamiento...'
 sku: 'B079MM91CH-es'
-tags: [ 'playmobil', ]
 actualPrice: 55.35 EUR
 currency: EUR
 price: 55.35

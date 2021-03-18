@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVPC1VC-es PLAYMOBIL Country Transporte de Caballo con Holstein y...'
 sku: 'B06WVPC1VC-es'
-tags: [ 'playmobil', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

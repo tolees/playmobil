@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JKWPRSS-es PLAYMOBIL - Astrid con Globoglob'
 sku: 'B07JKWPRSS-es'
-tags: [ 'playmobil', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

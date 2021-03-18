@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W5Q8PLW-es PLAYMOBIL Agentes Secretos- Agentes Secretos-Centro de...'
 sku: 'B06W5Q8PLW-es'
-tags: [ 'playmobil', ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

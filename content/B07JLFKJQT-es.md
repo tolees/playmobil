@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFKJQT-es Playmobil - City Life Playset Ambulancia con Luces...'
 sku: 'B07JLFKJQT-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

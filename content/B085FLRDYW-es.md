@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FLRDYW-es PLAYMOBIL 70632 Ataque del T-Rex Multicolor'
 sku: 'B085FLRDYW-es'
-tags: [ 'playmobil', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

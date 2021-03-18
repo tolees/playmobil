@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079N4MPFR-es PLAYMOBIL City Action Parque de Bomberos con Efectos de...'
 sku: 'B079N4MPFR-es'
-tags: [ 'playmobil', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

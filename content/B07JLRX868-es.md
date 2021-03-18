@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLRX868-es Playmobil - Starterpack Consulta Pediatra Multicolor 70034'
 sku: 'B07JLRX868-es'
-tags: [ 'playmobil', ]
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

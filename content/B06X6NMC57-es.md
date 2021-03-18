@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6NMC57-es Playmobil - City Life Playset Fiesta en el Jardín...'
 sku: 'B06X6NMC57-es'
-tags: [ 'playmobil', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

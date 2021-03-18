@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCC38B-es PLAYMOBIL DreamWorks Dragons Aguijón Venenoso y Crimmel a...'
 sku: 'B07JMCC38B-es'
-tags: [ 'playmobil', ]
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

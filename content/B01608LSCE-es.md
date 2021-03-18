@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01608LSCE-es Playmobil Vida Salvaje - Camión con Elefante 6937'
 sku: 'B01608LSCE-es'
-tags: [ 'playmobil', ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

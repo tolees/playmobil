@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LTHZP16-es PLAYMOBIL City Action Helicóptero de Policía con Luces LED...'
 sku: 'B01LTHZP16-es'
-tags: [ 'playmobil', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

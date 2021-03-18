@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MQD3G6-es PLAYMOBIL City Action Todoterreno con Efectos de Luz y...'
 sku: 'B079MQD3G6-es'
-tags: [ 'playmobil', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

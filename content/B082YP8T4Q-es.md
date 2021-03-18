@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YP8T4Q-es PLAYMOBIL- Juguete Multicolor 70267'
 sku: 'B082YP8T4Q-es'
-tags: [ 'playmobil-', ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

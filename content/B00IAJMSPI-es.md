@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IAJMSPI-es PLAYMOBIL Mansión Moderna Playset Piscina con terraza 5575'
 sku: 'B00IAJMSPI-es'
-tags: [ 'playmobil', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

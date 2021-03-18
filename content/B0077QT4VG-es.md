@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0077QT4VG-es PLAYMOBIL Dollhouse Casa de Muñecas Maletín A partir de 4...'
 sku: 'B0077QT4VG-es'
-tags: [ 'playmobil', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

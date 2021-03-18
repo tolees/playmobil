@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8P8YDC-es PLAYMOBIL Dollhouse 70209 Habitación Adolescente A Partir...'
 sku: 'B07P8P8YDC-es'
-tags: [ 'playmobil', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

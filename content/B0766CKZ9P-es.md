@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CKZ9P-es PLAYMOBIL City Life Hotel de Mascotas a Partir de 4 Años 9275'
 sku: 'B0766CKZ9P-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 53.21 EUR
 currency: EUR
 price: 53.21

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6FPTTZ-es PLAYMOBIL - 1.2.3 Camión de Construcción'
 sku: 'B07P6FPTTZ-es'
-tags: [ 'playmobil', ]
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMD4SSM-es Playmobil - Magic Rey del Mar con Carruaje de Tiburón...'
 sku: 'B07JMD4SSM-es'
-tags: [ 'playmobil', ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

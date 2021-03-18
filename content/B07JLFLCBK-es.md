@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFLCBK-es PLAYMOBIL- Special Plus Especial Pescador Color carbón 70063'
 sku: 'B07JLFLCBK-es'
-tags: [ 'playmobil-', ]
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

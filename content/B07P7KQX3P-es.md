@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7KQX3P-es PLAYMOBIL Dollhouse 70210 Baño A Partir de 4 años'
 sku: 'B07P7KQX3P-es'
-tags: [ 'playmobil', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

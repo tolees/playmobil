@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FL9B1-es PLAYMOBIL Novelmore Fortaleza de los Bandidos de Burnham...'
 sku: 'B07P6FL9B1-es'
-tags: [ 'playmobil', ]
 actualPrice: 108.93 EUR
 currency: EUR
 price: 108.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0829KLW4X-es PLAYMOBIL - Set Princesas'
 sku: 'B0829KLW4X-es'
-tags: [ 'playmobil', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

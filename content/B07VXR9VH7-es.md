@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXR9VH7-es PLAYMOBIL - Novelmore Fortaleza Multicolor 70222'
 sku: 'B07VXR9VH7-es'
-tags: [ 'playmobil', ]
 actualPrice: 70.3 EUR
 currency: EUR
 price: 70.3

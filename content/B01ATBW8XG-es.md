@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ATBW8XG-es PLAYMOBIL Policía- Caso de Transporte de la Policía...'
 sku: 'B01ATBW8XG-es'
-tags: [ 'playmobil', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

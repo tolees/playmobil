@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM52FHX-es Playmobil 70138 Country Mobiles Gallinas hogar Multicolor'
 sku: 'B07JM52FHX-es'
-tags: [ 'playmobil', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89
