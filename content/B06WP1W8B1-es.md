@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL DreamWorks Dragons Astrid y To al 21.39 % de descuento'
-date: 2021-03-24 19:10:31
+date: 2021-03-27 23:54:33
 image: 'https://m.media-amazon.com/images/I/51h1Y23-lpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B06WP1W8B1/?tag=tolees-21'
 descuento: '21.39'
-average: '26.4904878048781'
+average: '26.3595238095239'
 ---
 
 Está [PLAYMOBIL DreamWorks Dragons Astrid y Tormenta  A partir de 4 años  9247 ](https://www.amazon.es/dp/B06WP1W8B1/?tag=tolees-21) con 21.39 de descuento por 20.99 EUR (original: 26.7 EUR) en el siguiente enlace!
