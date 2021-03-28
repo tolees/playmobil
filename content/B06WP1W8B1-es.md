@@ -29,9 +29,9 @@ Está [PLAYMOBIL DreamWorks Dragons Astrid y Tormenta  A partir de 4 años  9247
 ℹ️:
 
 - Sillín desmontable, doble hacha, posibilidad de volar de pie y sentada, entre otros, ampliable con Hipo y Desdentao con bebé dragón (70037)
-- Contenido: 1 DreamWorks Dragons Astrid y Tormenta, Juego de 11 piezas con instrucciones: 1 figura, 1 dragón, 9 accesorios, Material: plástico, LxPxA: 30x25x18 cm, 9247
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Diversión para pequeños aventureros: DreamWorks Dragons Astrid y Tormenta con alas, mandíbula y patas móviles, ropa y accesorios vikingos
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1 DreamWorks Dragons Astrid y Tormenta, Juego de 11 piezas con instrucciones: 1 figura, 1 dragón, 9 accesorios, Material: plástico, LxPxA: 30x25x18 cm, 9247
+- Diversión para pequeños aventureros: DreamWorks Dragons Astrid y Tormenta con alas, mandíbula y patas móviles, ropa y accesorios vikingos
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WP1W8B1/?tag=tolees-21)
