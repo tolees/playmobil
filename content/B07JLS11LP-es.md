@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Ghostbusters Juego con Set d al 27.73 % de descuento'
-date: 2021-04-01 19:00:47
+date: 2021-04-05 12:07:27
 image: 'https://m.media-amazon.com/images/I/51WhL4D-F5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JLS11LP/?tag=tolees-21'
 descuento: '27.73'
-average: '14.8082051282051'
+average: '14.8355'
 ---
 
 Está [Playmobil - Ghostbusters Juego con Set de Figuras  Multicolor  70175 ](https://www.amazon.es/dp/B07JLS11LP/?tag=tolees-21) con 27.73 de descuento por 15.9 EUR (original: 22.0 EUR) en el siguiente enlace!
