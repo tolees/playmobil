@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Space Cohete con Plataforma  al 16.14 % de descuento'
-date: 2021-04-04 13:51:07
+date: 2021-04-06 01:00:26
 image: 'https://m.media-amazon.com/images/I/51QZL0-IqvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079MM91CH/?tag=tolees-21'
 descuento: '16.14'
-average: '55.6989393939393'
+average: '55.6971859296481'
 ---
 
 Está [Playmobil - Space Cohete con Plataforma de Lanzamiento  Multicolor  9488 ](https://www.amazon.es/dp/B079MM91CH/?tag=tolees-21) con 16.14 de descuento por 55.35 EUR (original: 66.0 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [Playmobil - Space Cohete con Plataforma de Lanzamiento  Multicolor  9488 
 ℹ️:
 
 - Contenido: 1 PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, Juego de 113 piezas con instrucciones: 1 Cohete, 3 figuras, 109 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 22x28x72 cm, 9488
-- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para los pequeños astronautas: PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, figuras y numerosos accesorios, así como efectos de luz y sonido
 - Original plataforma de lanzamiento, Plataforma de mantenimiento móvil, Cápsula espacial extraíble acoplable a la Estación de Marte 9487, Ampliable con el Satélite con Láser para los Meteoritos (9490)
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para los pequeños astronautas: PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, figuras y numerosos accesorios, así como efectos de luz y sonido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079MM91CH/?tag=tolees-21)
