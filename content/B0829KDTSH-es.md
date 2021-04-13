@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'PLAYMOBIL - Pirata y Soldado al 60.93 % de rebaja'
-date: 2021-03-15 01:33:19
-image: 'https://m.media-amazon.com/images/I/5117oPPV-rL._SL400_.jpg'
+title: 'PLAYMOBIL - Pirata y Soldado al 32.01 % de rebaja'
+date: 2021-04-13 07:30:29
+image: 'https://m.media-amazon.com/images/I/5117oPPV-rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829KDTSH-es PLAYMOBIL - Pirata y Soldado'
 sku: 'B0829KDTSH-es'
-actualPrice: 4.95 EUR
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil', ]
+actualPrice: 5.99 EUR
 currency: EUR
-price: 4.95
-comparePrice: 12.67 EUR
+price: 5.99
+comparePrice: 8.81 EUR
 prodname: 'PLAYMOBIL - Pirata y Soldado'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829KDTSH/?tag=tolees-21'
-descuento: '60.93'
-average: '4.95'
+descuento: '32.01'
+average: '5.29666666666667'
 ---
 
-Tienes [PLAYMOBIL - Pirata y Soldado](https://www.amazon.es/dp/B0829KDTSH/?tag=tolees-21) con precio final de  4.95 EUR (original: 12.67 EUR) (60.93 %  de rebaja) aqui!
+Tienes [PLAYMOBIL - Pirata y Soldado](https://www.amazon.es/dp/B0829KDTSH/?tag=tolees-21) con precio final de  5.99 EUR (original: 8.81 EUR) (32.01 %  de rebaja) aqui!
 
-[![PLAYMOBIL - Pirata y Soldado](https://m.media-amazon.com/images/I/5117oPPV-rL._SL400_.jpg)](https://www.amazon.es/dp/B0829KDTSH/?tag=tolees-21)
+[![PLAYMOBIL - Pirata y Soldado](https://m.media-amazon.com/images/I/5117oPPV-rL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0829KDTSH/?tag=tolees-21)
 
 🔎:
 
