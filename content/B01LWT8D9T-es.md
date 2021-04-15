@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL Especiales Plus-9097 Pastelera  Multicolor  9097 ](https://www
 
 🔎:
 
-- Figura pastelera
 - Mostrador con soporte para colocar la tarta y los donuts y cuchara para servir
-- Incluye varios accesorios
 - Desarrolla la imaginación y la creatividad
+- Incluye varios accesorios
+- Figura pastelera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LWT8D9T/?tag=tolees-21)
