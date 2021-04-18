@@ -29,9 +29,9 @@ En este momento está [PLAYMOBIL Agentes Secretos- Agentes Secretos-Centro de Ma
 🔎:
 
 - Incluye dos figuras.
-- Dimensiones aprox. 27x20x16 cm (LxPxA).
-- Con doble plataforma de aterrizaje para los dos drones.
-- Los drones disponen de brazos móviles y con herramientas intercambiables. Además, disparan.
 - El centro de mando se abre y cierra
+- Dimensiones aprox. 27x20x16 cm (LxPxA).
+- Los drones disponen de brazos móviles y con herramientas intercambiables. Además, disparan.
+- Con doble plataforma de aterrizaje para los dos drones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06W5Q8PLW/?tag=tolees-21)
