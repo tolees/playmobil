@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Playmobil- Trineo con Pareja Real Set Ju con un 35.35 % de descuento'
-date: 2020-09-05 06:55:14
-image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg'
+title: 'Playmobil- Trineo con Pareja Real Set Ju con un 22.24 % de descuento'
+date: 2021-04-19 07:29:41
+image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B079MNH48Z-es Playmobil- Trineo con Pareja Real Set Juguetes Multicolor...'
 sku: 'B079MNH48Z-es'
-tags: [ 'playmobil-', ]
-actualPrice: 10.99 EUR
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil','playmobil-', ]
+actualPrice: 13.22 EUR
 currency: EUR
-price: 10.99
+price: 13.22
 comparePrice: 17.0 EUR
 prodname: 'Playmobil- Trineo con Pareja Real Set Juguetes  Multicolor  geobra Brandstätter 9474 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21'
-descuento: '35.35'
-average: '12.96'
+descuento: '22.24'
+average: '13.025'
 ---
 
-En este momento está [Playmobil- Trineo con Pareja Real Set Juguetes  Multicolor  geobra Brandstätter 9474 ](https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21) a 10.99 EUR (original: 17.0 EUR) (35.35 %  de descuento) en el siguiente enlace!
+En este momento está [Playmobil- Trineo con Pareja Real Set Juguetes  Multicolor  geobra Brandstätter 9474 ](https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21) a 13.22 EUR (original: 17.0 EUR) (22.24 %  de descuento) en el siguiente enlace!
 
-[![Playmobil- Trineo con Pareja Real Set Ju](https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg)](https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21)
+[![Playmobil- Trineo con Pareja Real Set Ju](https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21)
 
 🔎:
 
+- Rey y reina del mundo invernal de la princesa Finya, Noble caballo blanco con arnés extraíble, Trineo apto para 2 figuras
+- Contenido: 1 PLAYMOBIL Magic Trineo con Pareja Real, Juego de 28 piezas con instrucciones: 2 figuras, 26 accesorios, Material: plástico, LxPxA: 376 x 193 x 258 mm, 9474
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para niñas y niños: PLAYMOBIL Trineo con Pareja Real y numerosos accesorios para jugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079MNH48Z/?tag=tolees-21)

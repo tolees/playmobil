@@ -29,8 +29,8 @@ En este momento está [PLAYMOBIL Policía- Caso de Transporte de la Policía Fig
 🔎:
 
 - Desarrolla la imaginación y la creatividad
-- Contiene 13 piezas
 - Maletín en el que podrás guardar todos los accesorios
+- Contiene 13 piezas
 - Incluye una figura y varios accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ATBW8XG/?tag=tolees-21)
