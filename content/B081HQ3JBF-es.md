@@ -29,9 +29,9 @@ En este momento está [PLAYMOBIL SCOOBY-DOO! 70361 Aventura en la Mansión Miste
 🔎:
 
 - Legendaria diversión para los aficionados detectives: PLAYMOBIL SCOOBY-DOO! Aventura en la Mansión Misteriosa con Daphne, Fred, Scooby-Doo, Vampiro y mucho más para jugar
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1 PLAYMOBIL SCOOBY-DOO! Aventura en la Mansión Misteriosa, Juego de 177 piezas con instrucciones: 1 casa encantada, 3 figuras, 1 Scooby-Doo, 172 accesorios (Requiere 3 micro baterías de 1,5 V, no incluidas), Material: Plástico, LxPxA: 38x38x40 cm, Peso: aprox. 1,82 kg, 70361
 - Escondite secreto con puerta giratoria, trampilla, escaleras que se convierten en tobogán, ataúd con luz y sonido, Pantalla de proyección para el smartphone (no incluida) y mucho más
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL SCOOBY-DOO! Aventura en la Mansión Misteriosa, Juego de 177 piezas con instrucciones: 1 casa encantada, 3 figuras, 1 Scooby-Doo, 172 accesorios (Requiere 3 micro baterías de 1,5 V, no incluidas), Material: Plástico, LxPxA: 38x38x40 cm, Peso: aprox. 1,82 kg, 70361
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HQ3JBF/?tag=tolees-21)

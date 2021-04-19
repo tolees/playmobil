@@ -28,10 +28,10 @@ Está [PLAYMOBIL Novelmore 70394 Catapulta de Lava de los Bandidos de Burnham  P
 
 ℹ️:
 
-- Diversión para niños de gran imaginación: PLAYMOBIL Catapulta de Lava de los Bandidos de Burnham con artillero y espadachín, así como geniales accesorios para jugar con todo detalle
-- Juego de figuras para niños entre 4 y 10 años: Idóneo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Cañón funcional giratorio con abrazadera de pie para figura, Escudo protector giratorio, Carro de mano para el transporte de 2 balas de cañón y mucho más
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1 PLAYMOBIL Novelmore Catapulta de Lava de los Bandidos de Burnham, Juego de 47 piezas con instrucciones: 1 cañon, 2 figuras, 44 accesorios, Material: Plástico, LxPxA: 14x11,5x8-12-5 cm, Peso: 188 g, 70394
+- Cañón funcional giratorio con abrazadera de pie para figura, Escudo protector giratorio, Carro de mano para el transporte de 2 balas de cañón y mucho más
+- Juego de figuras para niños entre 4 y 10 años: Idóneo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para niños de gran imaginación: PLAYMOBIL Catapulta de Lava de los Bandidos de Burnham con artillero y espadachín, así como geniales accesorios para jugar con todo detalle
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081HQ3X1S/?tag=tolees-21)

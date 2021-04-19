@@ -30,8 +30,8 @@ Está [PLAYMOBIL Ghostbusters Muñeco Marshmallow  a Partir de 6 Años  9221 ](h
 
 - Muñeco Marshmallow con brazos móviles y muñecas rotatorias para poder coger accesorios de PLAYMOBIL, 1 cazafantasmas con mochila y disparador de protones
 - Diversión para pequeños cazafantasmas: PLAYMOBIL Muñeco Marshmallow y el héroe cazafantasmas Ray Stantz con sus ecto gafas, todo con gran lujo de detalles
-- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL Ghostbusters Muñeco Marshmallow, Juego de 9 piezas con manual de instrucciones: 1 Hombre de Malvavisco, 1 figura, 7 accesorios
+- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYRIWYZ/?tag=tolees-21)
