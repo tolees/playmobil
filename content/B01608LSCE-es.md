@@ -28,8 +28,8 @@ En este momento está [Playmobil Vida Salvaje - Camión con Elefante  6937 ](htt
 
 🔎:
 
-- Incluye un bidón de gasolina
 - Incluye dos figuras y varios accesorios
+- Incluye un bidón de gasolina
 - Con enganche para el remolque
 - Desarrolla la imaginación y la creatividad
 

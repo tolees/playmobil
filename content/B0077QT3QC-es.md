@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL City Life Autobús Escolar  A partir de 4 Años
 
 🔎:
 
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para los pequeños héroes: PLAYMOBIL Autobús Escolar con conductor, 2 niños y accesorios para jugar
-- Espacio para 11 figuras y conductor, así como para el equipaje, 2 piezas de techo extraíbles, puerta lateral abatible, ampliable con módulo RC Plus (6914)
 - Contenido: 1 PLAYMOBIL City Life Autobús Escolar, juego de 37 piezas con instrucciones: 1 Autobús, 3 figuras, 33 accesorios, material: plástico, LxPxA: 39x13,5x15 cm, 5106
+- Espacio para 11 figuras y conductor, así como para el equipaje, 2 piezas de techo extraíbles, puerta lateral abatible, ampliable con módulo RC Plus (6914)
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para los pequeños héroes: PLAYMOBIL Autobús Escolar con conductor, 2 niños y accesorios para jugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0077QT3QC/?tag=tolees-21)

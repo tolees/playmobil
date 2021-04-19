@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL Galaxy Police 70018 Policía Galáctica Moto  con Efectos de L
 
 ℹ️:
 
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Misión policial en el espacio: PLAYMOBIL Galaxy Police Moto con 1 policía espacial y 1 pirata espacial con equipo y mucho más para jugar con todo detalle
 - Alas plegables (modo de vuelo), Pistolas que se pueden disparar, Estructura trasera con módulo intermitente, Dron fijable con cabezal que se puede empujar hacia arriba (modo de vuelo) y mucho más
-- Contenido: 1 PLAYMOBIL Policía Galáctica Moto, Juego de 40 piezas con instrucciones: 1 moto, 1 dron, 2 figuras, 36 accesorios, 3x pilas de botón 1.5V LR41/tipo 392 incluidas, Material: Plástico, LxPxA moto: 15x7-10.5x8 cm, Peso: aprox. 137 g, 70020
+- Misión policial en el espacio: PLAYMOBIL Galaxy Police Moto con 1 policía espacial y 1 pirata espacial con equipo y mucho más para jugar con todo detalle
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1 PLAYMOBIL Policía Galáctica Moto, Juego de 40 piezas con instrucciones: 1 moto, 1 dron, 2 figuras, 36 accesorios, 3x pilas de botón 1.5V LR41/tipo 392 incluidas, Material: Plástico, LxPxA moto: 15x7-10.5x8 cm, Peso: aprox. 137 g, 70020
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081HQQJ5C/?tag=tolees-21)
