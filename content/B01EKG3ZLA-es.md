@@ -28,9 +28,9 @@ En este momento está [Playmobil Romanos y Egipcios Playmobil Playset  Miscelane
 
 🔎:
 
-- Camello con silla para montar y correas
 - Incluye figura de egipcio
-- Juego educativo para los niños
 - Desarrolla la imaginación y la creatividad
+- Camello con silla para montar y correas
+- Juego educativo para los niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EKG3ZLA/?tag=tolees-21)
