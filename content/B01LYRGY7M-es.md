@@ -28,10 +28,10 @@ Ahora mismo tienes [PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a P
 
 🔎:
 
-- Trampa para fantasmas con bisagra, mochila de protones extraíble, poste deslizante y mucho más, múltiples habitaciones como el laboratorio, la oficina y el garaje para el Ecto-1 (9220)
-- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para pequeños cazafantasmas: PLAYMOBIL Cuartel Parque de Bomberos de los Cazafantasmas con múltiples figuras, accesorios y funciones con gran detalle
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Trampa para fantasmas con bisagra, mochila de protones extraíble, poste deslizante y mucho más, múltiples habitaciones como el laboratorio, la oficina y el garaje para el Ecto-1 (9220)
 - Contenido: 1 PLAYMOBIL Ghostbusters Parque de Bomberos, Juego de 228 piezas con manual de instrucciones: 1 Cuartel Parque de Bomberos Ghostbusters, 5 figuras, 222 accesorios
+- Diversión para pequeños cazafantasmas: PLAYMOBIL Cuartel Parque de Bomberos de los Cazafantasmas con múltiples figuras, accesorios y funciones con gran detalle
+- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21)
