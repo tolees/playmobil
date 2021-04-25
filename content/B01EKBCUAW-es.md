@@ -28,9 +28,9 @@ Está [Playmobil Crucero- Playset  Miscelanea  6978 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Barco crucero de dos plantas y cubierta solárium
 - Incluye dos habitaciones con cuarto de baño
 - Se puede extraer la cubierta inferior
 - Desarrolla la imaginación y la creatividad
-- Barco crucero de dos plantas y cubierta solárium
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EKBCUAW/?tag=tolees-21)
