@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - 1.2.3 Avión  6780  al 18.16 % de descuento'
-date: 2021-04-20 12:06:33
+date: 2021-04-25 15:55:20
 image: 'https://m.media-amazon.com/images/I/516nQN3t1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [PLAYMOBIL - 1.2.3 Avión  6780 ](https://www.amazon.es/dp/B0077QT1KU/?tag
 
 ℹ️:
 
-- Se basa en figuras y complementos con formas redondeadas, colores llamativos y piezas grandes.
-- Incluye 2 figuras (piloto y pasajero) avión y dos maletas.
 - Con figuras y accesorios
+- Se basa en figuras y complementos con formas redondeadas, colores llamativos y piezas grandes.
 - Fomenta creatividad e imaginación
+- Incluye 2 figuras (piloto y pasajero) avión y dos maletas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0077QT1KU/?tag=tolees-21)
