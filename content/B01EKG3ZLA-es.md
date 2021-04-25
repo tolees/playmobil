@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Romanos y Egipcios Playmobil P con un 31.79 % de descuento'
-date: 2021-04-22 20:22:44
+date: 2021-04-25 21:53:01
 image: 'https://m.media-amazon.com/images/I/61sL7kSKzjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playmobil Romanos y Egipcios'
 buyurl: 'https://www.amazon.es/dp/B01EKG3ZLA/?tag=tolees-21'
 descuento: '31.79'
-average: '8.03142857142857'
+average: '8.025'
 ---
 
 En este momento está [Playmobil Romanos y Egipcios Playmobil Playset  Miscelanea  5389 ](https://www.amazon.es/dp/B01EKG3ZLA/?tag=tolees-21) a 7.98 EUR (original: 11.7 EUR) (31.79 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Playmobil Romanos y Egipcios Playmobil Playset  Miscelane
 
 🔎:
 
-- Juego educativo para los niños
 - Incluye figura de egipcio
+- Juego educativo para los niños
 - Desarrolla la imaginación y la creatividad
 - Camello con silla para montar y correas
 
