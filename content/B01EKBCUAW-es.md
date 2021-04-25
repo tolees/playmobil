@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Crucero- Playset  Miscelanea   al 44.81 % de descuento'
-date: 2021-04-23 10:07:02
+date: 2021-04-25 12:52:00
 image: 'https://m.media-amazon.com/images/I/5118ruN1UUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Playmobil Crucero- Playset  Miscelanea  6978 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Barco crucero de dos plantas y cubierta solárium
 - Incluye dos habitaciones con cuarto de baño
 - Se puede extraer la cubierta inferior
+- Desarrolla la imaginación y la creatividad
+- Barco crucero de dos plantas y cubierta solárium
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EKBCUAW/?tag=tolees-21)
