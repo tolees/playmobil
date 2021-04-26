@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL - Astrid con Globoglob](https://www.amazon.es/dp/B
 
 🔎:
 
+- Astrid con traje volador
+- Desarrolla la imaginación y la creatividad
 - Con dos tipos de peinado para poder colocar el casco
 - Contiene 12 piezas
-- Desarrolla la imaginación y la creatividad
-- Astrid con traje volador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JKWPRSS/?tag=tolees-21)
