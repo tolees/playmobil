@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL 1.2.3 Granja Maletín  a Partir de 1.5 Años  6962    color  m
 
 🔎:
 
-- Juego adecuado para niños a partir de 18 meses, óptimo para las manos de los niños gracias a su tamaño adaptado y fácil sujeción gracias a sus bordes redondeados
-- 1 figuras, 5 animales diferentes y multitud de accesorios
 - Contenido: 1 playmobil granja maletín, juego de 17 piezas con instrucciones: 1 figura y muchos accesorios, material: plástico, lxpxa: 35.x.11.x.19 cm, 6962
+- Juego adecuado para niños a partir de 18 meses, óptimo para las manos de los niños gracias a su tamaño adaptado y fácil sujeción gracias a sus bordes redondeados
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, diseño robusto y de alta calidad, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para los más pequeños: playmobil granja maletín con figuras y accesorios realistas, contiene piezas grandes idóneas para manos pequeñas
+- 1 figuras, 5 animales diferentes y multitud de accesorios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0168YK9JS/?tag=tolees-21)
