@@ -28,10 +28,10 @@ Tienes [Playmobil- Country Payset  Granja de Caballos  Multicolor  6926 ](https:
 
 🔎:
 
-- 2 figuras, 3 caballos, 2 establos, Con puerta y vallas para diferentes opciones de cercado, entre otros, Ampliable con PLAYMOBIL Country Set de Limpieza para Caballos (6929)
-- Contenido: 1 PLAYMOBIL Country Granja de Caballos, Juego de 358 piezas con instrucciones: 1 Granja de caballos, 14 Animales, 2 figuras, 341 accesorios, Material: plástico, LxPxA: 69,5x 41x24.5 cm, 6926
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para los pequeños amantes de los caballos: PLAYMOBIL Granja de Caballos con animales, establos, corrales al aire libre y otros accesorios para jugar
 - Juego de figuras para niños a partir de 5 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL Country Granja de Caballos, Juego de 358 piezas con instrucciones: 1 Granja de caballos, 14 Animales, 2 figuras, 341 accesorios, Material: plástico, LxPxA: 69,5x 41x24.5 cm, 6926
+- 2 figuras, 3 caballos, 2 establos, Con puerta y vallas para diferentes opciones de cercado, entre otros, Ampliable con PLAYMOBIL Country Set de Limpieza para Caballos (6929)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06WGZY234/?tag=tolees-21)

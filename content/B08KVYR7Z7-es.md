@@ -30,8 +30,8 @@ Ahora mismo tienes [PLAYMOBIL Stuntshow 70549 Monster Truck Horned  Para niños 
 
 - Camión con cabeza de toro y cuernos, Ejes con suspensión total, Techo desmontable, Espacio para 4 figuras, Parte trasera abatible, Obstáculo con topes de deslizamiento y mucho más.
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Emociones sin fin: el espectáculo de acrobacias PLAYMOBIL Monster Truck Horned con colina de arena, doble de acción y accesorios monstruosos para recrear acrobacias geniales
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1x PLAYMOBIL Stuntshow Monster Truck Horned, Set con 57 piezas con instrucciones: 1 coche, 1 colina de arena, 1 figura, 54 accesorios, Material: plástico, Vehículo LxDxH: 26x16x17 cm, Peso: 593 g, 70549
-- Emociones sin fin: el espectáculo de acrobacias PLAYMOBIL Monster Truck Horned con colina de arena, doble de acción y accesorios monstruosos para recrear acrobacias geniales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KVYR7Z7/?tag=tolees-21)
