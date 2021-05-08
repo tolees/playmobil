@@ -29,9 +29,9 @@ En este momento está [PLAYMOBIL City Action Módulo RC Plus  A partir de 5 año
 🔎:
 
 - Compatible con todos los vehículos PLAYMOBIL aptos para RC como el Porsche Mission E y Rex Dasher (70078), el Camión de Bomberos con Escalera (9463), la Grúa Remolque (70199) y mucho más
-- Diversión al conducir en la habitación de los niños: PLAYMOBIL Módulo RC Plus con accesorios y muchas funciones para los diferentes sets de las colecciones PLAYMOBIL
-- Contenido: 1 PLAYMOBIL City Action Módulo RC Plus con instrucciones: 1 módulo transmisor, 1 módulo receptor, 1 transmisor manual, 1 unidad de dirección, 1 caja para baterías (Requiere batería de bloque 9V y 4 baterías micro 1.5 V), 2.4 GHz, Material: plástico, LxPxA: 380 x 194 x 295 mm, 6914
 - Para niños a partir de 5 años, Mando: 1 acelerador, 1 soporte de mando, 1 interruptor de marcha adelante/atrás, 1 interruptor de marcha izquierda/derecha
 - Instrucciones para conectar y emparejar los módulos transmisor y receptor junto con los padres, Con caja para facilitar la sustitución de la batería
+- Contenido: 1 PLAYMOBIL City Action Módulo RC Plus con instrucciones: 1 módulo transmisor, 1 módulo receptor, 1 transmisor manual, 1 unidad de dirección, 1 caja para baterías (Requiere batería de bloque 9V y 4 baterías micro 1.5 V), 2.4 GHz, Material: plástico, LxPxA: 380 x 194 x 295 mm, 6914
+- Diversión al conducir en la habitación de los niños: PLAYMOBIL Módulo RC Plus con accesorios y muchas funciones para los diferentes sets de las colecciones PLAYMOBIL
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016MJNEH8/?tag=tolees-21)
