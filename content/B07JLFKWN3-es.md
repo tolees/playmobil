@@ -28,9 +28,9 @@ En este momento está [PLAYMOBIL- 1.2.3 Astronauta con Cohete  Color carbón  70
 
 🔎:
 
-- El cohete se puede abrir
-- Desarrolla la imaginación y la creatividad
 - Incluye una figura con casco
 - La cabina se puede abrir para que el astronauta explore los alrededores
+- Desarrolla la imaginación y la creatividad
+- El cohete se puede abrir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JLFKWN3/?tag=tolees-21)
