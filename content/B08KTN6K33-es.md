@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL DreamWorks Dragons 70728 Dragon Racing: Astrid 
 
 🔎:
 
-- Juego de DreamWorks Dragons Astrid y Tormenta de PLAYMOBIL para recrear las aventuras de la serie de televisión "Race to the Edge"
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL DreamWorks Dragons 70728 Dragon Racing: Astrid y Tormenta, Juego de 12 piezas con instrucciones: 1 dragón, 1 figura, 1 oveja arrojadiza, 9 accesorios, Material: plástico, LxDxH: aprox. 28-30x10-25x14-18 cm, Peso: 192 g, 70728
+- Juego de DreamWorks Dragons Astrid y Tormenta de PLAYMOBIL para recrear las aventuras de la serie de televisión "Race to the Edge"
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Astrid Hofferson, dragón Tormenta con patas, cabeza y alas móviles, sujeción de los pies hacia atrás y silla de montar desmontable, oveja arrojadiza y mucho más
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KTN6K33/?tag=tolees-21)

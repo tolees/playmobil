@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL Family Fun 70279 Heladería en el Puerto  A Par
 
 🔎:
 
-- Colorida heladería de estilo mediterráneo en 2 plantas con terraza, zona al aire libre y mostrador de venta, embarcadero de madera para relajarse, hacer surf de remo y mucho más.
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL Family Fun Heladería en el Puerto, Set de 108 piezas con instrucciones: 1 heladería, 5 figuras, 102 accesorios, Material: plástico, Medidas de construcción (LxAxA) aprox.: 65x35x23 cm, 70279
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Colorida heladería de estilo mediterráneo en 2 plantas con terraza, zona al aire libre y mostrador de venta, embarcadero de madera para relajarse, hacer surf de remo y mucho más.
 - Para los pequeños adoradores del sol: Heladería PLAYMOBIL en el puerto con camarero, 4 visitantes y numerosos accesorios para una recreación detallada
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082YNY1K3/?tag=tolees-21)
