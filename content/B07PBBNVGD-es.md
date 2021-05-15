@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL- Porsche 911 Carrera 4S Playse al 38.63 % de descuento'
-date: 2021-05-13 20:07:18
+date: 2021-05-15 21:22:57
 image: 'https://m.media-amazon.com/images/I/51XBz53GvjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07PBBNVGD/?tag=tolees-21'
 descuento: '38.63'
-average: '37.7476923076923'
+average: '37.4859259259259'
 ---
 
 Ahora mismo tienes [PLAYMOBIL- Porsche 911 Carrera 4S Playset de Figuras  Multicolor  70066 ](https://www.amazon.es/dp/B07PBBNVGD/?tag=tolees-21) a 30.68 EUR (original: 49.99 EUR) (38.63 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [PLAYMOBIL- Porsche 911 Carrera 4S Playset de Figuras  Multic
 🔎:
 
 - Con luces y sonidos
-- Techo extraíble
-- Accesorios para recrear un verdadero lugar de bloqueo
 - Si abre las dos puertas traseras, puedes empujar la silla de ruedas en la rampa plegable en el autobús, la rampa se retira y las puertas traseras se cierran
+- Accesorios para recrear un verdadero lugar de bloqueo
 - Con dos personajes
+- Techo extraíble
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PBBNVGD/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL Country 70505 Granja de Caballos Set Adicional 
 
 🔎:
 
-- Para jugar a diario: instrucciones de montaje para los padres, Diseño robusto y de alta calidad, Limpieza de las piezas (sin pegatinas) con agua corriente sin agentes químicos
 - Entra en el colorido mundo de PLAYMOBIL: PLAYMOBIL Granja de Caballos set adicional con accesorios apropiados para la edad y piezas de construcción para una recreación detallada
 - Juego de figuras para niños a partir de 3 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1x PLAYMOBIL Country - Granja de Caballos set adicional, Set de 19 piezas con instrucciones: 1 caballo, 2 figuras, 16 accesorios, Material: plástico, Se puede montar individualmente, Peso: 87 g, 70505
 - 1 hombre, 1 mujer, 1 caballo ensillado apto para la figura de un adulto, 1 horquilla para clavar el heno, elementos de la valla y mucho más, Apto para el 70501 Starter Pack
+- Contenido: 1x PLAYMOBIL Country - Granja de Caballos set adicional, Set de 19 piezas con instrucciones: 1 caballo, 2 figuras, 16 accesorios, Material: plástico, Se puede montar individualmente, Peso: 87 g, 70505
+- Para jugar a diario: instrucciones de montaje para los padres, Diseño robusto y de alta calidad, Limpieza de las piezas (sin pegatinas) con agua corriente sin agentes químicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KVYRWZN/?tag=tolees-21)
