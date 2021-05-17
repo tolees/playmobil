@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL- Figuras Serie 18  niña  70370   Multicolor](https://www.amaz
 
 ℹ️:
 
-- Recomendado a partir de 4 años
 - Desarrolla la imaginación y la creatividad
+- Recomendado a partir de 4 años
 - Marca del producto: Playmobil
 - Incluye figuras y varios accesorios
 
