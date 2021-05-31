@@ -29,9 +29,9 @@ Tienes [PLAYMOBIL Space Vehículo de Reconocimiento  A partir de 6 años  9489  
 🔎:
 
 - Diversión para los pequeños astronautas: PLAYMOBIL Space Vehículo de Reconocimiento con numerosos accesorios y efectos de luz y sonido
-- Contenido: 1 PLAYMOBIL Space Vehículo de reconocimiento, Juego de 74 piezas con instrucciones: 1 Vehículo de reconocimiento, 73 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 26x17x18 cm, 9489
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Con equipo profesional para explorar el planeta: Techo extraíble, brazo de agarre móvil, proyectiles, compuerta abatible y rampa plegable
 - Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Con equipo profesional para explorar el planeta: Techo extraíble, brazo de agarre móvil, proyectiles, compuerta abatible y rampa plegable
+- Contenido: 1 PLAYMOBIL Space Vehículo de reconocimiento, Juego de 74 piezas con instrucciones: 1 Vehículo de reconocimiento, 73 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 26x17x18 cm, 9489
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079MPNCHW/?tag=tolees-21)
