@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL - Mi Casa de Ciudad](https://www.amazon.es/dp/B07JMCBSX4/?tag=
 
 🔎:
 
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión en la ciudad: mi casa de ciudad de playmobil con accesorios detallados y elementos intercambiables para combinar y construir
 - Techo, suelos, ventanas y puertas compatibles con mi cafetería (70015), mi floristería (70016), mi tienda de moda (70017)
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión en la ciudad: mi casa de ciudad de playmobil con accesorios detallados y elementos intercambiables para combinar y construir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMCBSX4/?tag=tolees-21)

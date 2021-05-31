@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL City Life Casa Moderna  con Efectos de Luces y Sonido  a Parti
 
 ℹ️:
 
-- Contenido: 1 PLAYMOBIL City Life Casa Moderna, Juego de 137 piezas con instrucciones: 1 Casa, 2 figuras, 134 accesorios
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- 2 figuras, timbre e iluminación exterior real, escaleras, balcón, terraza, entre otros, espacio para 5 habitaciones, ampliable con el Salón City Life (9267)
 - Diversión para los pequeños héroes: PLAYMOBIL Casa Moderna, set de juego con figuras y muchos accesorios para jugar
+- Contenido: 1 PLAYMOBIL City Life Casa Moderna, Juego de 137 piezas con instrucciones: 1 Casa, 2 figuras, 134 accesorios
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- 2 figuras, timbre e iluminación exterior real, escaleras, balcón, terraza, entre otros, espacio para 5 habitaciones, ampliable con el Salón City Life (9267)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06W5XHWVT/?tag=tolees-21)
