@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL City Life Cocina  a Partir de 4 Años  9269 ](h
 
 🔎:
 
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- 3 Figuras, con equipo de cocina completo y aparador, compartimentos para guardar partes individuales, entre otros, apto para City Life Casa Moderna (9266)
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Diversión para los pequeños héroes: PLAYMOBIL Cocina, set de juego con figuras y muchos accesorios para jugar
+- 3 Figuras, con equipo de cocina completo y aparador, compartimentos para guardar partes individuales, entre otros, apto para City Life Casa Moderna (9266)
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1 PLAYMOBIL City Life Cocina, Juego de 102 piezas con manual de instrucciones: 1 Cocina, 3 figuras, 98 accesorios
+- Diversión para los pequeños héroes: PLAYMOBIL Cocina, set de juego con figuras y muchos accesorios para jugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06WVM68TB/?tag=tolees-21)
