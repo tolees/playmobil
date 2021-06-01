@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL PLAYMO-FRIENDS 70564 Princesa  A partir de 4 años](https://ww
 
 ℹ️:
 
-- Divertidos para coleccionar, combinar y regalar: Princesa PLAYMOBIL con accesorios para recrear fielmente sus propias aventuras.
 - Contenido: 1x PLAYMOBIL PLAYMO-Friends Princesa, Juego de 12 piezas con instrucciones: 1 figura, 11 accesorios, Material: plástico, Se puede montar individualmente, Peso: 26 g, 70564
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Divertidos para coleccionar, combinar y regalar: Princesa PLAYMOBIL con accesorios para recrear fielmente sus propias aventuras.
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Incluye 1 princesa con tocado extraíble y falda de aro de dos piezas, 1 conejito, 1 cetro, Complemento perfecto para los sets de juego de PLAYMOBIL
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KVTD65G/?tag=tolees-21)

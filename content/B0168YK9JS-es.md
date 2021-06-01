@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1.2.3 Granja Maletín  a Partir al 52.05 % de rebaja'
-date: 2021-05-31 13:36:13
+date: 2021-06-01 19:11:16
 image: 'https://m.media-amazon.com/images/I/51OXqTm6wwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0168YK9JS/?tag=tolees-21'
 descuento: '52.05'
-average: '28.6919718309858'
+average: '28.5901388888888'
 ---
 
 Tienes [PLAYMOBIL 1.2.3 Granja Maletín  a Partir de 1.5 Años  6962    color  modelo surtido](https://www.amazon.es/dp/B0168YK9JS/?tag=tolees-21) con precio final de  21.36 EUR (original: 44.55 EUR) (52.05 %  de rebaja) aqui!
