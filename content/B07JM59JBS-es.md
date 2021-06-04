@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - 1.2.3 Playset  Mi Primer Tre al 24.36 % de rebaja'
-date: 2021-06-02 19:37:37
+date: 2021-06-04 11:49:43
 image: 'https://m.media-amazon.com/images/I/51csj8f8MSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Playmobil - 1.2.3 Playset  Mi Primer Tren  Multicolor  70179 ](https://w
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
-- Dimensiones: 43.5 x 32.5 x 12 cm
 - Recomendado a partir de 18 meses
 - Incluye ferroviario y accesorios
+- Dimensiones: 43.5 x 32.5 x 12 cm
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JM59JBS/?tag=tolees-21)
