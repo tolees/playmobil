@@ -30,8 +30,8 @@ Está [PLAYMOBIL Stuntshow 70551 Crashcar  Para niños de 4 a 10 años](https://
 
 - Contenido: 1x PLAYMOBIL Stuntshow Crashcar, Set con 60 piezas con instrucciones: 1 coche, 2 figuras, 57 accesorios, Material: plástico, LxDxH: 23,5-26x12x7,5 cm, Peso: 388 g, 70551
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Emociones sin fin: el Stuntshow Crashcar de PLAYMOBIL con el maniquí de pruebas de choque, la mujer de acrobacias y los accesorios de fuerza monstruosa para recrear acrobacias geniales.
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Elementos intercambiables para 2 variantes: Coche de carreras con parachoques y capó o coche de choque con bloque motor en llamas y rampa para motos y mucho más.
-- Emociones sin fin: el Stuntshow Crashcar de PLAYMOBIL con el maniquí de pruebas de choque, la mujer de acrobacias y los accesorios de fuerza monstruosa para recrear acrobacias geniales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KW16MRF/?tag=tolees-21)
