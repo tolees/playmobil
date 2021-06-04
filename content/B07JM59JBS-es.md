@@ -30,7 +30,7 @@ Tienes [Playmobil - 1.2.3 Playset  Mi Primer Tren  Multicolor  70179 ](https://w
 
 - Recomendado a partir de 18 meses
 - Incluye ferroviario y accesorios
-- Dimensiones: 43.5 x 32.5 x 12 cm
 - Desarrolla la imaginación y la creatividad
+- Dimensiones: 43.5 x 32.5 x 12 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JM59JBS/?tag=tolees-21)
