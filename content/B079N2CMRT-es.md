@@ -29,9 +29,9 @@ Ahora mismo tienes [PLAYMOBIL DreamWorks Spirit Casa de Fortu  a Partir de 4 Añ
 🔎:
 
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1 PLAYMOBIL DreamWorks Spirit Casa de Fortu, Juego de 137 piezas con manual de instrucciones: 1 villa de madera, 2 figuras, 134 accesorios
-- Diversión para niñas: PLAYMOBIL Casa de Fortu, Casa de muñecas al estilo occidental con cocina amueblada, escondite secreto y muchos accesorios
 - Incluye Spirit, Fortu y tía Cora, muebles de cocina y muchos accesorios más para jugar, ampliable con Habitación de Fortu (9476)
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL DreamWorks Spirit Casa de Fortu, Juego de 137 piezas con manual de instrucciones: 1 villa de madera, 2 figuras, 134 accesorios
+- Diversión para niñas: PLAYMOBIL Casa de Fortu, Casa de muñecas al estilo occidental con cocina amueblada, escondite secreto y muchos accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079N2CMRT/?tag=tolees-21)
