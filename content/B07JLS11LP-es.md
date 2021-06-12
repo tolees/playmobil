@@ -29,8 +29,8 @@ Está [Playmobil - Ghostbusters Juego con Set de Figuras  Multicolor  70175 ](ht
 ℹ️:
 
 - Tamaño de las figuras: 7,5 cm
-- Conjunto de los 4 Cazafantasmas de la primera película con sus accesorios.
-- Incluye 4 figuras y sus accesorios
 - Adecuado para niños mayores de 6 años
+- Incluye 4 figuras y sus accesorios
+- Conjunto de los 4 Cazafantasmas de la primera película con sus accesorios.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JLS11LP/?tag=tolees-21)
