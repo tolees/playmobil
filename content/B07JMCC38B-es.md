@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL DreamWorks Dragons Aguijón Venenoso y Crimmel 
 
 🔎:
 
-- Crimmel con mano para sujetar los numerosos accesorios tales como lanzas, ballesta de la mano, entre otros, conveniente para los sets de juego de PLAYMOBIL 70037 y 70038
 - Contenido: 1 PLAYMOBIL Set de juego DreamWorks Dragons Aguijón Venenoso y Crimmel, Juego de 11 piezas con instrucciones: 1 Dragón, 1 figura, 9 accesorios
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Diversión para pequeños aventureros: DreamWorks Dragons Aguijón Venenoso y Crimmel de PLAYMOBIL, Dragón con alas móviles y garras para jugar
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Crimmel con mano para sujetar los numerosos accesorios tales como lanzas, ballesta de la mano, entre otros, conveniente para los sets de juego de PLAYMOBIL 70037 y 70038
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JMCC38B/?tag=tolees-21)
