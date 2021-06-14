@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 70.48 % en PLAYMOBIL 1.2.3-9119 Isla Pirata  Multic'
-date: 2020-01-30 23:32:36
-image: 'https://m.media-amazon.com/images/I/51NYgs2D4LL._AC_._SL400_.jpg'
+title: 'Descuento del 21.83 % en PLAYMOBIL 1.2.3-9119 Isla Pirata  Multic'
+date: 2021-06-14 15:10:03
+image: 'https://m.media-amazon.com/images/I/51NYgs2D4LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZC-es PLAYMOBIL 1.2.3-9119 Isla Pirata Multicolor única 9119'
 sku: 'B01M20RZZC-es'
-tags: [ 'playmobil', ]
-actualPrice: 4.28 EUR
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
+actualPrice: 16.9 EUR
 currency: EUR
-price: 4.28
-comparePrice: 14.5 EUR
+price: 16.9
+comparePrice: 21.62 EUR
 prodname: 'PLAYMOBIL 1.2.3-9119 Isla Pirata  Multicolor  única  9119 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21'
-descuento: '70.48'
-average: '9.39'
+descuento: '21.83'
+average: '11.8933333333333'
 ---
 
-Tienes [PLAYMOBIL 1.2.3-9119 Isla Pirata  Multicolor  única  9119 ](https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21) con un 70.48 % de descuento con precio de oferta de 4.28 EUR (original: 14.5 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL 1.2.3-9119 Isla Pirata  Multicolor  única  9119 ](https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21) con un 21.83 % de descuento con precio de oferta de 16.9 EUR (original: 21.62 EUR) en el siguiente enlace!
 
-[![PLAYMOBIL 1.2.3-9119 Isla Pirata  Multic](https://m.media-amazon.com/images/I/51NYgs2D4LL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21)
+[![PLAYMOBIL 1.2.3-9119 Isla Pirata  Multic](https://m.media-amazon.com/images/I/51NYgs2D4LL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21)
 
 ℹ️:
 
+- La tortuga flota
+- Piezas para encajar
+- Incluye 1 figura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21)
