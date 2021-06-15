@@ -28,9 +28,9 @@ En este momento está [PLAYMOBIL Policía- Autre Policewoman Playset  Multicolor
 
 🔎:
 
-- Incluye pistola y bolso
 - Desarrolla la imaginación y la creatividad
-- Juego educativo para los niños
 - Policía con Blace Racer
+- Incluye pistola y bolso
+- Juego educativo para los niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01608LQCQ/?tag=tolees-21)
