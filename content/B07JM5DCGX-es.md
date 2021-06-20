@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL- City Life Maletín  Clínica Veterinaria  Multicolor  70146 ]
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
 - Clínica veterinaria ampliamente equipada para llevar
+- Desarrolla la imaginación y la creatividad
 - Incluye figuras y varios animales y accesorios
 - Contiene 80 piezas
 
