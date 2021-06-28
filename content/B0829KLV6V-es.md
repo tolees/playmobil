@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - Agente con Dron al 28.06 % de descuento'
-date: 2021-06-25 08:06:20
+date: 2021-06-28 08:32:24
 image: 'https://m.media-amazon.com/images/I/51q6ooLozQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829KLV6V/?tag=tolees-21'
 descuento: '28.06'
-average: '5.38875'
+average: '5.58777777777778'
 ---
 
 Está [PLAYMOBIL - Agente con Dron](https://www.amazon.es/dp/B0829KLV6V/?tag=tolees-21) con 28.06 de descuento por 7.18 EUR (original: 9.98 EUR) en el siguiente enlace!
