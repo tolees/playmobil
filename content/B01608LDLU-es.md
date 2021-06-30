@@ -29,7 +29,7 @@ En este momento está [PLAYMOBIL Especiales Plus Figura con Accesorios  Multicol
 🔎:
 
 - Figuras para coleccionar; figuras para completar tus mundos PLAYMOBIL; incluye figura y accesorios
-- Figuras para coleccionar
 - Figuras para completar tus mundos PLAYMOBIL
+- Figuras para coleccionar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01608LDLU/?tag=tolees-21)
