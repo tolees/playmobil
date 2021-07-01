@@ -28,9 +28,9 @@ En este momento está [Playmobil 9820 - Couple de Mariés - Emballage Plastique 
 
 🔎:
 
-- Contiene piezas pequeñas que se pueden tragar.
-- No recomendado para niños menores de 3 años.
 - A partir de 4 años.
+- Contiene piezas pequeñas que se pueden tragar.
 - Paquete de bolsa.
+- No recomendado para niños menores de 3 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DH7KR3B/?tag=tolees-21)
