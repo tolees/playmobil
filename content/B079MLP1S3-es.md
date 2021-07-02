@@ -28,10 +28,10 @@ En este momento está [PLAYMOBIL Space Estación de Marte  A partir de 6 años  
 
 🔎:
 
-- Contenido: 1 PLAYMOBIL Space Estación de Marte, Juego de 187 piezas con instrucciones: 1 Estación de Marte, 3 figuras, 183 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 50x28x20 cm, 9487
 - Techo extraíble, Gran centro de mando, Compuerta real, Rampa plegable y mucho más, Ampliable con Cohete con plataforma de lanzamiento (9488) y Satélite con láser para los meteoritos (9490)
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1 PLAYMOBIL Space Estación de Marte, Juego de 187 piezas con instrucciones: 1 Estación de Marte, 3 figuras, 183 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 50x28x20 cm, 9487
 - Diversión para los pequeños astronautas: PLAYMOBIL Space Estación de Marte con numerosas figuras y accesorios, así como efectos de luz y sonido
+- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079MLP1S3/?tag=tolees-21)
