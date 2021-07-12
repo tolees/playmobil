@@ -30,8 +30,8 @@ Tienes [PLAYMOBIL City Life Gimnasio  a Partir de 5 Años  9454 ](https://www.am
 
 - Contenido: 1 PLAYMOBIL City Life Gimnasio, Juego de 56 piezas con manual de instrucciones: 1 gimnasio, 3 figuras, 52 accesorios
 - Diversión para los pequeños héroes: PLAYMOBIL Gimnasio, set de juego con 3 figuras, equipo de gimnasia y muchos accesorios para jugar
-- Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Equipamiento para varios deportes de pelota, con marcador, muro de escalada en el exterior, entre otros, ampliable con City Life Colegio (9453)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079MM5TMQ/?tag=tolees-21)
