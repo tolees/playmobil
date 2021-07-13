@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL - Carrito de Helados](https://www.amazon.es/dp/B07
 
 🔎:
 
-- El cristal del carrito se puede abrir
 - Desarrolla la imaginación y la creatividad
 - Los conos vacíos se pueden almacenar en la barra azul
 - Carrito de helados con bicicleta
+- El cristal del carrito se puede abrir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0767CKPBC/?tag=tolees-21)
