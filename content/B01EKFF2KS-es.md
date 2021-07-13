@@ -28,9 +28,9 @@ Ahora mismo tienes [Playmobil Pirámide del Faraón 5386](https://www.amazon.es/
 
 🔎:
 
-- Incluye tres figuras, dos esqueletos, una momia, un sarcófago, tres arañas, una serpiente, un escorpión, antorchas y varias vasijas.
-- Dimensiones: 46 x 37,5 x 27 cm (LxPxA)
 - Con apasionantes puzles, trampas peligrosas y valiosos tesoros.
+- Incluye tres figuras, dos esqueletos, una momia, un sarcófago, tres arañas, una serpiente, un escorpión, antorchas y varias vasijas.
 - La pirámide tiene varias trampas: paredes móviles, falso suelo y escaleras trampa.
+- Dimensiones: 46 x 37,5 x 27 cm (LxPxA)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01EKFF2KS/?tag=tolees-21)
