@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL SCOOBY-DOO! 70362 Aventura en el Cementerio  A Partir de 5 Añ
 
 🔎:
 
-- Alice May con cara cambiante y esqueleto luminiscente, Tumba con tabla que se puede volar, Tumba que se puede cerrar con un gatillo, Ataúd con función mágica y mucho más
-- Legendaria diversión para los aficionados detectives: PLAYMOBIL SCOOBY-DOO! Aventura en el Cementerio con Daphne, Fred, Scooby-Doo, un fantasma y mucho más para jugar con todo detalle
-- Contenido: 1 PLAYMOBIL SCOOBY-DOO! Aventura en el Cementerio, Juego de 70 piezas con instrucciones: 1 tumba, 1 cripta, 3 figuras, 1 Scooby-Doo, 64 accesorios, Material: Plástico, LxPxA (sin árbol ni murciélagos): 33x25x20 cm, Peso: 817 g, 70362
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL SCOOBY-DOO! Aventura en el Cementerio, Juego de 70 piezas con instrucciones: 1 tumba, 1 cripta, 3 figuras, 1 Scooby-Doo, 64 accesorios, Material: Plástico, LxPxA (sin árbol ni murciélagos): 33x25x20 cm, Peso: 817 g, 70362
+- Legendaria diversión para los aficionados detectives: PLAYMOBIL SCOOBY-DOO! Aventura en el Cementerio con Daphne, Fred, Scooby-Doo, un fantasma y mucho más para jugar con todo detalle
+- Alice May con cara cambiante y esqueleto luminiscente, Tumba con tabla que se puede volar, Tumba que se puede cerrar con un gatillo, Ataúd con función mágica y mucho más
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081HQR9FG/?tag=tolees-21)
