@@ -28,9 +28,9 @@ Tienes [Playmobil 1.2.3 Coche de Carreras con Camión 6761](https://www.amazon.e
 
 ℹ️:
 
+- Desarrolla la imaginación y la creatividad
+- Incluye dos figuras
 - El remolque puede ser inclinado para cargar y descargar el coche de carreras
 - Juego educativo para los niños
-- Incluye dos figuras
-- Desarrolla la imaginación y la creatividad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001RHAF5K/?tag=tolees-21)
