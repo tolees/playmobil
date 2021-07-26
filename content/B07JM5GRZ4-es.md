@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL Ghostbusters Figura Coleccionable R. Stantz  a Partir de 6 Añ
 
 🔎:
 
-- Diversión para fans, coleccionistas y pequeños cazafantasmas: playmobil r, stantz de gran calidad en tamaño extragrande
-- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Indispensable en la colección ghostbusters, reproducción fiel gracias a la gran cantidad de accesorios, el equipo de cazafantasmas, la trampa para fantasmas y el disparador de protones
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para fans, coleccionistas y pequeños cazafantasmas: playmobil r, stantz de gran calidad en tamaño extragrande
+- Indispensable en la colección ghostbusters, reproducción fiel gracias a la gran cantidad de accesorios, el equipo de cazafantasmas, la trampa para fantasmas y el disparador de protones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JM5GRZ4/?tag=tolees-21)
