@@ -28,10 +28,10 @@ Ahora mismo tienes [PLAYMOBIL- Porsche 911 Carrera 4S Playset de Figuras  Multic
 
 🔎:
 
-- Con dos personajes
-- Si abre las dos puertas traseras, puedes empujar la silla de ruedas en la rampa plegable en el autobús, la rampa se retira y las puertas traseras se cierran
 - Con luces y sonidos
 - Techo extraíble
 - Accesorios para recrear un verdadero lugar de bloqueo
+- Con dos personajes
+- Si abre las dos puertas traseras, puedes empujar la silla de ruedas en la rampa plegable en el autobús, la rampa se retira y las puertas traseras se cierran
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PBBNVGD/?tag=tolees-21)
