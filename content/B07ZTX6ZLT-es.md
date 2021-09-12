@@ -28,10 +28,10 @@ Está [PLAYMOBIL City Action 70335 Operación de Bomberos con helicóptero y Bar
 
 ℹ️:
 
-- 2 bomberos incl. equipo, helicóptero con tanque de extinción que se llena de agua, bote flotante - se puede ampliar con motor subacuático (7350)
-- Contenido: 1x City Action Operación de bomberos con helicóptero y barco, Set de 100 piezas con instrucciones: 1 helicóptero, 1 barco, 2 figuras, 96 accesorios, Material: plástico, LxDxH helicóptero: 31x11,5x13,5 cm/barco: 27x11,5x13 cm, 70335
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1x City Action Operación de bomberos con helicóptero y barco, Set de 100 piezas con instrucciones: 1 helicóptero, 1 barco, 2 figuras, 96 accesorios, Material: plástico, LxDxH helicóptero: 31x11,5x13,5 cm/barco: 27x11,5x13 cm, 70335
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- 2 bomberos incl. equipo, helicóptero con tanque de extinción que se llena de agua, bote flotante - se puede ampliar con motor subacuático (7350)
 - Diversión para los pequeños bomberos: Cuerpo de bomberos PLAYMOBIL con helicóptero, bote inflable y accesorios geniales para recreaciones detalladas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZTX6ZLT/?tag=tolees-21)
