@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL 9219 Ghostbusters  Cuartel Par al 43.15 % de descuento'
-date: 2021-09-02 14:04:15
+title: 'PLAYMOBIL 9219 Ghostbusters  Cuartel Par al 24.18 % de descuento'
+date: 2021-09-14 11:01:00
 image: 'https://m.media-amazon.com/images/I/61cOSlNF8rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01LYRGY7M-es PLAYMOBIL 9219 Ghostbusters Cuartel Parque de Bomberos a...'
 sku: 'B01LYRGY7M-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','playmobil', ]
-actualPrice: 56.23 EUR
+actualPrice: 74.99 EUR
 currency: EUR
-price: 56.23
+price: 74.99
 comparePrice: 98.91 EUR
 prodname: 'PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a Partir de 6 Años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21'
-descuento: '43.15'
-average: '64.8738461538463'
+descuento: '24.18'
+average: '65.1267500000001'
 ---
 
-Ahora mismo tienes [PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a Partir de 6 Años](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21) a 56.23 EUR (original: 98.91 EUR) (43.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a Partir de 6 Años](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21) a 74.99 EUR (original: 98.91 EUR) (24.18 %  de descuento) en el siguiente enlace!
 
 [![PLAYMOBIL 9219 Ghostbusters  Cuartel Par](https://m.media-amazon.com/images/I/61cOSlNF8rL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21)
 
