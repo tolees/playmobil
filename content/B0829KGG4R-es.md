@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - Veterinario de Zoo con Coche al 20.01 % de rebaja'
-date: 2021-09-12 14:50:43
+date: 2021-09-20 09:02:25
 image: 'https://m.media-amazon.com/images/I/51TZpmqDNCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829KGG4R/?tag=tolees-21'
 descuento: '20.01'
-average: '15.4566666666667'
+average: '15.19'
 ---
 
 Tienes [PLAYMOBIL - Veterinario de Zoo con Coche Médico](https://www.amazon.es/dp/B0829KGG4R/?tag=tolees-21) con precio final de  14.39 EUR (original: 17.99 EUR) (20.01 %  de rebaja) aqui!

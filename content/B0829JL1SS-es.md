@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - Family Fun Recinto Exterior  al 19.53 % de descuento'
-date: 2021-09-11 14:58:12
+date: 2021-09-20 09:02:11
 image: 'https://m.media-amazon.com/images/I/51Ok3obZdXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829JL1SS/?tag=tolees-21'
 descuento: '19.53'
-average: '10.39'
+average: '10.79'
 ---
 
 Está [PLAYMOBIL - Family Fun Recinto Exterior de Pandas Rojos](https://www.amazon.es/dp/B0829JL1SS/?tag=tolees-21) con 19.53 de descuento por 11.99 EUR (original: 14.9 EUR) en el siguiente enlace!
