@@ -28,8 +28,8 @@ Ahora mismo tienes [PLAYMOBIL Porsche Porsche 911 Carrera 4S Policía  A partir 
 
 🔎:
 
-- Con dos personajes
 - Techo extraíble
+- Con dos personajes
 - Con luces y sonidos
 - Accesorios para recrear un verdadero lugar de bloqueo
 - Si abre las dos puertas traseras, puedes empujar la silla de ruedas en la rampa plegable en el autobús, la rampa se retira y las puertas traseras se cierran
