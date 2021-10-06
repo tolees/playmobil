@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL - Gladiador](https://www.amazon.es/dp/B0829JKJL2/?
 
 🔎:
 
-- Espada y red de captura
-- Se puede usar diariamente: instrucciones de montaje junto con los padres, de alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) bajo el agua corriente sin productos químicos
 - con cuchilla y red
+- Espada y red de captura
 - Juego de figuras de juguete para niños a partir de 4 años: ideal para las manos de los niños gracias al tamaño adecuado y al tacto agradable con bordes redondeados
+- Se puede usar diariamente: instrucciones de montaje junto con los padres, de alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) bajo el agua corriente sin productos químicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0829JKJL2/?tag=tolees-21)
