@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL- City Action Figuras y Juegos de contrucción  Col
 
 🔎:
 
-- Flota en barco
 - 2 figuras con accesorios
 - Techo extraíble
 - Incluye cabrestante
+- Flota en barco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLFKFCS/?tag=tolees-21)
