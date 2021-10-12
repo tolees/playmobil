@@ -28,8 +28,8 @@ Ahora mismo tienes [Sirena Playmobil](https://www.amazon.es/dp/B0767BJJZM/?tag=t
 
 🔎:
 
-- Varias piezas de coral se pueden construir por separado
-- No apto para niños menores de 36 meses
 - El cetro y el espejo se pueden acoplar a los corales
+- No apto para niños menores de 36 meses
+- Varias piezas de coral se pueden construir por separado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0767BJJZM/?tag=tolees-21)
