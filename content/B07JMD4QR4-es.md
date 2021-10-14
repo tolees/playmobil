@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 70154 Special Plus Mamá con be al 30.08 % de rebaja'
-date: 2021-10-12 18:46:16
+date: 2021-10-14 15:02:38
 image: 'https://m.media-amazon.com/images/I/51W9mRc6nGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JMD4QR4/?tag=tolees-21'
 descuento: '30.08'
-average: '5.2544827586207'
+average: '5.17233333333334'
 ---
 
 Tienes [Playmobil 70154 Special Plus Mamá con bebé y Perro  Multicolor](https://www.amazon.es/dp/B07JMD4QR4/?tag=tolees-21) con precio final de  2.79 EUR (original: 3.99 EUR) (30.08 %  de rebaja) aqui!
