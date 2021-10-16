@@ -28,9 +28,9 @@ Ahora mismo tienes [PLAYMOBIL Christmas Reyes Magos  A partir de 4 años  9497 ]
 
 🔎:
 
-- Dimensiones: 18.7 x 7.2 x 14.2 cm
-- Incluye los cofres, la silla de montar y la cuerda
-- Desarrolla la imaginación y la creatividad
 - Incluye los tres reyes magos
+- Desarrolla la imaginación y la creatividad
+- Incluye los cofres, la silla de montar y la cuerda
+- Dimensiones: 18.7 x 7.2 x 14.2 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B3Z2HDD/?tag=tolees-21)
