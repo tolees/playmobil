@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL 1.2.3 Casa  A partir de 18 mes al 30.01 % de descuento'
-date: 2021-10-06 12:07:38
+title: 'PLAYMOBIL 1.2.3 Casa  A partir de 18 mes al 31.54 % de descuento'
+date: 2021-11-03 02:19:49
 image: 'https://m.media-amazon.com/images/I/51WTKUrzwkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07P7KJYQZ-es PLAYMOBIL 1.2.3 Casa A partir de 18 meses 70129'
 sku: 'B07P7KJYQZ-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Sets de construcción','playmobil', ]
-actualPrice: 31.49 EUR
+actualPrice: 30.8 EUR
 currency: EUR
-price: 31.49
+price: 30.8
 comparePrice: 44.99 EUR
 prodname: 'PLAYMOBIL 1.2.3 Casa  A partir de 18 meses  70129 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07P7KJYQZ/?tag=tolees-21'
-descuento: '30.01'
-average: '40.5515384615385'
+descuento: '31.54'
+average: '39.1270588235294'
 ---
 
-Ahora mismo tienes [PLAYMOBIL 1.2.3 Casa  A partir de 18 meses  70129 ](https://www.amazon.es/dp/B07P7KJYQZ/?tag=tolees-21) a 31.49 EUR (original: 44.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL 1.2.3 Casa  A partir de 18 meses  70129 ](https://www.amazon.es/dp/B07P7KJYQZ/?tag=tolees-21) a 30.8 EUR (original: 44.99 EUR) (31.54 %  de descuento) en el siguiente enlace!
 
 [![PLAYMOBIL 1.2.3 Casa  A partir de 18 mes](https://m.media-amazon.com/images/I/51WTKUrzwkS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07P7KJYQZ/?tag=tolees-21)
 
