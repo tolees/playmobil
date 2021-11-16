@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL Magic Familia con Cochecito   A partir de 4 años  70100 ](htt
 
 🔎:
 
-- Incluye figuras y accesorios
+- Recomendado a partir de 4 años
 - Desarrolla la imaginación y la creatividad
 - Contiene 18 piezas
-- Recomendado a partir de 4 años
+- Incluye figuras y accesorios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMCBRB4/?tag=tolees-21)
