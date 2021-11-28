@@ -31,7 +31,7 @@ Está [PLAYMOBIL City Action Comisaría de Policía con Prisión  A partir de 4 
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1 PLAYMOBIL City Action Comisaría de Policía con Prisión, Juego de 256 piezas con manual de instrucciones: 1 Comisaría de Policía, 3 figuras, 252 accesorios
 - 3 figuras, 2 celdas de prisión, con centro de comando y sistema telefónico, helipuerto, patio con estacionamiento para Coche de Policía (6920) y mucho más
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para los pequeños policías: PLAYMOBIL Comisaría de Policía con Prisión, Policías y criminales, muchos accesorios para jugar
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJPC9X6/?tag=tolees-21)
