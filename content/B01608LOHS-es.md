@@ -28,11 +28,11 @@ En este momento está [PLAYMOBIL 6872 – Policía de Central de Comando con p
 
 🔎:
 
-- En el gran patio puede uso de la policía carro (Número de referencia 6873) se estacionado
-- Incluye Gangster en su monopatín
-- Nota: el artículo se suministra en las versiones "Police" y "Police".
-- Sobre la incluida transparentfolien pueden registrar las huellas dactilares y así los criminales ser identificado
 - Con mando central terciopelo PBX
+- Sobre la incluida transparentfolien pueden registrar las huellas dactilares y así los criminales ser identificado
 - A través de un muro avance pueden geschnappte criminales de los dos células escapar
+- Incluye Gangster en su monopatín
+- En el gran patio puede uso de la policía carro (Número de referencia 6873) se estacionado
+- Nota: el artículo se suministra en las versiones "Police" y "Police".
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01608LOHS/?tag=tolees-21)
