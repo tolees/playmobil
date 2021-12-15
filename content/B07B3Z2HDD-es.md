@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye los tres reyes magos
+- Incluye los cofres, la silla de montar y la cuerda
 - Dimensiones: 18.7 x 7.2 x 14.2 cm
 - Desarrolla la imaginación y la creatividad
-- Incluye los cofres, la silla de montar y la cuerda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
