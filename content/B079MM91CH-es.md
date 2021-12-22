@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Space 9488 Cohete con Plataforma de Lanzamiento  A partir de 6 años [Exclusivo]'
-date: 2021-12-21 11:12:39
+date: 2021-12-22 19:33:46
 image: 'https://m.media-amazon.com/images/I/51QZL0-IqvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079MM91CH/?tag=tolees-21'
 descuento: '50.02'
-average: '55.1868421052631'
+average: '55.0811428571428'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, Juego de 113 piezas con instrucciones: 1 Cohete, 3 figuras, 109 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 22x28x72 cm, 9488
-- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Original plataforma de lanzamiento, Plataforma de mantenimiento móvil, Cápsula espacial extraíble acoplable a la Estación de Marte 9487, Ampliable con el Satélite con Láser para los Meteoritos (9490)
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, Juego de 113 piezas con instrucciones: 1 Cohete, 3 figuras, 109 accesorios (requiere 2 micro baterías 1.5 V, no incluidas), Material: plástico, AxPxAl: 22x28x72 cm, 9488
+- Original plataforma de lanzamiento, Plataforma de mantenimiento móvil, Cápsula espacial extraíble acoplable a la Estación de Marte 9487, Ampliable con el Satélite con Láser para los Meteoritos (9490)
 - Diversión para los pequeños astronautas: PLAYMOBIL Space Cohete con Plataforma de Lanzamiento, figuras y numerosos accesorios, así como efectos de luz y sonido
+- Juego de figuras para niños a partir de 6 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
