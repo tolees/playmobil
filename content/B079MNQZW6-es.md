@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Princesa Finya, Príncipe Florin y numerosos animales del mundo primaveral e invernal, Sofisticados obstáculos, Cristal luminoso que cambia de color
-- Diversión para niñas y niños: PLAYMOBIL Búsqueda del Diamante de Cristal con figuras, numerosos accesorios y mágicos efectos de luz para jugar
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para niñas y niños: PLAYMOBIL Búsqueda del Diamante de Cristal con figuras, numerosos accesorios y mágicos efectos de luz para jugar
 - Contenido: 1 PLAYMOBIL Búsqueda del Diamante de Cristal, Juego de 77 piezas con instrucciones: 1 Cueva, barandilla y puente, 2 figuras, 74 accesorios (requiere 2 micro baterías 1,5 V, no incluidas), Material: plástico, LxPxA: 40x31x19 cm, 9470
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Princesa Finya, Príncipe Florin y numerosos animales del mundo primaveral e invernal, Sofisticados obstáculos, Cristal luminoso que cambia de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
