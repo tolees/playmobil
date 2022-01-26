@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Stuntshow 70553 Moto con muro de fuego  Para niños de 4 a 10 años'
-date: 2022-01-17 18:09:42
+date: 2022-01-26 09:47:10
 image: 'https://m.media-amazon.com/images/I/51yvFXdRSoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KVPDHXF/?tag=tolees-21'
 descuento: '52.93'
-average: '12.055'
+average: '12.0477777777778'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
