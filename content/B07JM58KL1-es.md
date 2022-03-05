@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye una figura, dos animales y accesorios
 - Con espacio de almacenamiento adicional para paja y grano
 - Desarrolla la imaginación y la creatividad
-- Incluye una figura, dos animales y accesorios
 - Cuando plegás la granja se puede guardar todo dentro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
