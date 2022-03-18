@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Diversión invernal en DreamWorks Spirit: PLAYMOBIL Paseo en Trineo con el padre de Fortu, la esposa y el bebé, además de accesorios para jugar con todo detalle
 - Contenido: 1 PLAYMOBIL DreamWorks Spirit Paseo en Trineo, Juego de 28 piezas con instrucciones: 1 trineo, 2 figuras, 1 caballo, 24 accesorios, Material: Plástico, LxPxA: 23x7.5x8 cm, Peso: 158 g, 70397
-- Trineo con abrazadera de pie para 2 figuras, Bandeja para la cesta, Caballo con equipo desmontable y collar adecuado para montar, accesorios y mucho más
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Trineo con abrazadera de pie para 2 figuras, Bandeja para la cesta, Caballo con equipo desmontable y collar adecuado para montar, accesorios y mucho más
 - Juego de figuras para niños a partir de 4 años: Idóneo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
