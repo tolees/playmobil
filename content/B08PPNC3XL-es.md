@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Back to the Future 70633 Camioneta Pick-up de Marty  A partir de 5 años'
-date: 2022-04-01 08:37:41
+date: 2022-04-02 14:50:33
 image: 'https://m.media-amazon.com/images/I/51R+EVteKkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viaje en el tiempo: PLAYMOBIL Back to the Future Camioneta Pick-up de Marty con Marty McFly, Jennifer Parker y Biff Tannen para recrear la famosa escena de la película
-- Camioneta con acoplamiento de remolque ajustable en altura, capó y portón de atrás que se abren - espacio para 2 figuras, 1 postal y mucho más
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 6 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1x PLAYMOBIL Back to the Future Camioneta Pick-up de Marty, Juego de 35 piezas con instrucciones: 1 camioneta, 3 figuras, 31 accesorios, Material: plástico, LxDxH: 25x12x13 cm, Peso: 368 g, 70633
+- PLAYMOBIL Back to the Future Martys Pick-up Truck with Marty McFly, Jennifer Parker and Biff Tannen to re-enact the famous scene from the iconic film
+- Contents: 1x PLAYMOBIL Back to the Future Martys Pick-up Truck, 35-piece play figure set with instructions: 1 pick-up truck, 3 figures, 31 accessories, Material: plastic, LxDxH: 25x12x13 cm, Weight: 368 g, 70633
+- Pickup truck with height-adjustable trailer coupling, opening bonnet and tailgate, 1 postcard, space for 2 figures and much more
+- Playset for children ages 6+: Fits perfectly in childrens hands due to age-appropriate size pieces, Easy to hold thanks to its rounded edges
+- Everyday use: instructions for assembly (with parents), High quality and robust design, To clean the parts (not including stickers), place pieces under running water containing no chemical agents
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Ghostbusters 9220 Ecto-1  A partir de 6 años'
-date: 2022-04-01 08:37:52
+date: 2022-04-02 14:49:55
 image: 'https://m.media-amazon.com/images/I/51xOAuUotFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21'
 descuento: '46.96'
-average: '39.8550442477875'
+average: '39.8043612334801'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diversión para pequeños cazafantasmas: Ecto-1 de los Cazafantasmas de PLAYMOBIL con fantásticos efectos de luz y sonido y espacio para 4 cazafantasmas y su equipo
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Techo extraíble, puerta de maletero abatible, 2 figuras, 4 fijaciones para los equipos, trampa para fantasmas y mucho más, compatible con el Cuartel Estación de Bomberos de los Cazafantasmas (9219)
 - Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1 PLAYMOBIL Ghostbusters Ecto-1, Juego de 79 piezas con instrucciones: 1 Ghostbusters Ecto-1, 2 figuras, 76 accesorios
+- Techo extraíble, puerta de maletero abatible, 2 figuras, 4 fijaciones para los equipos, trampa para fantasmas y mucho más, compatible con el Cuartel Estación de Bomberos de los Cazafantasmas (9219)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
