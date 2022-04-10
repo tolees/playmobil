@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Romanos y Egipcios - PLAYMOBIL History 5392 Romanos y Egipcios  A partir de 6 años'
-date: 2022-04-03 18:30:22
+date: 2022-04-10 18:50:20
 image: 'https://m.media-amazon.com/images/I/51ZOcwToapL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playmobil Romanos y Egipcios'
 buyurl: 'https://www.amazon.es/dp/B01EKG4BG8/?tag=tolees-21'
 descuento: '37.89'
-average: '6.792'
+average: '6.74166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La ballesta puede lanzar las flechas
-- Desarrolla la imaginación y la creatividad
 - Ballesta y tres flechas
 - Figura de legionario con espada
+- Desarrolla la imaginación y la creatividad
+- La ballesta puede lanzar las flechas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
