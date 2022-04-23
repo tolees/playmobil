@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Desarrolla la imaginación y la creatividad
-- Recomendado a partir de 4 años
 - Incluye caravana, kayak, quad y tres figuras
+- Recomendado a partir de 4 años
 - Contiene varios accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
