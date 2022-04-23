@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil History 5390  Miscelanea  a Partir de 6 años [Exclusivo]'
-date: 2022-04-22 07:21:57
+date: 2022-04-23 18:27:11
 image: 'https://m.media-amazon.com/images/I/510bGN729wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01EKBCYDU/?tag=tolees-21'
 descuento: '20.00'
-average: '42.6942857142857'
+average: '42.3895454545454'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Galera romana con remos y velas
 - Con ruedas en el casco para deslizarse por tierra
 - Incluye tres figuras, comida, copas, jarrones, cestas, diversas armas, escudos y remos
 - Clips en la cubierta aseguran que las figuras se mantengan firmes
-- Galera romana con remos y velas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
