@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño de las figuras: 7,5 cm
-- Adecuado para niños mayores de 6 años
 - Incluye 4 figuras y sus accesorios
 - Conjunto de los 4 Cazafantasmas de la primera película con sus accesorios.
+- Tamaño de las figuras: 7,5 cm
+- Adecuado para niños mayores de 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
