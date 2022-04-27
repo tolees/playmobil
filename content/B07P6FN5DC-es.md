@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1.2.3 70125 Pala Excavadora  A partir de 18 meses'
-date: 2022-04-23 18:24:45
+date: 2022-04-27 21:35:23
 image: 'https://m.media-amazon.com/images/I/51IaM2YNU9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07P6FN5DC/?tag=tolees-21'
 descuento: '24.20'
-average: '14.7131914893618'
+average: '14.6591666666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene seis piezas
-- Con brazo de pala móvil
 - Desarrolla la imaginación y la creatividad
+- Con brazo de pala móvil
 - Ayuda al trabajador de la construcción a desenterrar y cargar los bloques de construcción
+- Contiene seis piezas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

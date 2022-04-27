@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - Pirates  Cofre Aventura Pirata  a Partir de 4 años  70506 '
-date: 2022-04-23 18:24:56
+date: 2022-04-27 21:36:48
 image: 'https://m.media-amazon.com/images/I/51kiQQQ97qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KVV8PMV/?tag=tolees-21'
 descuento: '19.01'
-average: '21.392'
+average: '20.66'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL SCOOBY-DOO! 70363 Cena con Shaggy  A Partir de 5 Años'
-date: 2022-04-23 18:28:29
+date: 2022-04-27 21:26:30
 image: 'https://m.media-amazon.com/images/I/41KUqG4AHKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B081HQ6HC7/?tag=tolees-21'
 descuento: '25.70'
-average: '13.7024137931036'
+average: '13.671525423729'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
