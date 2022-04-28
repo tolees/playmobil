@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 32 piezas
 - Incluye una figura y varios animales y accesorios
-- Desarrolla la imaginación y la creatividad
+- Contiene 32 piezas
 - Techo extraíble
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
