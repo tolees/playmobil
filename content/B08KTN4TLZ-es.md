@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para los amantes de la moda: PLAYMOBIL Cafetería con camarero, Madre, Hija y Perro, así como amplios accesorios para el descanso de compras en el centro comercial
+- Contenido: 1x PLAYMOBIL City Life Cafetería, Juego de 60 piezas con instrucciones: 3 figuras, 57 accesorios, Material: Plástico, Se puede montar individualmente, Peso: 84 g, 70593
 - Figura de mujer y niño con pulseras extraíbles, falda, etc., 2 bolsas para guardar, 1 Mesa, 2 Sillas, Combinable con PLAYMOBIL City Life: Fashion
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 1x PLAYMOBIL City Life Cafetería, Juego de 60 piezas con instrucciones: 3 figuras, 57 accesorios, Material: Plástico, Se puede montar individualmente, Peso: 84 g, 70593
 
 [🛒 Comprar!!!]({{< param buyurl >}})

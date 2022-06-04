@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye elementos de cuadra, armario para guardar piezas pequeñas, lazos para decorar los caballos, 2 cascos de montar, 2 sillas de montar - 1 de ellas para damas y mucho más.
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1x PLAYMOBIL Princess Clases de Equitación en el Establo, Juego de 185 piezas con instrucciones: 1 armario, 2 figuras, 2 caballos, 180 accesorios, Material: plástico, LxDxH establo con paredes laterales: aprox. 28-34x7,5-13,5x15 cm, Peso: 327 g, 70450
-- Cuento de hadas: Clases de equitación PLAYMOBIL en el establo con la princesa Pina, el padre de Betty, 2 caballos y mucho más. Para una recreación detallada
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Cuento de hadas: Clases de equitación PLAYMOBIL en el establo con la princesa Pina, el padre de Betty, 2 caballos y mucho más. Para una recreación detallada
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Incluye elementos de cuadra, armario para guardar piezas pequeñas, lazos para decorar los caballos, 2 cascos de montar, 2 sillas de montar - 1 de ellas para damas y mucho más.
+- Contenido: 1x PLAYMOBIL Princess Clases de Equitación en el Establo, Juego de 185 piezas con instrucciones: 1 armario, 2 figuras, 2 caballos, 180 accesorios, Material: plástico, LxDxH establo con paredes laterales: aprox. 28-34x7,5-13,5x15 cm, Peso: 327 g, 70450
 
 [🛒 Aquí!!!]({{< param buyurl >}})

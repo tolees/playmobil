@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye mostrador y estante
+- Desarrolla la imaginación y la creatividad
 - Contiene 46 piezas
 - Incluye diferentes comidas y bebidas, como manzanas, donuts, pizza y agua
-- Desarrolla la imaginación y la creatividad
-- Incluye mostrador y estante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

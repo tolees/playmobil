@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pista de baile giratoria
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
-- Un pozo sobre el que descansa una rana y una planta con diversas flores, al colocar a los bailarines sobre la plataforma se les puede hacer girar mediante una rueda
 - Pista de baile giratoria, baile de Máscaras con tres figuras: dos bailarines y un músico con violín, la pista de baile tiene un arco adornado con flores y estrellas
+- Un pozo sobre el que descansa una rana y una planta con diversas flores, al colocar a los bailarines sobre la plataforma se les puede hacer girar mediante una rueda
+- Pista de baile giratoria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
