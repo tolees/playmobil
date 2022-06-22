@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 70283 Niños con Disfraces'
-date: 2022-06-21 00:25:30
+date: 2022-06-22 17:58:33
 image: 'https://m.media-amazon.com/images/I/51egIOxwE1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829KZC7W/?tag=tolees-21'
 descuento: '42.89'
-average: '9.31'
+average: '8.98'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca PLAYMOBIL
-- Color carbón
 - Juegos de construcción
+- Color carbón
 - Plástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
