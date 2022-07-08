@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL DreamWorks Dragons 70731 Dragon Racing: Garfios y Patán Mocoso  A partir de 4 años'
-date: 2022-07-07 00:20:21
+date: 2022-07-08 07:27:47
 image: 'https://m.media-amazon.com/images/I/51BySxLr+pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KTMWBLK/?tag=tolees-21'
 descuento: '48.02'
-average: '25.24'
+average: '25.19'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
