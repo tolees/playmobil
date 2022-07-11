@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diversión para los pequeños piratas: PLAYMOBIL Carabela con 2 soldados, así como una balsa pirata y muchos accesorios para jugar
-- 2 soldados con telescopio y mucho más, barco flotante con ancla y cañones, ampliable con Motor Submarino (7350), balsa con proyectil y 1 pirata
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 5 años: Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1 PLAYMOBIL Pirates Carabela, juego de 87 piezas con instrucciones: 1 barco, 3 figuras, 83 accesorios, material: plástico, L x P x A: 40 x 17 x 30 cm, 70412
+- Juego de figuras para niños a partir de 5 años: Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- 2 soldados con telescopio y mucho más, barco flotante con ancla y cañones, ampliable con Motor Submarino (7350), balsa con proyectil y 1 pirata
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
