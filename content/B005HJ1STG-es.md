@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 5953 Maletín Conjunto de hospital'
-date: 2022-07-15 12:53:53
+date: 2022-07-17 15:12:21
 image: 'https://m.media-amazon.com/images/I/51qBnufOrBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B005HJ1STG/?tag=tolees-21'
 descuento: '17.91'
-average: '45.39'
+average: '45.8081818181818'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

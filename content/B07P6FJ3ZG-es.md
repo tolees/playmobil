@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Quirófano, pacientes y sala de espera, ascensor, máquina expendedora de bebidas y lámpara de quirófano móvil, monitor iluminado, ampliable con extensión para el gran hospital (9848)
-- Diversión para los pequeños pacientes: playmobil gran hospital con mobiliario, accesorios, así como médico, enfermera y otras figuras para jugar
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 1 PLAYMOBIL City Life Gran Hospital, Juego de 512 piezas con instrucciones: 1 hospital, 4 figuras, 507 accesorios (Requiere 1 micro batería de 1,5 V, no incluida), LxPxA: 70x31x34 cm, 70190
+- Quirófano, pacientes y sala de espera, ascensor, máquina expendedora de bebidas y lámpara de quirófano móvil, monitor iluminado, ampliable con extensión para el gran hospital (9848)
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1 PLAYMOBIL City Life Gran Hospital, Juego de 512 piezas con instrucciones: 1 hospital, 4 figuras, 507 accesorios (Requiere 1 micro batería de 1,5 V, no incluida), LxPxA: 70x31x34 cm, 70190
+- Diversión para los pequeños pacientes: playmobil gran hospital con mobiliario, accesorios, así como médico, enfermera y otras figuras para jugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

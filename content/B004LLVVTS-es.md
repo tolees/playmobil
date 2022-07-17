@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1.2.3 6773 Autobús  A partir de 18 meses'
-date: 2022-07-15 12:56:32
+date: 2022-07-17 15:12:30
 image: 'https://m.media-amazon.com/images/I/51q+1PaFr0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B004LLVVTS/?tag=tolees-21'
 descuento: '16.20'
-average: '16.13875'
+average: '16.1968'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 4 figuras, 1 autobús y multitud de accesorios
 - Contenido: 1 PLAYMOBIL Autobús, Juego de 9 piezas con instrucciones: 3 figuras y muchos accesorios, material: plástico, LxPxA: 20 x 8 x 9 cm, 6773
-- Diversión para los más pequeños: PLAYMOBIL Autobús con figuras y accesorios realistas, contiene piezas grandes idóneas para manos pequeñas
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, diseño robusto y de alta calidad, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego adecuado para niños a partir de 18 meses, óptimo para las manos de los niños gracias a su tamaño adaptado y fácil sujeción gracias a sus bordes redondeados
+- Diversión para los más pequeños: PLAYMOBIL Autobús con figuras y accesorios realistas, contiene piezas grandes idóneas para manos pequeñas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
