@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 70923 Porsche 911 Carrera RS 2.7  Coche Deportivo para niños y Adultos  A Partir de 5 a 99 años'
-date: 2022-07-15 12:44:16
+date: 2022-07-17 14:34:46
 image: 'https://m.media-amazon.com/images/I/51PNYy4nvtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B09JSK6K1Y/?tag=tolees-21'
 descuento: '16.23'
-average: '58.0618181818182'
+average: '58.1091666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x PLAYMOBIL 70923 Porsche 911 Carrera RS 2.7, Set de 39 piezas con instrucciones: 1 coche PLAYMOBIL, 2 figuras, 36 accesorios, Material: plástico, LxAxP Vehículo: 25 x 11 x 8 cm, Escala (Coche de colección Porsche 911): Aprox. 1:17, peso: 295 g, 70923
 - Techo desmontable, volante que se puede agarrar por ambos lados, maletero abatible, letras Carrera curvas en el lateral, detalles cromados y mucho más.
 - Coche deportivo PLAYMOBIL ideal como coche de colección o como regalo para aficionados a los coches deportivos, Incluye 2 figuras, cartel de presentación y accesorios.
 - Por la carretera con el Porsche 911 Carrera RS 2.7, un clásico y nostálgico coche amarillo de PLAYMOBIL en la forma legendaria de la carrocería y con detalles aerodinámicos.
+- Contenido: 1x PLAYMOBIL 70923 Porsche 911 Carrera RS 2.7, Set de 39 piezas con instrucciones: 1 coche PLAYMOBIL, 2 figuras, 36 accesorios, Material: plástico, LxAxP Vehículo: 25 x 11 x 8 cm, Escala (Coche de colección Porsche 911): Aprox. 1:17, peso: 295 g, 70923
 - Diseño robusto y de alta calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos, Adecuado como juguete para niños a partir de 5 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
