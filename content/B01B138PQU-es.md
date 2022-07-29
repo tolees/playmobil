@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Contiene 22 piezas
 - Maletín en el que podrás guardar todos los accesorios
-- Desarrolla la imaginación y la creatividad
 - Incluye una figura pirata y accesorios
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
