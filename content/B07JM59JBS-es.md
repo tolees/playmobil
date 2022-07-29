@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Recomendado a partir de 18 meses
 - Desarrolla la imaginación y la creatividad
 - Dimensiones: 43.5 x 32.5 x 12 cm
 - Incluye ferroviario y accesorios
-- Recomendado a partir de 18 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})

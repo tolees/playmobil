@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Incluye tres figuras
 - Maletín en el que podrás guardar todos los accesorios
+- Incluye tres figuras
+- Desarrolla la imaginación y la creatividad
 - Con varios accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

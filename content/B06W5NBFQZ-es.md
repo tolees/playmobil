@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 1 PLAYMOBIL Calendario de Adviento Granja de Caballos, 125 piezas con instrucciones: 1 Calendario de Adviento, 1 escenario, 3 figuras, 120 accesorios, Material: papel, plástico, LxPxA: 40x30x7.5 cm, 9262
-- Calendario de Adviento con 3 figuras, 5 caballos, 1 escenario de una granja en cartón, entre otros, que complementa la colección Country de PLAYMOBIL
 - Diversión en Navidad: PLAYMOBIL Calendario de Adviento Granja de Caballos con figuras, caballos, animales y numerosos accesorios detrás de cada puerta
+- Contenido: 1 PLAYMOBIL Calendario de Adviento Granja de Caballos, 125 piezas con instrucciones: 1 Calendario de Adviento, 1 escenario, 3 figuras, 120 accesorios, Material: papel, plástico, LxPxA: 40x30x7.5 cm, 9262
 - Calendario de Adviento para niños a partir de 4 años: adecuado para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Calendario de Adviento con 3 figuras, 5 caballos, 1 escenario de una granja en cartón, entre otros, que complementa la colección Country de PLAYMOBIL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

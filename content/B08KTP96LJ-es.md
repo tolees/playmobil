@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Robot con púlpito abatible para 1 figura adulta: piernas, brazos y caderas móviles, manos giratorias con 3 dedos movibles individualmente y mucho más.
 - Contenido: 1x PLAYMOBIL City Action Robot Policía: Inserto especial, Juego de 50 piezas con instrucciones: 1 robot, 2 figuras, 47 accesorios, Material: plástico, Se puede montar individualmente / LxDxH robot (de pie): aprox. 13x8x17,5 cm, Peso: 184 g, 70571
 - Misión para el robot policía: Misión especial PLAYMOBIL con policía, gángster y accesorios para una recreación detallada
-- Robot con púlpito abatible para 1 figura adulta: piernas, brazos y caderas móviles, manos giratorias con 3 dedos movibles individualmente y mucho más.
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
