@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión en Navidad: PLAYMOBIL Calendario de Adviento Operación Rescate con figuras y numerosos accesorios detrás de cada puerta
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Calendario de Adviento con 2 figuras, quad con motor de fricción, escenario de ciudad de cartón, entre otros, que complementa el mundo de City Action de PLAYMOBIL
 - Contenido: 1 PLAYMOBIL Calendario de Adviento Operación Rescate, 76 piezas con instrucciones: 1 Calendario de Adviento, 1 escenario, 2 figuras, 72 accesorios, material: papel, plástico, LxPxA: 40x30x7.5 cm, 9486
+- Diversión en Navidad: PLAYMOBIL Calendario de Adviento Operación Rescate con figuras y numerosos accesorios detrás de cada puerta
+- Calendario de Adviento con 2 figuras, quad con motor de fricción, escenario de ciudad de cartón, entre otros, que complementa el mundo de City Action de PLAYMOBIL
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Calendario de Adviento para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
