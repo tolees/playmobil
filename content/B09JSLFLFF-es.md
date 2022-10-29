@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El clásico coche deportivo de los años 50: PLAYMOBIL Mercedes-Benz 300 SL con sus famosas puertas que se abren hacia arriba y accesorios de una escena de carreras
 - Contenido: 1x PLAYMOBIL Classic Cars Mercedes-Benz 300 SL, Juego de 46 piezas con instrucciones: 1 coche PLAYMOBIL, 2 figuras, 43 accesorios, Material: plástico, LxAxP Vehículo: aprox. 26 x 10,5 x 7,5 cm, escala (modelo de coche Mercedes Benz): Aprox. 1:17, peso: 320 g, 70922
 - Diseño robusto y de alta calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos, Adecuado como juguete para niños a partir de 5 años
 - Coche de carreras PLAYMOBIL ideal como coche de coleccionista en formato de juguete mini o como regalo para los amantes de los coches deportivos, Con 2 figuras, cartel de presentación y accesorios.
+- El clásico coche deportivo de los años 50: PLAYMOBIL Mercedes-Benz 300 SL con sus famosas puertas que se abren hacia arriba y accesorios de una escena de carreras
 - 2 puertas que se abren hacia arriba, volante que se puede agarrar por ambos lados, portón de atrás que se puede abrir hacia arriba, piezas complementarias (incluidos los guardabarros) con un elegante aspecto cromado y mucho más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
