@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Divertido juguete del Caballero de Novelmore: PLAYMOBIL Ataque del Dragón de los Bandidos de Burnham Tyragon y Khaboom contra la guerrera de Novelmore Gwynn y el Mecánico Bolt Nutcliff.
 - Juguete para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
-- 1 dragón con extremidades y alas móviles, 1 carro de combate móvil con 2 proyectiles de agua, 1 khaboom con cara cambiable, 4 caballeros PLAYMOBIL y mucho más.
 - Contenido: 1x PLAYMOBIL Novelmore Ataque del Dragón, Set de figuras de 46 piezas con instrucciones: 1 esquina de pared, 1 cañón, 4 figuras Novelmore, 1 dragón PLAYMOBIL, 39 accesorios, Material: plástico, LxAxP Dragón: Aprox. 30 x 25 x 15 cm (individualmente), Esquina de pared: 12 x 9 x 6 cm), peso: 308 g, 70904
+- 1 dragón con extremidades y alas móviles, 1 carro de combate móvil con 2 proyectiles de agua, 1 khaboom con cara cambiable, 4 caballeros PLAYMOBIL y mucho más.
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
