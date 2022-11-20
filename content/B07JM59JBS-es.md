@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1 2 3 - 70179 - Tren con pasajeros y circuito'
-date: 2022-11-17 23:52:26
+date: 2022-11-20 18:41:44
 image: 'https://m.media-amazon.com/images/I/510VduqimIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JM59JBS/?tag=tolees-21'
 descuento: '28.28'
-average: '40.635'
+average: '40.7411111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Desarrolla la imaginación y la creatividad
 - Recomendado a partir de 18 meses
 - Incluye ferroviario y accesorios
-- Desarrolla la imaginación y la creatividad
 - Dimensiones: 43.5 x 32.5 x 12 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
