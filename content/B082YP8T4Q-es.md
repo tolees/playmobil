@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PLAYMOBIL 1.2.3 - 70267 - Parque acu�tico'
-date: 2022-11-17 23:59:43
+title: 'PLAYMOBIL 1.2.3 Parque Acuático  A partir de 18 meses  70267 '
+date: 2022-11-28 17:55:27
 image: 'https://m.media-amazon.com/images/I/61x3pnZH8kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B082YP8T4Q-es PLAYMOBIL 1.2.3 - 70267 - Parque acu�tico'
+slug: 'B082YP8T4Q-es PLAYMOBIL 1.2.3 Parque Acuático A partir de 18 meses 70267'
 sku: 'B082YP8T4Q-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','playmobil','🇪🇸', ]
-actualPrice: 38.39 EUR
+actualPrice: 39.54 EUR
 currency: EUR
-price: 38.39
+price: 39.54
 comparePrice: 62.99 EUR
-prodname: 'PLAYMOBIL 1.2.3 - 70267 - Parque acu�tico'
+prodname: 'PLAYMOBIL 1.2.3 Parque Acuático  A partir de 18 meses  70267 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B082YP8T4Q/?tag=tolees-21'
-descuento: '39.05'
-average: '41.0507142857143'
+descuento: '37.23'
+average: '40.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
