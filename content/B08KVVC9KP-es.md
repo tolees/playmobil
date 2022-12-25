@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Volkswagen VW Beetle  A Partir de 5 años  70177 '
-date: 2022-12-24 15:30:00
+date: 2022-12-25 17:01:29
 image: 'https://m.media-amazon.com/images/I/517BtjLlhzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KVVC9KP/?tag=tolees-21'
 descuento: '37.51'
-average: '36.8703351955306'
+average: '36.8043333333332'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
