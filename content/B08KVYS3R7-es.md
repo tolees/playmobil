@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Volkswagen Volkswagen T1 Camping Bus  A Partir de 5 años  70176 '
-date: 2022-12-28 08:25:59
+date: 2023-01-07 16:36:01
 image: 'https://m.media-amazon.com/images/I/51DS+eOnrjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KVYS3R7/?tag=tolees-21'
 descuento: '40.01'
-average: '45.6061137440757'
+average: '45.5324528301885'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
