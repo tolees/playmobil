@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Scooby-DOO! Aventura con Snow Ghost  A Partir de 5 años  70706 '
-date: 2023-01-06 10:06:51
+date: 2023-01-07 10:45:54
 image: 'https://m.media-amazon.com/images/I/51XFMjSpylL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KTP3QXJ/?tag=tolees-21'
 descuento: '25.39'
-average: '13.63'
+average: '13.175'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
