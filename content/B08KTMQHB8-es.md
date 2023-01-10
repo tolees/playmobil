@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se puede usar a diario: instrucciones para montar con los padres, diseño resistente y de alta calidad. Las piezas sin pegatinas se limpian con agua corriente sin agentes químicos
-- Remolque para 2 ponis con rampa plegable y techo extraíble, coche con acoplamiento de remolque, zona de carga posterior con asas y mucho más.
-- Juguete para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para los pequeños amantes de los animales: coche PLAYMOBIL con remolque para ponis con padre, hijo, 1 caballo y amplios accesorios para el transporte de caballos.
 - Contenido: 1x PLAYMOBIL Coche con Remolque para Poni, juego de 44 piezas con instrucciones: 1 coche, 1 remolque, 2 figuras, 1 caballo, 39 accesorios, Material: plástico, (largo x profundidad x alto) Coche: 18,5x10,7x9 cm / Remolque: 18x10x12 cm, peso: 458 g, 70511
+- Se puede usar a diario: instrucciones para montar con los padres, diseño resistente y de alta calidad. Las piezas sin pegatinas se limpian con agua corriente sin agentes químicos
+- Diversión para los pequeños amantes de los animales: coche PLAYMOBIL con remolque para ponis con padre, hijo, 1 caballo y amplios accesorios para el transporte de caballos.
+- Juguete para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Remolque para 2 ponis con rampa plegable y techo extraíble, coche con acoplamiento de remolque, zona de carga posterior con asas y mucho más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
