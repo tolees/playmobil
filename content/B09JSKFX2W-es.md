@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figuras romanas con armadura y capas desmontables, extra de Cayo con peluca intercambiable, tienda del general con alfombra, cama, taburete, silla y accesorios
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
-- Juguete para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Galos vs. Romanos: Tienda del líder PLAYMOBIL con los generales romanos Caius Bonus y Marcus Ecus, así como detalles de los cómics de Astérix y Obélix
+- Figuras romanas con armadura y capas desmontables, extra de Cayo con peluca intercambiable, tienda del general con alfombra, cama, taburete, silla y accesorios
+- Juguete para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1x PLAYMOBIL Astérix: Tienda con generales, Set de 52 piezas con instrucciones: 1 tienda, 2 figuras romanas, 49 accesorios, Material: plástico, LxAxP Tienda: 23 x 14 x 19,5 cm, Peso: 248 g, 71015
 
 [🛒 Visítala!!!]({{< param buyurl >}})
