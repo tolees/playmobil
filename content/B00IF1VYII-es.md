@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juguete educativo que fomenta el juego simbólico
-- Desarrolla la imaginación y la creatividad
 - Contiene varios accesorios
+- Juguete educativo que fomenta el juego simbólico
 - Incluye dos bebés, mamá, bolso y dos sonajeros
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
