@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL - La Furgoneta del Equipo A  A Partir de 5 años  70750 '
-date: 2023-01-11 18:00:18
+date: 2023-01-16 23:22:31
 image: 'https://m.media-amazon.com/images/I/51w1SUSUf1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B095KP2T5V/?tag=tolees-21'
 descuento: '31.24'
-average: '64.3744680851063'
+average: '64.1791666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Este es el vehículo del Equipo A con un amplio equipamiento interior, así como los legendarios personajes Hannibal, B.A., Face y Murdock
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B095KP2T5V{{</world>}}
