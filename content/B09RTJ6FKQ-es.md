@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fomenta creatividad e imaginación
 - Divertido para coleccionar, jugar y regalar
 - Incluye figura y accesorios
+- Fomenta creatividad e imaginación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RTJ6FKQ{{</world>}}

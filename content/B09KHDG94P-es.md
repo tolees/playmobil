@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figura de Hipster con E-Scooter y accesorios
 - Divertido para coleccionar, jugar y regalar
+- Figura de Hipster con E-Scooter y accesorios
 - Fomenta creatividad e imaginación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

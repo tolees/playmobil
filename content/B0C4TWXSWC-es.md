@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tornavis conduce astutamente a los galos al interior de la pirámide con el pretexto de una visita guiada. Allí les espera una cámara del tesoro, paredes magníficamente decoradas y peligrosas sorpresas
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 93 piezas con instrucciones: 5 figuras, 6 animales, 82 accesorios adicionales; materiales de plástico; LxAxA: aprox. 46 x 37,5 x 27 cm, peso: 1658 g, 71148
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Tornavis conduce astutamente a los galos al interior de la pirámide con el pretexto de una visita guiada. Allí les espera una cámara del tesoro, paredes magníficamente decoradas y peligrosas sorpresas
 - Una trampilla, una mazmorra y una peligrosa puerta giratoria forman parte del laberinto. Pero gracias a Ideafix, los amigos sobreviven a los desafíos y escapan ilesos
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 93 piezas con instrucciones: 5 figuras, 6 animales, 82 accesorios adicionales; materiales de plástico; LxAxA: aprox. 46 x 37,5 x 27 cm, peso: 1658 g, 71148
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4TWXSWC{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con función basculante; medidas: 19 x 7 x 10 (LxPxA)
-- Transporta los bloques junto con el obrero
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Transporta los bloques junto con el obrero
 - Juguete para niños a partir de 18 meses: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

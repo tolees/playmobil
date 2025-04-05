@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Kankuro es un Shinobi de Hidden Leaf; su especialidad es el uso de varias marionetas armadas en combate
 - Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: Figuras: 1 Kankuro; accesorios: 2 protectores de brazo, 1 banda de silicona para las piernas, 1 soporte para la figura
+- Kankuro es un Shinobi de Hidden Leaf; su especialidad es el uso de varias marionetas armadas en combate
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3JGF4RD{{</world>}}

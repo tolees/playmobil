@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Módulo de luces insertables, techo desmontable, portón posterior abrible, alerón trasero abatible, llave de impacto de aire y 4 tornillos para montaje de ruedas y mucho más
+- Diversión al volante: PLAYMOBIL Porsche 911 GT3 Cup con los colores de Porsche Motorsport, iluminación delantera, posterior y en el interior, y una figura
 - Para jugar a diario: calidad y diseño robusto; limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL Porsche 911 GT3 Cup, Set de 35 piezas con instrucciones: 1 coche, 1 figura y piezas pequeñas asociadas (pilas necesarias 3x micro pilas AAA de 1,5 V, no incluidas), Material: Plástico, LxDxH Vehículo: aprox, 26,5x11,5x7,5 cm, Peso: 485 g, 70764
-- Diversión al volante: PLAYMOBIL Porsche 911 GT3 Cup con los colores de Porsche Motorsport, iluminación delantera, posterior y en el interior, y una figura
+- Módulo de luces insertables, techo desmontable, portón posterior abrible, alerón trasero abatible, llave de impacto de aire y 4 tornillos para montaje de ruedas y mucho más
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
