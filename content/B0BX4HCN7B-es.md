@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Techo extraíble de la cabina del conductor, apertura de las puertas de atrás y de la puerta lateral, monitor iluminado, luz intermitente, sonido original de la sirena de la ambulancia estadounidense y mucho más
 - Misión para el médico de urgencias PLAYMOBIL: vehículo de rescate PLAYMOBIL con funciones espectaculares, muchos accesorios, 1 médico PLAYMOBIL, 1 paramédico y 1 paciente
+- Techo extraíble de la cabina del conductor, apertura de las puertas de atrás y de la puerta lateral, monitor iluminado, luz intermitente, sonido original de la sirena de la ambulancia estadounidense y mucho más
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 - De la marca Playmobil
 

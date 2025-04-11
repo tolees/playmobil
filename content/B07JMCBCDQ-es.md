@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 2 Sets de colores para decorar la tarta, Figura con parte de la pierna de la falda apta para vestidos/faldas de 2 piezas, Se puede combinar con el 70447 Gran Castillo de la Princesa
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Cuento de hadas: Pastelería del Castillo PLAYMOBIL con horno, pastel de 3 pisos, manga pastelera, así como 1 princesa y mucho más, Para una recreación detallada
-- 2 Sets de colores para decorar la tarta, Figura con parte de la pierna de la falda apta para vestidos/faldas de 2 piezas, Se puede combinar con el 70447 Gran Castillo de la Princesa
 - Juguete para niños a partir de 18 meses: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

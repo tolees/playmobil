@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión para niños de gran imaginación: PLAYMOBIL Transporte del Tesoro con 5 lobos, tesorero, guardia y accesorios para jugar con todo detalle
-- Contenido: 1x PLAYMOBIL My Figures: El baile mágico, Set de figuras de juego de 132 piezas con instrucciones: accesorios para 1 escena de juego así como 6 figuras PLAYMOBIL en piezas individuales (2 PLAYMOBIL Princesa/Príncipe, 1 PLAYMOBIL Cocinera/Cocinero, 1 Elfo PLAYMOBIL , 1 Hada PLAYMOBIL ), Material: plástico, Se puede montar individualmente, 70981
 - Juguete para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Carro para guardar el cofre del tesoro, Con abrazadera de pie para la figura (infantil) y otras 2 abrazaderas más, Ballesta (arriba) y proyectil (lateral) y mucho más
+- Contenido: 1x PLAYMOBIL My Figures: El baile mágico, Set de figuras de juego de 132 piezas con instrucciones: accesorios para 1 escena de juego así como 6 figuras PLAYMOBIL en piezas individuales (2 PLAYMOBIL Princesa/Príncipe, 1 PLAYMOBIL Cocinera/Cocinero, 1 Elfo PLAYMOBIL , 1 Hada PLAYMOBIL ), Material: plástico, Se puede montar individualmente, 70981
+- Diversión para niños de gran imaginación: PLAYMOBIL Transporte del Tesoro con 5 lobos, tesorero, guardia y accesorios para jugar con todo detalle
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

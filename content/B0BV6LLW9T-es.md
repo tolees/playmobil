@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Galos vs, Romanos: Tienda del líder PLAYMOBIL con los generales romanos Caius Bonus y Marcus Ecus, así como detalles de los cómics de Astérix y Obélix
-- De la marca Playmobil
 - Figuras romanas con armadura y capas desmontables, extra de Cayo con peluca intercambiable, tienda del general con alfombra, cama, taburete, silla y accesorios
+- De la marca Playmobil
+- Galos vs, Romanos: Tienda del líder PLAYMOBIL con los generales romanos Caius Bonus y Marcus Ecus, así como detalles de los cómics de Astérix y Obélix
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

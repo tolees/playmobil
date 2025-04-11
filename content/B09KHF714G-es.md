@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Divertido para coleccionar, jugar y regalar
 - Fomenta creatividad e imaginación
+- Divertido para coleccionar, jugar y regalar
 - Figura de superhéroe con accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

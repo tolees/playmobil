@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las figuras Special Plus con accesorios son el regalo óptimo
 - Sirenas jugando con cuentas como pelotas de tenis y decoración para el pelo
+- Las figuras Special Plus con accesorios son el regalo óptimo
 - Divertido para coleccionar, jugar y regalar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dron espacial de alta tecnología con astronauta equipado con mochila propulsora y cañones de fuego para destruir meteoritos en el espacio
 - De la marca Playmobil
+- Dron espacial de alta tecnología con astronauta equipado con mochila propulsora y cañones de fuego para destruir meteoritos en el espacio
 - Para desarrollar habilidades de construcción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
