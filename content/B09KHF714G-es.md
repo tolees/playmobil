@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fomenta creatividad e imaginación
-- Figura de superhéroe con accesorios
 - Divertido para coleccionar, jugar y regalar
+- Figura de superhéroe con accesorios
+- Fomenta creatividad e imaginación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KHF714G{{</world>}}

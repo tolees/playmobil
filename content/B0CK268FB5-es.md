@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batallas realistas: Deja que los bandidos de Burnham y los caballeros de Novelmore demuestren su valentía en escenas llenas de acción. ¿Quién ganará el duelo por la estatua dorada del dragón y el valioso cofre de equipamiento?
 - Contenido: 45 piezas con instrucciones: 4 figuras, 41 accesorios adicionales; materiales de plástico; LxAxA: Baúl del tesoro: 6 x 4 x 3,5 cm, peso: 122 g, 71487
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diseño creativo de figuras: Combina cascos, espadas, lanzas y más para crear héroes caballeros distintivos. Con piezas de armadura, armas y cabeza desmontables, surgen numerosas combinaciones para cautivadoras aventuras caballerescas
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Batallas realistas: Deja que los bandidos de Burnham y los caballeros de Novelmore demuestren su valentía en escenas llenas de acción. ¿Quién ganará el duelo por la estatua dorada del dragón y el valioso cofre de equipamiento?
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

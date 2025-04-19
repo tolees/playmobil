@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 dragón con extremidades y alas móviles, 1 carro de combate móvil con 2 proyectiles de agua, 1 khaboom con cara cambiable, 4 caballeros PLAYMOBIL y mucho más
 - Divertido juguete del Caballero de Novelmore: PLAYMOBIL Ataque del Dragón de los Bandidos de Burnham Tyragon y Khaboom contra la guerrera de Novelmore Gwynn y el Mecánico Bolt Nutcliff
 - Incluye: jardín encantado
+- 1 dragón con extremidades y alas móviles, 1 carro de combate móvil con 2 proyectiles de agua, 1 khaboom con cara cambiable, 4 caballeros PLAYMOBIL y mucho más
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

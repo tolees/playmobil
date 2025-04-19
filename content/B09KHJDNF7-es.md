@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fomenta creatividad e imaginación
 - Incluye figura, caballo y accesorios de doma
 - Divertido para coleccionar, jugar y regalar
-- Fomenta creatividad e imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KHJDNF7{{</world>}}

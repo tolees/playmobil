@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene 44 piezas
-- Figuras de policía y maleante
 - Incluye: avión submarino y dron
+- Contiene 44 piezas
 - De la colección City Action
+- Figuras de policía y maleante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSKXM4F{{</world>}}

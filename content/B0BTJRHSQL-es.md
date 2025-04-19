@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: plástico
 - Edad: a partir de 4 años
+- Material: plástico
 - Producto de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

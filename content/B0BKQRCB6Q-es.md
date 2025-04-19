@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 86 piezas con instrucciones: 3 figuras, 3 animales, 80 accesorios adicionales; materiales de plástico; LxAxA: aprox, 14 x 35 x 20 cm, peso: 471 g, 71260
-- Autobús magnífico de la serie de culto El Equipo A: furgoneta del Equipo A de PLAYMOBIL con un amplio interior y los personajes de la serie del Equipo A
 - Techos desmontables, portón trasero desplegable, puerta lateral corredera, 5 asientos y mucho más, Hannibal, Sergant Bosco B,A, Baracus, Faceman, Capitán Murdock
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Diseño robusto y de gran calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos, Adecuado como juguete para niños a partir de 5 años
+- Autobús magnífico de la serie de culto El Equipo A: furgoneta del Equipo A de PLAYMOBIL con un amplio interior y los personajes de la serie del Equipo A
+- Contenido: 86 piezas con instrucciones: 3 figuras, 3 animales, 80 accesorios adicionales; materiales de plástico; LxAxA: aprox, 14 x 35 x 20 cm, peso: 471 g, 71260
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQRCB6Q{{</world>}}

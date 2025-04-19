@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuento de hadas: PLAYMOBIL Gran castillo de princesa con 7 habitaciones, elegantes escaleras abiertas, 2 princesas y mucho más Para una recreación detallada
-- De la marca Playmobil
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- De la marca Playmobil
 - Puerta giratoria de dos alas hacia adentro, pista de baile giratoria con manivela, figuras con secciones de piernas inteligentes para combinar con ropa de dos partes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

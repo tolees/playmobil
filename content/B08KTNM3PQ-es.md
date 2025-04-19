@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Incluye 1 placa base con ruinas de pared y lona de tienda, 1 hoguera, 3 sacos de dormir para las 3 figuras, 1 caña de pescar con flotador, 2 palos para arponear a los peces
 - Juega y diviértete en la naturaleza
 - Familia de acampada con padre, madre, hijo y perro en unas emocionantes vacaciones
-- Incluye 1 placa base con ruinas de pared y lona de tienda, 1 hoguera, 3 sacos de dormir para las 3 figuras, 1 caña de pescar con flotador, 2 palos para arponear a los peces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KTNM3PQ{{</world>}}
