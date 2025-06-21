@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
+- 6 figuras de PLAYMOBIL con brazos, piernas, cuerpos y accesorios intercambiables para personalizar PLAYMOBIL My Figures: Sé creativo, Sé único, Sé detallista
 - Mezcla y combina My Figures de PLAYMOBIL en el rancho de caballos de PLAYMOBIL - para fomentar la creatividad, la motricidad fina, el espíritu de descubrimiento y la personalidad
 - Incluye: atril y obras de arte
-- 6 figuras de PLAYMOBIL con brazos, piernas, cuerpos y accesorios intercambiables para personalizar PLAYMOBIL My Figures: Sé creativo, Sé único, Sé detallista
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KTMYPX6{{</world>}}
