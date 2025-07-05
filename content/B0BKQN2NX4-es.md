@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De la marca Playmobil
 - Reconstruye situaciones de la ciudad verdadera
+- De la marca Playmobil
 - El paramédico se apresura a socorrer al patinador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
