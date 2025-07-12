@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: patrulla y paracaídas
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - 1 agente, 1 rebelde, Portal de hielo reluciente, Armas que funcionan y mucho más, Ampliable con PLAYMOBIL Top Agents Spy Team Comando de Nieve (70230)
+- Incluye: patrulla y paracaídas
 - Diversión para los aventureros rebeldes: PLAYMOBIL Arctic Rebels Triciclo de Hielo con efectos de luz y sonido para una recreación detallada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contiene 30 piezas
 - Incluye: coche con maletero con apertura
 - Figura de policía
 - De la colección "City Action"
-- Contiene 30 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01B133CYA{{</world>}}
