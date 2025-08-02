@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Accesorios experimentales: el kart tiene espacio para una figura de PLAYMOBIL y viene con emocionantes accesorios como un escudo y dos vasos de laboratorio. ¡El motor de radiación y la carrocería futurista hacen de cada carrera una sensación!
-- Carreras científicas: ¡el loco profesor está despegando! En su kart, equipado con un motor retráctil, tubos de ensayo hirvientes y aparatos eléctricos, vive carreras emocionantes, navega por obstáculos y realiza locas acrobacias
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres y madres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego de figuras para niños y niñas a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 40 piezas con instrucciones: 1 figura, 39 accesorios adicionales; materiales de plástico; LxAxA: aproximadamente 24,8 x 14,2 x 7 cm, peso: 260 g, 71633
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres y madres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Carreras científicas: ¡el loco profesor está despegando! En su kart, equipado con un motor retráctil, tubos de ensayo hirvientes y aparatos eléctricos, vive carreras emocionantes, navega por obstáculos y realiza locas acrobacias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1Y1ZRNN{{</world>}}
