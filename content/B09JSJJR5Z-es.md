@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figuras de adultos y accesorios de dinamita
 - Contiene 386 piezas
 - Incluye: tren minero con vehículos y trampas
 - De la colección Dino Rise
+- Figuras de adultos y accesorios de dinamita
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JSJJR5Z{{</world>}}

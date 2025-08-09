@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Playmobil
 - Representa la Edad Media
 - Con su última invención, el Planeador, Darío vuela alrededor de los obstáculos mientras entrena para el gran torneo de justas e intenta derribar los objetivos
+- De la marca Playmobil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT8C2KK6{{</world>}}

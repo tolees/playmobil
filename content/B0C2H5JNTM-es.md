@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión para niños de gran imaginación: PLAYMOBIL Fortaleza de los Bandidos de Burnham con figuras, muchos accesorios y funciones para jugar
 - Cañones en funcionamiento y lanzamiento de bolas de fuego, Apertura de pared, Jaula para dragones, entre otros, Ampliable con PLAYMOBIL Extensión de Pared con Prisión (9841)
-- De la marca Playmobil
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para niños de gran imaginación: PLAYMOBIL Fortaleza de los Bandidos de Burnham con figuras, muchos accesorios y funciones para jugar
+- De la marca Playmobil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2H5JNTM{{</world>}}

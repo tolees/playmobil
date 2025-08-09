@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se trata de Darío el inventor de Novelmore
-- De la marca Playmobil
 - Con numerosas herramientas, carta para coleccionar y pegatinas
+- De la marca Playmobil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKQMBS97{{</world>}}
