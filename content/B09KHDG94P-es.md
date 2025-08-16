@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Divertido para coleccionar, jugar y regalar
 - Fomenta creatividad e imaginación
 - Figura de Hipster con E-Scooter y accesorios
-- Divertido para coleccionar, jugar y regalar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KHDG94P{{</world>}}

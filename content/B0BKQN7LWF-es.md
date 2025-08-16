@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con bote de remos que flota y escondite secreto en la roca
 - De la marca Playmobil
+- Con bote de remos que flota y escondite secreto en la roca
 - Para revivir aventuras de piratas e islas del tesoro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
