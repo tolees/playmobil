@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Playmobil
 - Para revivir aventuras de piratas e islas del tesoro
+- De la marca Playmobil
 - Con bote de remos que flota y escondite secreto en la roca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con accesorios
 - Incluye 2 figuras
+- Con accesorios
 - Packaging en forma de huevo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

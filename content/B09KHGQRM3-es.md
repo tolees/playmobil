@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Coche de juguete K.I.T.T. para niños a partir de 5 años o coche de colección para adultos, Diseño resistente y de alta calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos
 - Módulo de luz y sonido con saludo, despedida y otras 6 frases de funciones electrónicas con luces de carretera y voz del coche Knight Rider
-- El legendario Coche fantástico de la serie de éxito de los 80: PLAYMOBIL Knight Rider - K.I.T.T. con funciones electrónicas, 3 figuras de serie y escenografía
 - Contenido: 1x PLAYMOBIL Knight Rider - K.I.T.T., Set de 53 piezas con instrucciones: 1 coche PLAYMOBIL, 3 figuras de la película Knight Rider, 49 accesorios (excluyendo 2x pilas micro AAA de 1,5 V para el vehículo), Material: plástico, LxAxP: aprox. 28 x 12 x 7,5 cm, escala (coche modelo Knight Rider): aprox. 1:17, Peso: 462 g, 70924
+- El legendario Coche fantástico de la serie de éxito de los 80: PLAYMOBIL Knight Rider - K.I.T.T. con funciones electrónicas, 3 figuras de serie y escenografía
+- Coche de juguete K.I.T.T. para niños a partir de 5 años o coche de colección para adultos, Diseño resistente y de alta calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos
 - Techo extraíble, matrícula giratoria, faros plegables y mucho más, Con el protagonista Michael Knight, Devon Miles y Bonnie Barstow
 
 [🛒 Aquí!!!]({{< param buyurl >}})
