@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: caballo y accesorios ecuestres
 - Con 5 perlas para la pista para activar la cúpula de luz, Las perlas se pueden guardar en la bandeja del final o en los corales, Ampliable con Salón de Belleza con Joya (70096)
+- Incluye: caballo y accesorios ecuestres
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para niños y niñas: Cala de Sirenas con Cúpula Iluminada de PLAYMOBIL, sirenas y delfines flotantes para una recreación detallada
 

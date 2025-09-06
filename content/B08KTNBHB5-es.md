@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: personaje de la franquicia
-- Figura de disfraz de payaso y globos
 - Contiene 34 piezas
+- Incluye: personaje de la franquicia
 - Con licencia de Scooby Doo
+- Figura de disfraz de payaso y globos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KTNBHB5{{</world>}}
