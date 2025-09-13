@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fomenta creatividad e imaginación
 - Divertido para coleccionar, jugar y regalar
+- Fomenta creatividad e imaginación
 - Figura de Hipster con E-Scooter y accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

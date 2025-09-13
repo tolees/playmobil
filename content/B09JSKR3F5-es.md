@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x PLAYMOBIL Astérix: Tropa Romana, Set de 27 piezas con instrucciones: 4 figuras romanas, 23 accesorios, Material: plástico, LxAxP: Se puede montar individualmente, Peso: 88 g, 70934
 - Juguete para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
+- Contenido: 1x PLAYMOBIL Astérix: Tropa Romana, Set de 27 piezas con instrucciones: 4 figuras romanas, 23 accesorios, Material: plástico, LxAxP: Se puede montar individualmente, Peso: 88 g, 70934
 - Placa de soporte para fijar las figuras - por ejemplo, para la formación de tortuga, Con caras intercambiables - PLAYMOBIL caras antes y después de la batalla y mucho más
 - Galos vs, Romanos: Tropa romana de PLAYMOBIL con 4 soldados romanos con armas y otros famosos detalles de los cómics de Astérix y Obélix
 
