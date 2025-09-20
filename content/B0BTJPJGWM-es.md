@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la boutique de moda hay un montón de ropa y accesorios
 - De la marca Playmobil
+- En la boutique de moda hay un montón de ropa y accesorios
 - Usa los lápices para diseñar el atuendo de tu figura tal y como te guste, La figura básica blanca deja un gran margen para todas las ideas creativas, La pintura se lava fácilmente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
