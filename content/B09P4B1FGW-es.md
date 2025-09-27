@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nave espacial klingon con 6 figuras PLAYMOBIL de Star Trek, Planeta y detalles de la película de ciencia ficción Star Trek III: En busca de Mr. Spock
 - Funciones mecánicas y electrónicas: Puente de la nave espacial con techo desmontable, alas móviles, efectos de luz y sonido y mucho más, Con el comandante Kruge, 3 klingons, el almirante Kirk y el capitán Spock
-- Regalo genial para adultos o juguete de Star Trek para niños a partir de 10 años, Se combina con 70548 PLAYMOBIL Star Trek U.S.S. Enterprise NCC-1701
 - Con placa base para el soporte y sistema para colgar el modelo de Star Trek, Diseño robusto y de alta calidad, Limpieza de las piezas (sin pegatinas) con agua corriente y sin agentes químicos
+- Regalo genial para adultos o juguete de Star Trek para niños a partir de 10 años, Se combina con 70548 PLAYMOBIL Star Trek U.S.S. Enterprise NCC-1701
+- Nave espacial klingon con 6 figuras PLAYMOBIL de Star Trek, Planeta y detalles de la película de ciencia ficción Star Trek III: En busca de Mr. Spock
 - Contenido: 1x PLAYMOBIL Star Trek - Klingon Bird-of-Prey, Juego de 94 piezas con instrucciones: 1 nave Klingon de Star Trek, 6 figuras coleccionables de Star Trek, 1 placa base como planeta, 2 columnas, 1 sistema de suspensión (2 cuerdas, 1 soporte), 81 accesorios (excluyendo 3 pilas AA de 1,5 V y cable USB), Material: plástico, LxDxH: aprox. 58 x 73 x 33,5 cm, Peso: aprox. 2027 g, 71089
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

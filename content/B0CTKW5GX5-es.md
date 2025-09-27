@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de un adulto, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Accesorios Versátiles: El set incluye todo lo necesario para emocionantes batallas: dos caballeros, un caballo flameante, una cañón con proyectiles, así como varias armas y piezas de armadura. Ideal para juegos de rol y combates llenos de acción
 - Juego de figuras para niños y niñas a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 41 piezas con instrucciones: 2 figuras, 1 animal, 38 accesorios adicionales; materiales de plástico; LxAxA: 24,8 x 14,2 x 7 cm, peso: 249 g, 71645
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de un adulto, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Duelo Emocionante: Los caballeros de Novelmore luchan contra los bandidos de Burnham por la poderosa Armadura Dragón. ¡Esta armadura permite a su portador volar como un dragón y le otorga ventajas especiales en combate! ¿Quién saldrá victorioso?
+- Accesorios Versátiles: El set incluye todo lo necesario para emocionantes batallas: dos caballeros, un caballo flameante, una cañón con proyectiles, así como varias armas y piezas de armadura. Ideal para juegos de rol y combates llenos de acción
+- Contenido: 41 piezas con instrucciones: 2 figuras, 1 animal, 38 accesorios adicionales; materiales de plástico; LxAxA: 24,8 x 14,2 x 7 cm, peso: 249 g, 71645
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTKW5GX5{{</world>}}

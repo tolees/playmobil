@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Divertido para coleccionar, jugar y regalar
 - Fomenta creatividad e imaginación
+- Divertido para coleccionar, jugar y regalar
 - Conjunto botánica con animales del bosque
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
