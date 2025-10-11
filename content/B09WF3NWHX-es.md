@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Chapotea con PLAYMOBIL a partir de 18 meses: Coloridos juguetes acuáticos PLAYMOBIL 1,2,3 para que los niños comprendan las conexiones y cuenten historias
 - Juguete para niños a partir de 1,5 años: Óptimo para las manos de los niños gracias a su tamaño apropiado para la edad (7 cm) y a su agradable tacto con bordes redondeados, sin partes que puedan tragarse
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL 1,2,3 AQUA Rueda de agua con bebé tiburón, Juego de 6 piezas con instrucciones: 1 rueda de agua, 1 vaso (aprox, 170 ml), 1 figura PLAYMOBIL 1,2,3, 1 animal PLAYMOBIL, 2 accesorios, Material: plástico sin BPA, LxDxH rueda de agua: 13 x 13 x 9 cm, vaso: 7 x 6 x 8,5 cm, Peso: aprox, 213 g, 70636
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión en la bañera con rueda de agua giratoria con puerta abatible (en el interior) y ventosa, taza, tiburón que flota, 1,2,3 figura de adulto buceador y mucho más
 
 [🛒 Aquí!!!]({{< param buyurl >}})

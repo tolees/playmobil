@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diversión para niños y niñas: Cala de Sirenas con Cúpula Iluminada de PLAYMOBIL, sirenas y delfines flotantes para una recreación detallada
+- Incluye: caballo y accesorios ecuestres
 - Con 5 perlas para la pista para activar la cúpula de luz, Las perlas se pueden guardar en la bandeja del final o en los corales, Ampliable con Salón de Belleza con Joya (70096)
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Incluye: caballo y accesorios ecuestres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQQ3N9B{{</world>}}
