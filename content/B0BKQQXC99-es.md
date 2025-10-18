@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De la marca Playmobil
-- Arwyinn, el polifacético caballero, con armadura completa
 - Con armadura Invincibus, carta para coleccionar y pegatina
+- Arwyinn, el polifacético caballero, con armadura completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQQXC99{{</world>}}
