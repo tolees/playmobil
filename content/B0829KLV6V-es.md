@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De la marca Playmobil
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0829KLV6V{{</world>}}

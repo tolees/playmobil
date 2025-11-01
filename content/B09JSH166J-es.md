@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene 85 piezas
-- Incluye: taladro de demolición con accionamiento de oruga
 - Figuras de adultos y accesorios de combate
+- Incluye: taladro de demolición con accionamiento de oruga
 - De la colección Dino Rise
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
