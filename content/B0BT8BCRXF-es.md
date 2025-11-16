@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Representa la Edad Media con toques fantásticos
-- De la marca Playmobil
 - Equipados con un inquietante cañón y otras armas, los caballeros de los Bandidos de Burnham avanzan en el carro de fuego hacia el próximo duelo contra Novelmore
+- De la marca Playmobil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT8BCRXF{{</world>}}
