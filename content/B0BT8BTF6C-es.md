@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 coche de policía PLAYMOBIL: enganche de remolque, luz y sonido, volante giratorio, rampa, cabrestante, 1 figura de niño y 1 pato de policía con casco y mucho más
 - Contenido: 72 piezas con instrucciones: 3 figuras, 69 accesorios adicionales; materiales de plástico; LxAxA: aprox, 25,5 x 19,5 x 20 cm, peso: 520 g, 71328
 - Fácil experiencia de montaje para niños, Con instrucciones de montaje, Diseño robusto y de gran calidad, Limpieza de las piezas (sin pegatinas) bajo agua corriente sin agentes químicos
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- 1 coche de policía PLAYMOBIL: enganche de remolque, luz y sonido, volante giratorio, rampa, cabrestante, 1 figura de niño y 1 pato de policía con casco y mucho más
 - Primer juguete de policía: vehículo de emergencia policial PLAYMOBIL DUCK ON CALL con la mujer policía PLAYMOBIL Polly Police y la figura del pato Ducklas de DUCK ON CALL con coche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
