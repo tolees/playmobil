@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye: dragón con movimientos y armadura
-- De la colección "Knights"
-- Figura de caballero con antorcha, espada y escudo
 - Contiene 11 piezas
+- Figura de caballero con antorcha, espada y escudo
+- De la colección "Knights"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01608LQIU{{</world>}}
