@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modela a tu gusto las figuras
 - De la marca Playmobil
 - Representan a acróbatas de distinto tipo
-- Modela a tu gusto las figuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BX4FMTRL{{</world>}}
