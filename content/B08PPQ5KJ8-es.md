@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PLAYMOBIL 70634 Back to The Future Persecución en monopatín Parte II A Partir de 5 años Multicolor'
+date: 2026-03-04 07:58:07
+image: 'https://m.media-amazon.com/images/I/51ISyiSpAgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08PPQ5KJ8-es PLAYMOBIL 70634 Back to The Future Persecución en...'
+sku: 'B08PPQ5KJ8-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
+comparePrice: 39.99 EUR
+prodname: 'PLAYMOBIL 70634 Back to The Future Persecución en monopatín Parte II A Partir de 5 años Multicolor'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08PPQ5KJ8/?tag=tolees-21'
+descuento: '27.51'
+average: '20.6065625000001'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Viaje en el tiempo: PLAYMOBIL Regreso al Futuro Parte II Persecución en Monopatín con Marty McFly, el Dr, Emmett Brown, Griff Tannen y la mujer policía de la escena del monopatín
+- Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1x PLAYMOBIL Back to the Future Persecución en monopatín Parte II, Juego de 80 piezas con instrucciones: 1 placa base, 4 figuras, 1 moto, 74 accesorios, Material: plástico, LxDxH Placa base: aprox, 22,5x26x19,5 cm, Peso: 320 g, 70634
+- 1 tablero con superficie de agua, camino, farola como telón de fondo, 2 tableros con abrazaderas de pie, 2 bases transparentes, 1 póster, 2 piezas adicionales para 70317 DeLorean
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08PPQ5KJ8{{</world>}}
