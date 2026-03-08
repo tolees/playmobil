@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- En esta aula, no sólo el conocimiento cotidiano está en el plan de estudios, sino también la protección del medio ambiente, A través de ejercicios, los alumnos se inician tanto en la separación de residuos como en la lectura de diagramas
 - Imaginación y creatividad: el conjunto ofrece a los niños la oportunidad de dar rienda suelta a su imaginación y crear sus propias historias en un entorno escolar, Puede combinarse con el Big School 71327 (se vende por separado)
-- Contenido: 52 piezas con instrucciones: 2 figuras, 50 accesorios adicionales; materiales de plástico; LxAxA: aprox, 13 x 32 x 17 cm,, peso: 383 g, 71331
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 52 piezas con instrucciones: 2 figuras, 50 accesorios adicionales; materiales de plástico; LxAxA: aprox, 13 x 32 x 17 cm,, peso: 383 g, 71331
+- En esta aula, no sólo el conocimiento cotidiano está en el plan de estudios, sino también la protección del medio ambiente, A través de ejercicios, los alumnos se inician tanto en la separación de residuos como en la lectura de diagramas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT8B6N6X{{</world>}}
