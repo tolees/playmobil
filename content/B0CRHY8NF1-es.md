@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'PLAYMOBIL Junior & Disney 71458 Caja de música de Bella Incluye Caja de música mecánica Juguete sostenible Hecho de plásticos a Base de Plantas Juguetes para niños y niñas a Partir de 1 año'
+date: 2026-03-08 11:19:24
+image: 'https://m.media-amazon.com/images/I/41RTeOReXjL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CRHY8NF1-es PLAYMOBIL Junior & Disney 71458 Caja de música de Bella...'
+sku: 'B0CRHY8NF1-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
+comparePrice: 39.99 EUR
+prodname: 'PLAYMOBIL Junior & Disney 71458 Caja de música de Bella Incluye Caja de música mecánica Juguete sostenible Hecho de plásticos a Base de Plantas Juguetes para niños y niñas a Partir de 1 año'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CRHY8NF1/?tag=tolees-21'
+descuento: '69.99'
+average: '14.0'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Calidad superior y diseño robusto, limpieza de las piezas (sin pegatinas) bajo agua corriente sin productos químicos
+- Conjunto inspirado en Disney: Caja de música encantadora con melodías del mundo de Bella. Tira de la cuerda para comenzar la melodía soñadora. ¿Quién descubrirá a Bella en la torre mientras gira al ritmo de la música? ¿Te gustaría bailar con ella?
+- Sostenibilidad: PLAYMOBIL JUNIOR está fabricado con más del 90% de plásticos de base vegetal. Para nuestros envases, utilizamos al menos un 90% de cartón reciclado y un 100% de papel reciclado, y evitamos en la medida de lo posible el plástico*
+- Juego seguro: PLAYMOBIL JUNIOR es sinónimo de máxima seguridad para los más pequeños. Los juegos se fabrican en Europa y no contiene plastificantes ni piezas pequeñas que se puedan tragar - para disfrutar al máximo
+- Contenido: 7 piezas con instrucciones: 1 figura, 6 accesorios adicionales; materiales de plástico; LxAxA: 28,4 x 24,8 x 17 cm, peso: 485 g, 71458
+- Conjunto de juego para niños y niñas a partir de 1 año: Los conjuntos PLAYMOBIL JUNIOR son óptimos para el tamaño de sus manos y bordes redondeados agradables al tacto. Con funciones atractivas para las primeras exploraciones
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CRHY8NF1{{</world>}}
