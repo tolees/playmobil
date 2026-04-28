@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Equipamiento para varios deportes de pelota, con marcador, muro de escalada en el exterior, entre otros, Ampliable con City Life Colegio (9453)
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - De la marca Playmobil
 - Diversión para los pequeños héroes: PLAYMOBIL Gimnasio, Set de juego con 3 figuras, Equipo de gimnasia y muchos accesorios para jugar
+- Equipamiento para varios deportes de pelota, con marcador, muro de escalada en el exterior, entre otros, Ampliable con City Life Colegio (9453)
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT8B4JM8{{</world>}}

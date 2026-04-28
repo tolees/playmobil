@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Disfraz de mascota completo para poner y quitar, que permite cambiar entre el look normal y el disfraz para crear historias variadas en el zoo.
 - Completo set de aves tropicales con accesorios: valla, columpio, panel informativo y dos piezas de comida crean una auténtica atmósfera de zoo a partir de 4 años.
 - Colorido disfraz de loro con alas móviles: capucha y pieza trasera convierten a la mascota del zoo en un alegre reclamo lleno de color.
-- Escenas interactivas de alimentación con un joven visitante, que da comida a las aves y vive una experiencia cercana con los animales.
 - Tres aves tropicales exóticas en estructura: tucán, cacatúa y loro se posan en columpios y barras para recrear animadas escenas de aves.
+- Escenas interactivas de alimentación con un joven visitante, que da comida a las aves y vive una experiencia cercana con los animales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G7LFMY81{{</world>}}

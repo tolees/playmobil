@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido del set: tres figuras (dos ladrones y un policía), perro rastreador, vitrina y accesorios. Para aventuras heroicas en el universo PLAYMOBIL.
+- Detalles realistas: vitrina de museo con joyas brillantes y corona, palanca y perro rastreador para escenas llenas de acción en la habitación infantil.
 - Emoción y suspense: con el set de robo de diamantes de PLAYMOBIL, niños a partir de cuatro años viven atracos llenos de acción y misiones policiales valientes. Perfecto para aventuras creativas.
 - Fomenta la fantasía y el juego de rol: ya sea como ladrón astuto o policía valiente, el set anima a vivir historias creativas y misiones tácticas.
-- Detalles realistas: vitrina de museo con joyas brillantes y corona, palanca y perro rastreador para escenas llenas de acción en la habitación infantil.
-- Contenido del set: tres figuras (dos ladrones y un policía), perro rastreador, vitrina y accesorios. Para aventuras heroicas en el universo PLAYMOBIL.
 - Accesorios ingeniosos y funciones: máscaras desmontables, garfio con cuerda para fugas arriesgadas y saco lleno de botín, todo para persecuciones emocionantes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

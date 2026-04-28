@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plataforma de lanzamiento como estación base móvil en Marte con panel solar: muelles para cohetes, los astronautas se pueden conectar al brazo para realizar caminatas espaciales
-- Brazo de agarre funcional con tres dedos móviles: recoge muestras de rocas del suelo marciano y las almacena en el compartimento de almacenamiento de la nariz del cohete
-- Cohete modular compuesto por 4 componentes variables: se puede alargar, acortar o combinar con una plataforma de lanzamiento para configuraciones individuales según la misión
-- Desarrollado oficialmente con la ESA (Agencia Espacial Europea): una auténtica misión espacial lleva tecnología espacial real a la habitación de los niños.
 - Equipo completo de astronauta que incluye cascos, protectores de brazos, equipo de perforación, tabletas y 5 muestras de rocas brillantes: misión de investigación realista para niños de 4 años en adelante
+- Brazo de agarre funcional con tres dedos móviles: recoge muestras de rocas del suelo marciano y las almacena en el compartimento de almacenamiento de la nariz del cohete
+- Desarrollado oficialmente con la ESA (Agencia Espacial Europea): una auténtica misión espacial lleva tecnología espacial real a la habitación de los niños.
+- Cohete modular compuesto por 4 componentes variables: se puede alargar, acortar o combinar con una plataforma de lanzamiento para configuraciones individuales según la misión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G671HMMC{{</world>}}

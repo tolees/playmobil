@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contenido y medidas: tres vasitos apilables (aprox. 122 × 80 × 70 mm), un caballito de mar, una medusa bebé. El set perfecto para manos pequeñas y grandes ideas.
-- Diversión animal: un caballito de mar flotante y una medusa bebé aportan aún más diversión, con orificios de drenaje para una limpieza fácil.
 - Muchas funciones acuáticas: tres vasitos flotantes con efecto de ducha tipo seta, lluvia o lateral, que se pueden apilar o unir como un tren, ideales para jugar en la bañera con imaginación.
 - Seguro y sostenible: sin BPA, sin piezas pequeñas que se puedan tragar y fabricado con más de un noventa por ciento de plástico de origen biológico (certificado ISCC PLUS), para un juego sin preocupaciones.
+- Diversión animal: un caballito de mar flotante y una medusa bebé aportan aún más diversión, con orificios de drenaje para una limpieza fácil.
 - Diversión en el agua para peques: con el set de vasito flotante de PLAYMOBIL JUNIOR, los niños a partir de un año disfrutan apilando, ordenando y chapoteando, perfecto para sus primeras aventuras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

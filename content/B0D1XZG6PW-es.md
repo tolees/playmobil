@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conjunto de juego para niños y niñas a partir de 1 año: Los conjuntos PLAYMOBIL JUNIOR son óptimos para el tamaño de sus manos y bordes redondeados agradables al tacto. Con funciones atractivas para las primeras exploraciones
 - Calidad superior y diseño robusto, limpieza de las piezas (sin pegatinas) bajo agua corriente sin productos químicos
-- Aventura Colorida: ¡El submarino, con un capitán y un pequeño pulpo, invita a una divertida aventura de buceo! Coloca una tableta de baño Tinti dentro del submarino para colorear el agua y añadir una agradable fragancia. ¿Qué color elegirán tus hijos?
+- Contenido: 9 piezas con instrucciones: 1 figura, 1 animal, 7 accesorios adicionales; materiales de plástico; LxAxA: 24,8 x 18,7 x 12,2 cm, peso: 418 g, 71440
 - Sostenibilidad: PLAYMOBIL JUNIOR está fabricado con más del 90% de plásticos de base vegetal. Para nuestros envases, utilizamos al menos un 90% de cartón reciclado y un 100% de papel reciclado, y evitamos en la medida de lo posible el plástico*
 - Juego seguro: PLAYMOBIL JUNIOR es sinónimo de máxima seguridad para los más pequeños. Los juegos se fabrican en Europa y no contiene plastificantes ni piezas pequeñas que se puedan tragar - para disfrutar al máximo
-- Contenido: 9 piezas con instrucciones: 1 figura, 1 animal, 7 accesorios adicionales; materiales de plástico; LxAxA: 24,8 x 18,7 x 12,2 cm, peso: 418 g, 71440
+- Conjunto de juego para niños y niñas a partir de 1 año: Los conjuntos PLAYMOBIL JUNIOR son óptimos para el tamaño de sus manos y bordes redondeados agradables al tacto. Con funciones atractivas para las primeras exploraciones
+- Aventura Colorida: ¡El submarino, con un capitán y un pequeño pulpo, invita a una divertida aventura de buceo! Coloca una tableta de baño Tinti dentro del submarino para colorear el agua y añadir una agradable fragancia. ¿Qué color elegirán tus hijos?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1XZG6PW{{</world>}}

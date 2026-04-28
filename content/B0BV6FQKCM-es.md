@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Todos los productos PLAYMOBIL 1,2,3 se fabrican en Europa y están diseñados y desarrollados para que no contengan piezas pequeñas que puedan tragarse u otras fuentes de peligro
+- Contenido: 10 piezas con instrucciones: 2 figuras, 8 accesorios adicionales; materiales de plástico; LxAxA: aprox, 26-30 x 28 x 10,5 cm, peso: 288 g, 71317
 - Entrena la motricidad fina moviendo y deslizando las figuras, Según se prefiera, las clavijas de las flores y las varillas saltarinas de las abejas pueden insertarse en el césped o en los tarros de miel, o intercambiarse entre sí
 - Todos los playsets PLAYMOBIL 1,2,3 tienen una variedad de características de desarrollo y se basan en el concepto de etapas de aprendizaje PLAYMOBIL 1,2,3, Con cada interacción, los niños mejoran su motricidad fina, sus habilidades cognitivas
-- Contenido: 10 piezas con instrucciones: 2 figuras, 8 accesorios adicionales; materiales de plástico; LxAxA: aprox, 26-30 x 28 x 10,5 cm, peso: 288 g, 71317
 - Reconocer las relaciones causa-efecto: Las varillas de salto de abeja se insertan en los tarros de miel, Al presionar y soltar las varillas, se activa el mecanismo de salto, lo que hace que las varillas salten y las abejas despeguen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

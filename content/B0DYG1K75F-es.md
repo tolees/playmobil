@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coleccionable con estilo: líneas elegantes, el inconfundible rojo Ferrari y un sinfín de detalles, perfecto para fans del motor, grandes y pequeños.
-- Diversión legendaria sobre ruedas: con el Ferrari 250 GTO de PLAYMOBIL, cada carrera se convierte en una experiencia clásica. Un diseño cuidado al detalle para vivir aventuras nostálgicas con mucha clase.
-- Imaginación a todo gas: ya sea en una carrera en casa o como pieza de colección, este coche inspira historias llenas de velocidad y fantasía.
 - Contenido del set: incluye Ferrari 250 GTO con figura de conductor. Imprescindible para fans de los coches clásicos y pequeños coleccionistas a partir de cuatro años.
 - Un techo con sorpresa: se abre fácilmente para que la figura tome el volante con comodidad, ideal tanto para jugar como para lucirlo en la estantería.
+- Coleccionable con estilo: líneas elegantes, el inconfundible rojo Ferrari y un sinfín de detalles, perfecto para fans del motor, grandes y pequeños.
+- Imaginación a todo gas: ya sea en una carrera en casa o como pieza de colección, este coche inspira historias llenas de velocidad y fantasía.
+- Diversión legendaria sobre ruedas: con el Ferrari 250 GTO de PLAYMOBIL, cada carrera se convierte en una experiencia clásica. Un diseño cuidado al detalle para vivir aventuras nostálgicas con mucha clase.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYG1K75F{{</world>}}

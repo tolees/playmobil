@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Avión compacto propulsado por cohetes: maniobra justo por encima del suelo y llega a sitios de difícil acceso más rápido que los vehículos terrestres
 - Cañón funcional con 2 proyectiles diferentes: el cañón giratorio abre formaciones rocosas y revela cristales brillantes ocultos
 - Desarrollado oficialmente con la ESA (Agencia Espacial Europea), este ágil avión espacial se cierne sobre la superficie marciana para realizar vuelos de exploración llenos de acción
-- Astronauta con equipo completo de alta tecnología: casco, controles, pinzas y roca rompible con 2 cristales brillantes, a partir de 4 años
 - Brazo de agarre giratorio y pivotante en la parte inferior: recoge con precisión muestras de rocas y las transporta de forma segura en el planeador hasta la estación base
+- Astronauta con equipo completo de alta tecnología: casco, controles, pinzas y roca rompible con 2 cristales brillantes, a partir de 4 años
+- Avión compacto propulsado por cohetes: maniobra justo por encima del suelo y llega a sitios de difícil acceso más rápido que los vehículos terrestres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G67JP5YH{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escondite secreto con puerta giratoria, trampilla, escaleras que se convierten en tobogán, ataúd con luz y sonido, Pantalla de proyección para el smartphone (no incluida) y mucho más
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - De la marca Playmobil
 - Legendaria diversión para los aficionados detectives: PLAYMOBIL SCOOBY-DOO, Aventura en la Mansión Misteriosa con Daphne, Fred, Scooby-Doo, Vampiro y mucho más para jugar
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Escondite secreto con puerta giratoria, trampilla, escaleras que se convierten en tobogán, ataúd con luz y sonido, Pantalla de proyección para el smartphone (no incluida) y mucho más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BX4BS51J{{</world>}}

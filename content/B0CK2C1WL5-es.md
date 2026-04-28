@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 93 piezas con instrucciones: 2 figuras, 4 animales, 87 accesorios adicionales; materiales de plástico; LxAxA: Placa base con árbol y lona: 17,5 x 13 x 17 cm; Vehículo todoterreno: 17,5 x 10 x 9,5 cm, peso: 491 g, 71523
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Excursión de exploración en la jungla: Acompaña a los investigadores en su viaje en todoterreno y experimenta de cerca qué dinosaurios descubren en el camino. ¡Ayuda a desvelar los secretos de la prehistoria y avanzar en la investigación!
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Completo equipo de investigación para pequeños exploradores: Incluye dos valientes investigadores, un Estegosaurio, un Deinonychus y todo lo que necesitas para tu expedición: microscopio, portátil, walkie-talkies, cámara ¡y mucho más!
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 93 piezas con instrucciones: 2 figuras, 4 animales, 87 accesorios adicionales; materiales de plástico; LxAxA: Placa base con árbol y lona: 17,5 x 13 x 17 cm; Vehículo todoterreno: 17,5 x 10 x 9,5 cm, peso: 491 g, 71523
 - Gran Aniversario: ¡PLAYMOBIL celebra su cumpleaños! Desde hace 50 años, PLAYMOBIL ha cautivado a niños y adultos alrededor del mundo con diversos reinos de juego. Únete a nosotros y celebra cinco décadas llenas de aventuras inolvidables
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK2C1WL5{{</world>}}
