@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PLAYMOBIL Junior 71770 Minnie con Carrito de Frutas Disney 8 Pieces Desde 12 Meses'
+date: 2026-04-11 09:19:13
+image: 'https://m.media-amazon.com/images/I/51rTFshDyzL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DQVKPJLZ-es PLAYMOBIL Junior 71770 Minnie con Carrito de Frutas Disney...'
+sku: 'B0DQVKPJLZ-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 16.98 EUR
+currency: EUR
+price: 16.98
+comparePrice: 29.99 EUR
+prodname: 'PLAYMOBIL Junior 71770 Minnie con Carrito de Frutas Disney 8 Pieces Desde 12 Meses'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DQVKPJLZ/?tag=tolees-21'
+descuento: '43.38'
+average: '17.08'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Seguro y apto para niños pequeños: sin piezas pequeñas que puedan tragarse, sin BPA y fabricado con plástico sostenible, desarrollado para los fans de PLAYMOBIL de entre 1 y 4 años
+- Desarrollo lúdico: fomenta el pensamiento lógico, la motricidad fina y la primera clasificación, optimo para niños pequeños curiosos
+- La alegre furgoneta de reparto de fruta de Minnie: es día de mercado; ayuda a Minnie Mouse de Disney a clasificar y repartir deliciosa fruta; los niños aprenden colores, formas y cantidades jugando
+- Contenido: 1 figura de Minnie Mouse, 1 furgoneta de reparto, 3 cajas, 3 frutas, apilables, clasificables e ideales para el juego imaginativo
+- Con funciones de aprendizaje: 3 cajas apilables, elementos de clasificación moldeados y zona de carga móvil, optimo para niños pequeños a partir de 1 año
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DQVKPJLZ{{</world>}}
