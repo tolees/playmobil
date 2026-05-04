@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PLAYMOBIL Famous Cars 71343 Magnum P I Ferrari 308 GTS Supercoche Pieza de colección para los Aficionados de los Coches Juguete para coleccionistas y niños/as a Partir de 5 años'
+date: 2026-03-13 14:38:18
+image: 'https://m.media-amazon.com/images/I/51PU8LlEgTL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BT8BHPCQ-es PLAYMOBIL Famous Cars 71343 Magnum P I Ferrari 308 GTS...'
+sku: 'B0BT8BHPCQ-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 47.19 EUR
+currency: EUR
+price: 47.19
+comparePrice: 69.99 EUR
+prodname: 'PLAYMOBIL Famous Cars 71343 Magnum P I Ferrari 308 GTS Supercoche Pieza de colección para los Aficionados de los Coches Juguete para coleccionistas y niños/as a Partir de 5 años'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BT8BHPCQ/?tag=tolees-21'
+descuento: '32.58'
+average: '54.684705882353'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Diversión en Navidad: PLAYMOBIL Belén con Luz, incluye patas de apoyo con figuras y muchos accesorios para jugar
+- Juego de figuras para niños/as a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Belén de diseño encantador, Sagrada familia y animales de establo, Arco con iluminación integrada y patas plegables para colocar en la ventana
+- Contenido: 48 piezas con instrucciones: 4 figuras, 1 animal, 43 accesorios adicionales; materiales de plástico; LxTxH 25 x 11 x 6,5 cm, peso: 357 g, 71343
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0BT8BHPCQ{{</world>}}
