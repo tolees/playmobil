@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La mayor pasión de Ellie es la equitación, Su yegua Tennessee Walker llamada Sawdust también adora el desafío de trabajar lo más independientemente posible y reaccionar solo a los más ligeros movimientos de peso y muslo de Ellie
 - Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- La mayor pasión de Ellie es la equitación, Su yegua Tennessee Walker llamada Sawdust también adora el desafío de trabajar lo más independientemente posible y reaccionar solo a los más ligeros movimientos de peso y muslo de Ellie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZDQ3W7{{</world>}}

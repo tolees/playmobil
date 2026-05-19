@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todos los productos PLAYMOBIL 1,2,3 se fabrican en Europa y están diseñados y desarrollados para que no contengan piezas pequeñas que puedan tragarse u otras fuentes de peligro
-- Contenido: 17 piezas con instrucciones: 2 figuras, 15 accesorios adicionales; materiales de plástico; LxAxA: aprox, 30 x 26 x 20,5 cm, peso: 536 g, 71316
-- Con el grupo pequeño de hojas, se puede producir un sonido haciéndolas girar, Por otra parte, el grupo grande de hojas puede retirarse y utilizarse en el suelo o en una mesa como peonza
 - Entrena la motricidad fina y el pensamiento tridimensional: Se pueden clasificar diversos objetos en la copa del árbol en función de su forma y color, que luego caen en el árbol y se deslizan por la abertura de la puerta
+- Contenido: 17 piezas con instrucciones: 2 figuras, 15 accesorios adicionales; materiales de plástico; LxAxA: aprox, 30 x 26 x 20,5 cm, peso: 536 g, 71316
+- Todos los productos PLAYMOBIL 1,2,3 se fabrican en Europa y están diseñados y desarrollados para que no contengan piezas pequeñas que puedan tragarse u otras fuentes de peligro
+- Con el grupo pequeño de hojas, se puede producir un sonido haciéndolas girar, Por otra parte, el grupo grande de hojas puede retirarse y utilizarse en el suelo o en una mesa como peonza
 - Todos los playsets PLAYMOBIL 1,2,3 tienen una variedad de características de desarrollo y se basan en el concepto de etapas de aprendizaje PLAYMOBIL 1,2,3, Con cada interacción, los niños mejoran su motricidad fina, sus habilidades cognitivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
