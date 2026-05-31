@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 59 piezas con instrucciones: 1 figura, 58 accesorios adicionales; materiales de plástico; LxAxA: vehículo quad aprox, 11,5 x 9 x 8 cm, vehículo lancha motora aprox, 17 x 10 x 10 cm, peso: 159 g, 71147
-- Diversión para agentes aventureros: Spy Team Sub Bot de PLAYMOBIL con figuras, accesorios y armas para un juego repleto de acción
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para agentes aventureros: Spy Team Sub Bot de PLAYMOBIL con figuras, accesorios y armas para un juego repleto de acción
+- Contenido: 59 piezas con instrucciones: 1 figura, 58 accesorios adicionales; materiales de plástico; LxAxA: vehículo quad aprox, 11,5 x 9 x 8 cm, vehículo lancha motora aprox, 17 x 10 x 10 cm, peso: 159 g, 71147
 - Sumergible, Equipado con 2 proyectiles de cohete (incluidos), 4 brazos giratorios y de agarre móviles, Techo desmontable, Espacio para 1 figura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
