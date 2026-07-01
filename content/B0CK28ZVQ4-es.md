@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'PLAYMOBIL | Porsche 911 Carrera RS 2.7 Offroad | Emocionantes Paseos por Terreno | con Diversas Funciones | Coche Coleccionable Niños a Partir de 5 Años | 71436'
+date: 2026-06-25 04:06:50
+image: 'https://m.media-amazon.com/images/I/51Dwjg27MtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CK28ZVQ4-es PLAYMOBIL | Porsche 911 Carrera RS 2.7 Offroad |...'
+sku: 'B0CK28ZVQ4-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 40.79 EUR
+currency: EUR
+price: 40.79
+comparePrice: 59.99 EUR
+prodname: 'PLAYMOBIL | Porsche 911 Carrera RS 2.7 Offroad | Emocionantes Paseos por Terreno | con Diversas Funciones | Coche Coleccionable Niños a Partir de 5 Años | 71436'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CK28ZVQ4/?tag=tolees-21'
+descuento: '32.01'
+average: '39.0926470588235'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Gran Aniversario: ¡PLAYMOBIL celebra su cumpleaños! Desde hace 50 años, PLAYMOBIL ha cautivado a niños y adultos alrededor del mundo con diversos reinos de juego. Únete a nosotros y celebra cinco décadas llenas de aventuras inolvidables
+- Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Uso versátil: ¡El Porsche deleita tanto a niños como a coleccionistas entusiastas! ¡Experimenta emocionantes paseos por cualquier terreno con él y crea historias inolvidables llenas de acción!
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 47 piezas con instrucciones: 1 figura, 46 accesorios adicionales; materiales de plástico; LxAxA: 25,5 x 11 x 9,5 cm (sin equipaje), peso: 325 g, 71436
+- Diversión emocionante: ¡Con el legendario Porsche 911 Carrera RS 2.7 Offroad, experimentarás emocionantes paseos todoterreno! ¡Equipado con una rampa, una rejilla de techo desmontable y un capó trasero abatible para disfrutar al máximo al conducir!
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0CK28ZVQ4{{</world>}}
