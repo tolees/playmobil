@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 49 piezas
 - De la colección Dino Rise
+- Contiene 49 piezas
 - Incluye: máquina de combate con cañones de proyectiles
 - Figura de adulto y accesorios de combate
 

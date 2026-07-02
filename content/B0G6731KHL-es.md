@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Amplio set con 2 figuras de buceadores, 3 criaturas marinas (morena, estrella de mar, pez mariposa) y un paisaje submarino detallado con plantas
 - Valioso tesoro con una pila de oro, 3 joyas y armas piratas: fomenta el juego imaginativo y la narración de historias a partir de los 4 años
-- Equipo de buceo completo para poner y quitar: casco, aletas, protectores de brazos, tanques de oxígeno y máscara de snorkel para un auténtico juego de rol
-- Scooter submarino funcional con opción de transporte: se puede acoplar una cesta o caja de red para llevar de forma segura los objetos robados a tierra
 - Emocionante persecución submarina: un buzo policía persigue a un ladrón con un tesoro de oro robado a través de un mundo submarino realista con corales y vida marina
+- Scooter submarino funcional con opción de transporte: se puede acoplar una cesta o caja de red para llevar de forma segura los objetos robados a tierra
+- Equipo de buceo completo para poner y quitar: casco, aletas, protectores de brazos, tanques de oxígeno y máscara de snorkel para un auténtico juego de rol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G6731KHL{{</world>}}

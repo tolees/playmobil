@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Juego de figuras para niños y niñas a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de un adulto, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Medicina moderna: Incluye una sala de operaciones, habitación de hospital y accesorios como una mesa de operaciones y dispositivos médicos. ¡Se puede combinar con otros sets de hospitales Action Heroes para crear un mundo hospitalario completo!
 - Aprendizaje interactivo: Los niños y niñas pueden experimentar la vida hospitalaria a través del juego, con figuras de dos mujeres, un hombre y un niño. ¡Se puede combinar con otros sets de hospitales Action Heroes para crear un mundo hospitalario completo!
+- Medicina moderna: Incluye una sala de operaciones, habitación de hospital y accesorios como una mesa de operaciones y dispositivos médicos. ¡Se puede combinar con otros sets de hospitales Action Heroes para crear un mundo hospitalario completo!
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de un adulto, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 165 piezas con instrucciones: 4 figuras, 161 accesorios adicionales; materiales de plástico; LxAxA: 51,5 x 38,5 x 9 cm, peso: 1924 g, 71615
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Playmobil
 - Para vivir aventuras espaciales
 - Consta de astronauta, brazo articulado giratorio y cañones de fuego para repeler el meteorito
+- De la marca Playmobil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVBZNTQJ{{</world>}}

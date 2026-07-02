@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1.2.3 - Isla Pirata 9119'
-date: 2026-06-15 05:51:06
+date: 2026-07-01 01:49:13
 image: 'https://m.media-amazon.com/images/I/51NYgs2D4LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M20RZZC/?tag=tolees-21'
 descuento: '44.54'
-average: '11.9636363636365'
+average: '11.9676923076925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La tortuga flota
 - Incluye 1 figura
+- La tortuga flota
 - Piezas para encajar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
