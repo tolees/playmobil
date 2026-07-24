@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marla con traje de vaquera, alas del caballo móviles, bandolera para guardar accesorios de camping, etc,, A juego con PLAYMOBIL: THE MOVIE Charlie (70073)
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Marla con traje de vaquera, alas del caballo móviles, bandolera para guardar accesorios de camping, etc,, A juego con PLAYMOBIL: THE MOVIE Charlie (70073)
 - Diversión para los pequeños aficionados a la gran pantalla: PLAYMOBIL: THE MOVIE Marla, Del y Caballo con Alas, incluye numerosos accesorios para jugar
 - De la marca Playmobil
 

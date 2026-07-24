@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 figuras, 2 caballos, 4 obstáculos, Incluye una valla con varias posibilidades de ajuste y muchos accesorios, Puede combinarse con PLAYMOBIL 6928 Transporte de Caballo (se vende por separado)
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, Diseño robusto y de gran calidad, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Diversión para los amantes de la hípica: PLAYMOBIL Torneo de Caballos con saltos de agua, muros y otros accesorios realistas
 - Incluye tres figuras y varios accesorios
+- Diversión para los amantes de la hípica: PLAYMOBIL Torneo de Caballos con saltos de agua, muros y otros accesorios realistas
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, Diseño robusto y de gran calidad, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- 2 figuras, 2 caballos, 4 obstáculos, Incluye una valla con varias posibilidades de ajuste y muchos accesorios, Puede combinarse con PLAYMOBIL 6928 Transporte de Caballo (se vende por separado)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JLFKJTC{{</world>}}

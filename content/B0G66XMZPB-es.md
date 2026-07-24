@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estación de análisis funcional con monitor giratorio: se colocan muestras de rocas y se examinan, el monitor gira en todas las direcciones
 - Astronauta con mochila para transporte de muestras: recoge 3 muestras de rocas brillantes con sistema de control, escáner terrestre y equipo de alta tecnología, a partir de 4 años
-- Desarrollado oficialmente con la ESA (Agencia Espacial Europea): el astronauta trabaja con dos ayudantes robóticos para misiones de investigación realistas
 - Un gran robot con un brazo de agarre y un mini-recogedor parecido a un escorpión: ambos recogen muestras de rocas, incluso en lugares difíciles de alcanzar en Marte
+- Estación de análisis funcional con monitor giratorio: se colocan muestras de rocas y se examinan, el monitor gira en todas las direcciones
+- Desarrollado oficialmente con la ESA (Agencia Espacial Europea): el astronauta trabaja con dos ayudantes robóticos para misiones de investigación realistas
 - El robot móvil puede estar de pie y sentado, se adapta a diferentes situaciones de trabajo; el mini-remolque agarra y transporta muestras de forma independiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
