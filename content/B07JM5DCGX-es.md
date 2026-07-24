@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'PLAYMOBIL City Life Figuras y Juegos de contrucción Color carbón 70146'
+date: 2026-07-18 10:42:55
+image: 'https://m.media-amazon.com/images/I/51hb0IxKK-L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07JM5DCGX-es PLAYMOBIL City Life Figuras y Juegos de contrucción Color...'
+sku: 'B07JM5DCGX-es'
+tags: [ 'playmobil','🇪🇸', ]
+actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
+comparePrice: 44.99 EUR
+prodname: 'PLAYMOBIL City Life Figuras y Juegos de contrucción Color carbón 70146'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07JM5DCGX/?tag=tolees-21'
+descuento: '48.90'
+average: '33.1508333333332'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 1 príncipe, 1 princesa (figura de niño), 1 esquina de un castillo con estante giratorio para cuenco, jarra y lira y mucho más, Adecuado para el juego complementario 70504
+- Para jugar a diario: instrucciones de montaje para los padres, Diseño robusto y de gran calidad, Limpieza de las piezas (sin pegatinas) con agua corriente sin agentes químicos
+- Clínica veterinaria ampliamente equipada para llevar
+- Entra en el colorido mundo de PLAYMOBIL: PLAYMOBIL Starter Pack Princesa con accesorios apropiados para la edad y piezas de construcción para una recreación detallada
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B07JM5DCGX{{</world>}}
