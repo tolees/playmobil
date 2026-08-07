@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piezas para encajar
 - La tortuga flota
+- Piezas para encajar
 - Incluye 1 figura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

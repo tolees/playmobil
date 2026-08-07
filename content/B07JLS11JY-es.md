@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Recomendado a partir de 4 años
-- Coche trampa con espacio para 2 figuras sentadas, equipado con palanca de control, 2 cañones de pernos de disparo en la carrocería de atrás, accionamiento de chorro giratorio y mucho más
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, gran calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Coche trampa con espacio para 2 figuras sentadas, equipado con palanca de control, 2 cañones de pernos de disparo en la carrocería de atrás, accionamiento de chorro giratorio y mucho más
 - Juguetes a juego del Caballero de Novelmore: Carro de captura de demonios PLAYMOBIL de Violet Vale, los personajes de Novelmore Demonthella y Flamathor y 1 Demonio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
