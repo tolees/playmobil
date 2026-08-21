@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El escaparate está decorado con lazos, libélulas y flores, conchas. Incluye carrito con ruedas
+- Incluye una figura y varios accesorios
 - Desarrolla la imaginación y la creatividad
 - La figura se queda en ropa interior para que puedas vestirla
-- Incluye una figura y varios accesorios
-- El escaparate está decorado con lazos, libélulas y flores, conchas. Incluye carrito con ruedas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B3QT7KE{{</world>}}
