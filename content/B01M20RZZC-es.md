@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 1 figura
 - Piezas para encajar
 - La tortuga flota
+- Incluye 1 figura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M20RZZC{{</world>}}

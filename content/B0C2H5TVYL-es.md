@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias a las bicicletas deportivas y el equipo adecuado, nada se interpone en el camino de un recorrido, Al llegar al destino, les espera una deliciosa comida preparada en la cocina de campamento
 - Para recrear una divertida excursión familiar
+- Gracias a las bicicletas deportivas y el equipo adecuado, nada se interpone en el camino de un recorrido, Al llegar al destino, les espera una deliciosa comida preparada en la cocina de campamento
 - De la marca Playmobil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

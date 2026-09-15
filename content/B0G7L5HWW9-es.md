@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cafetería de playa con bebidas refrescantes y postales geniales para un juego relajado junto al mar.
 - Cueva oculta en la parte trasera de la isla de roca que añade un emocionante elemento de exploración.
+- Cafetería de playa con bebidas refrescantes y postales geniales para un juego relajado junto al mar.
 - Tobogán conectado a la isla de roca para diversión activa y aventuras variadas.
 - Columpio para relajados momentos al sol junto al agua.
 

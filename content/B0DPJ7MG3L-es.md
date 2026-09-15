@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Creatividad sin límites: Los sets de PLAYMOBIL se pueden combinar y ampliar como quieras. ¡La gran excavadora es una fantástica adición a otros mundos de PLAYMOBIL! ¿Cómo continuará tu historia con PLAYMOBIL?
 - Diversión garantizada para niños y niñas a partir de 4 años: Diseño ideal para las manos de los más pequeños gracias a su tamaño adaptado a la edad y su tacto agradable con bordes redondeados. Estimula la imaginación de tu hijo o hija.
-- El original: Desde 1974, Playmobil ha fascinado a niños y niñas, así como a adultos. La alta calidad y los materiales resistentes garantizan una larga durabilidad.
 - Juego seguro: Incluye instrucciones para montar el set junto con los padres. Limpieza de las piezas (sin adhesivos) bajo agua corriente y sin el uso de productos químicos.
 - ¡Atención amantes de la excavación! Ayuda al obrero con la impresionante excavadora de PLAYMOBIL, equipada con cabina, una gran pala, un mango para moverla hacia arriba y abajo, y una pala extra para trabajos en el suelo de la obra.
+- El original: Desde 1974, Playmobil ha fascinado a niños y niñas, así como a adultos. La alta calidad y los materiales resistentes garantizan una larga durabilidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPJ7MG3L{{</world>}}

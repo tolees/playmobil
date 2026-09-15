@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Funciones geniales y detalles: equipado con proyectiles, bláster y accesorios futuristas, perfecto para duelos espaciales y persecuciones emocionantes.
 - Contenido del set: incluye Space Jet con proyectiles, figura de agente espacial y accesorios. El regalo ideal para pequeños fans del espacio.
 - Diversión galáctica sobre ruedas: con el Space Jet de PLAYMOBIL FunStars, niños a partir de cuatro años despegan en misiones rápidas para vivir acción sin fin y mucha imaginación.
-- Funciones geniales y detalles: equipado con proyectiles, bláster y accesorios futuristas, perfecto para duelos espaciales y persecuciones emocionantes.
 - Fomenta el juego creativo: este set inspira historias espaciales llenas de fantasía y garantiza horas de diversión.
 - Figura de alta calidad: agente espacial con casco, guantes y controles de cabina, listo para misiones arriesgadas y aventuras estelares.
 

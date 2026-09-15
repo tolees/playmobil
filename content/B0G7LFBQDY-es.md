@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trampolín con mecanismo de resorte para una acción de salto dinámica y realista.
 - Dos toboganes acuáticos (toboganes en espiral y toboganes rápidos con caída vertical y trampilla) para una diversión acuática llena de acción.
 - Área de entrada con caja, torniquete y panel informativo de estacionamiento para una experiencia auténtica de parque acuático.
+- Trampolín con mecanismo de resorte para una acción de salto dinámica y realista.
 - La piscina se puede llenar con agua real e incluye un flotador para crear escenas de juego realistas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
