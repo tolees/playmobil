@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Action Heroes | Patrulla de Policía | Coche de Policía | Coche de Juguete | Juguete para niños y niñas a Partir de 4 años | 71729'
-date: 2026-09-15 21:09:10
+date: 2026-09-17 19:54:26
 image: 'https://m.media-amazon.com/images/I/51B1NhM2CZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DLGQJN7Z/?tag=tolees-21'
 descuento: '32.51'
-average: '25.0235714285714'
+average: '25.1546666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

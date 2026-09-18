@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Desarrolla la imaginación y la creatividad
-- Contiene 19 piezas
 - Incluye una figura y varios accesorios
+- Contiene 19 piezas
 - Maletín en el que podrás guardar todos los accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
