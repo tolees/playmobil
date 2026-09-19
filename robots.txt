@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://playmobil.tole.es/sitemap.xml
