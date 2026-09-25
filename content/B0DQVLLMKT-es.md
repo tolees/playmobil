@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Playmobil action
 - PLAYMOBIL
+- Playmobil action
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVLLMKT{{</world>}}

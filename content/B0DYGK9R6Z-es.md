@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Fun Stars | Barco Pirata Veloz | Juguete para Mayores de 4 años | Regalo Ideal para niños | Auto de Juguete | con Motor de Retroceso y función de Disparo | 71720'
-date: 2026-09-19 18:05:23
+date: 2026-09-20 19:17:14
 image: 'https://m.media-amazon.com/images/I/51vbqwjyUIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYGK9R6Z/?tag=tolees-21'
 descuento: '30.02'
-average: '14.2425000000001'
+average: '14.192'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

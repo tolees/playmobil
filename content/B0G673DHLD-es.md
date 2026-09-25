@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Laboratorio de análisis integrado con zona oculta para estar de pie. Al soltar el bloqueo, se abre un espacio de trabajo para que los astronautas examinen las muestras. Apto para niños a partir de 4 años
-- Taladro funcional para la búsqueda de rocas: gira lateralmente y se mueve hacia arriba y hacia abajo para abrir rocas y exponer muestras luminosas
-- Cámara dual móvil en un brazo plegable: gira en todas las direcciones para explorar la superficie marciana y seleccionar sitios de perforación
 - Desarrollado oficialmente con la ESA (Agencia Espacial Europea): un auténtico rover de Marte con tecnología de exploración espacial real para misiones realistas
+- Cámara dual móvil en un brazo plegable: gira en todas las direcciones para explorar la superficie marciana y seleccionar sitios de perforación
+- Taladro funcional para la búsqueda de rocas: gira lateralmente y se mueve hacia arriba y hacia abajo para abrir rocas y exponer muestras luminosas
+- Laboratorio de análisis integrado con zona oculta para estar de pie. Al soltar el bloqueo, se abre un espacio de trabajo para que los astronautas examinen las muestras. Apto para niños a partir de 4 años
 - Vehículo de investigación totalmente plegable con 7 paneles solares: el rover se puede plegar de forma compacta para su transporte o extender completamente para misiones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

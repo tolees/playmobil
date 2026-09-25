@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construye tu figura de la vida cotidiana en la ciudad según tus ideas
 - Cuatro figuras con vestidos y elementos adaptables
+- Construye tu figura de la vida cotidiana en la ciudad según tus ideas
 - De la marca Playmobil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
