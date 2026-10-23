@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye dos figuras y varios accesorios
 - Contiene 39 piezas
 - Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y varios accesorios
 - Con operativa ballesta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

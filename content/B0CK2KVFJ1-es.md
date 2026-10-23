@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PLAYMOBIL Duopack Pareja de novios con accesorios
 - Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: Figuras: 1 mujer, 1 hombre; accesorios: 2 vendas, 1 maletín médico
-- PLAYMOBIL Duopack Pareja de novios con accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK2KVFJ1{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 2 figuras
-- Con accesorios
 - Packaging en forma de huevo
+- Con accesorios
+- Incluye 2 figuras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXSEOV1{{</world>}}
