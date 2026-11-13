@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Collector Cars | Volkswagen T1 Camper | Coche de colección para Adultos y niños | con Pegatinas para Personalizar | Regalo para Fans de Autos | Diseño detallado | 71857'
-date: 2026-11-12 18:32:14
+date: 2026-11-13 18:53:30
 image: 'https://m.media-amazon.com/images/I/41yiarSma1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYG1HLJV/?tag=tolees-21'
 descuento: '32.52'
-average: '15.103749999999989'
+average: '15.008823529411755'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

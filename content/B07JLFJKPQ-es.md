@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 70088 Caravana de Verano A Partir de 4 años'
-date: 2026-11-09 06:37:00
+date: 2026-11-13 15:33:11
 image: 'https://m.media-amazon.com/images/I/51yTaSuK-fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07JLFJKPQ-es PLAYMOBIL Family Fun 70088 Caravana de Verano A Partir de...'
 sku: 'B07JLFJKPQ-es'
 tags: [ 'playmobil','🇪🇸', ]
-actualPrice: 46.97 EUR
+actualPrice: 46.62 EUR
 currency: EUR
-price: 46.97
+price: 46.62
 comparePrice: 62.99 EUR
 prodname: 'PLAYMOBIL Family Fun 70088 Caravana de Verano A Partir de 4 años'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLFJKPQ/?tag=tolees-21'
-descuento: '25.43'
-average: '46.05239130434763'
+descuento: '25.99'
+average: '46.055895061728201'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

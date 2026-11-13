@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Junior | Mi Primer Juguete a Partir de 1 año | Regalo Ideal para peques | Juguete sostenible con función de clasificación y Accesorios | 71655'
-date: 2026-11-06 13:04:25
+date: 2026-11-13 07:09:33
 image: 'https://m.media-amazon.com/images/I/41Z5YX3CFaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYG77RQC/?tag=tolees-21'
 descuento: '30.01'
-average: '26.180666666666575'
+average: '26.162499999999916'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

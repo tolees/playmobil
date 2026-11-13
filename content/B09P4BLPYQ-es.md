@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL DreamWorks Dragons 71085 Dragons The Nine Realms Icaris Quad y Phil a Partir de 4 años'
-date: 2026-11-12 11:07:10
+date: 2026-11-13 17:10:17
 image: 'https://m.media-amazon.com/images/I/51DWA0KxyXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09P4BLPYQ/?tag=tolees-21'
 descuento: '25.10'
-average: '13.194533333333425'
+average: '13.279610389610479'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

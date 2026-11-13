@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Horses of Waterfall 71495 Torneo de Ponis emocionantes competiciones para jóvenes campeones con amplios Accesorios detallados Juguetes para niños a Partir de 4 años'
-date: 2026-11-12 16:00:00
+date: 2026-11-13 19:26:38
 image: 'https://m.media-amazon.com/images/I/51OidB-gpZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CK26S7W9/?tag=tolees-21'
 descuento: '38.30'
-average: '17.3125'
+average: '17.304'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

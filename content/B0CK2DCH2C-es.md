@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL myLife 71510 Corral de Pollos Patio diverso con Animales y Accesorios Divertido Juego de rol imaginativo Juegos sostenibles para niños a Partir de 4 años'
-date: 2026-11-12 20:24:24
+date: 2026-11-13 20:30:38
 image: 'https://m.media-amazon.com/images/I/41s-K8hrohL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CK2DCH2C/?tag=tolees-21'
 descuento: '22.51'
-average: '19.043043478260849'
+average: '19.378799999999981'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
