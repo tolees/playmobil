@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Space 9489 Vehículo de Reconocimiento A Partir de 6 años'
-date: 2026-11-12 15:37:25
+date: 2026-11-20 04:37:09
 image: 'https://m.media-amazon.com/images/I/51KTdonjaPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MPNCHW/?tag=tolees-21'
 descuento: '33.03'
-average: '32.209782608695704'
+average: '32.206875000000046'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

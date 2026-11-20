@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Action 70569 Helicóptero de la policía persecución en paracaídas para niños de 4 a 10 años'
-date: 2026-11-12 14:52:26
+date: 2026-11-20 05:02:48
 image: 'https://m.media-amazon.com/images/I/419MQ+07iVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08KTNQT5D-es PLAYMOBIL City Action 70569 Helicóptero de la policía...'
 sku: 'B08KTNQT5D-es'
 tags: [ 'playmobil','🇪🇸', ]
-actualPrice: 26.99 EUR
+actualPrice: 23.59 EUR
 currency: EUR
-price: 26.99
+price: 23.59
 comparePrice: 34.99 EUR
 prodname: 'PLAYMOBIL City Action 70569 Helicóptero de la policía persecución en paracaídas para niños de 4 a 10 años'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KTNQT5D/?tag=tolees-21'
-descuento: '22.86'
-average: '24.593949579832056'
+descuento: '32.58'
+average: '24.57735537190095'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

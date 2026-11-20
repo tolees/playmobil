@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Action Heroes | Camión de Obra con grúa | Juguetes de construcción para niños | Set de construcción | para niños a Partir de 4 años | 71750'
-date: 2026-11-17 17:05:35
+date: 2026-11-20 04:22:19
 image: 'https://m.media-amazon.com/images/I/51Y6IZD3rdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DPJ92XG2-es PLAYMOBIL | Action Heroes | Camión de Obra con grúa |...'
 sku: 'B0DPJ92XG2-es'
 tags: [ 'playmobil','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 26.09 EUR
 currency: EUR
-price: 29.99
+price: 26.09
 comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL | Action Heroes | Camión de Obra con grúa | Juguetes de construcción para niños | Set de construcción | para niños a Partir de 4 años | 71750'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPJ92XG2/?tag=tolees-21'
-descuento: '25.01'
-average: '29.22076923076915'
+descuento: '34.76'
+average: '28.997142857142784'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

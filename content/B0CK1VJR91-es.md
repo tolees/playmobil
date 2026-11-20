@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Kahboom de los bandidos de Burnham persigue a los caballeros de Novelmore en su loco carro de carreras, equipado con dinamita y bengalas
-- Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: Figuras: Kahboom; accesorios: 1 gorra de aviador, 2 guantes, 1 barra de dinamita, 1 martillo, 1 antorcha, 2 soportes con antorchas, 1 escudo, 1 carro
+- Óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK1VJR91{{</world>}}

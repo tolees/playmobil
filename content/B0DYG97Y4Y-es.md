@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Junior | Tractor con sembradora Divertida | Juguete a Partir de 1 año | Regalo Ideal para peques | Juguete sostenible con función de siembra y Accesorios | 71773'
-date: 2026-10-14 13:51:09
+date: 2026-11-19 18:30:14
 image: 'https://m.media-amazon.com/images/I/412b3LO1h1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DYG97Y4Y-es PLAYMOBIL | Junior | Tractor con sembradora Divertida |...'
 sku: 'B0DYG97Y4Y-es'
 tags: [ 'playmobil','🇪🇸', ]
-actualPrice: 28.99 EUR
+actualPrice: 25.19 EUR
 currency: EUR
-price: 28.99
+price: 25.19
 comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL | Junior | Tractor con sembradora Divertida | Juguete a Partir de 1 año | Regalo Ideal para peques | Juguete sostenible con función de siembra y Accesorios | 71773'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYG97Y4Y/?tag=tolees-21'
-descuento: '27.51'
-average: '29.5525'
+descuento: '37.01'
+average: '29.067777777777774'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Furgoneta Volkswagen T1 Edición ESP'
-date: 2026-11-19 00:32:51
+date: 2026-11-20 10:39:30
 image: 'https://m.media-amazon.com/images/I/41-0h6mvSYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTTW451Y/?tag=tolees-21'
 descuento: '26.83'
-average: '15.497777777777777'
+average: '15.347000000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

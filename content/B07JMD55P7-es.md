@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juego individual o en grupo
 - Desarrolla la imaginación y la creatividad
 - Contiene 17 piezas
-- Juego individual o en grupo
 - Figura de hipo y Astrid con traje nupcial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
