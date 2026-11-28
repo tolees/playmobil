@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | My Life | Casa de Cachorros | Juguetes para niños | Figuras de Animales | para niños a Partir de 4 años | 71743'
-date: 2026-11-21 00:52:31
+date: 2026-11-27 18:00:17
 image: 'https://m.media-amazon.com/images/I/51xomQlFSBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPJ8FHX6/?tag=tolees-21'
 descuento: '34.76'
-average: '27.86'
+average: '27.506'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

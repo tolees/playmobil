@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | I Love Horses | Establo pequeño con herrador | Box para Caballos con fragua Luminosa Herramientas y Accesorios de Cuidado del Caballo | para niños a Partir de 4 años | 72131'
-date: 2026-11-21 17:32:06
+date: 2026-11-28 09:22:49
 image: 'https://m.media-amazon.com/images/I/41D+PbwKRNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTTXJZT1/?tag=tolees-21'
 descuento: '32.58'
-average: '24.915'
+average: '24.473333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

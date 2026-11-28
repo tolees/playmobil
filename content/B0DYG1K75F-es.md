@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Collector Cars | Ferrari 250 GTO | Coche de colección para Adultos y niños | Regalo para Fans de Autos y coleccionistas | 71856'
-date: 2026-11-26 11:35:24
+date: 2026-11-27 19:10:12
 image: 'https://m.media-amazon.com/images/I/41TFWERBPfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYG1K75F/?tag=tolees-21'
 descuento: '20.01'
-average: '15.016923076923108'
+average: '15.086428571428602'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

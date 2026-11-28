@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | WWE® | The Rock Monster Truck | Monster Truck con suspensión Cuernos y Figura de The Rock | para Fans a Partir de 5 años | 71955'
-date: 2026-11-21 00:13:50
+date: 2026-11-28 07:08:44
 image: 'https://m.media-amazon.com/images/I/41GiAVPpEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

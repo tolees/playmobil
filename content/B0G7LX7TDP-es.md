@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Barbie | Barco de Aventuras | Lancha rápida con Barbie y Ken'
-date: 2026-11-26 13:49:42
+date: 2026-11-27 16:08:36
 image: 'https://m.media-amazon.com/images/I/31ui+SHkcOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G7LX7TDP/?tag=tolees-21'
 descuento: '41.24'
-average: '26.830000000000002'
+average: '25.997500000000002'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

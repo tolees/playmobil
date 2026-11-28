@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Action Heroes | Persecución con camioneta policial | Juguete policial con Luces y Sonidos | Juguete de Aventuras Lleno de acción | para Mayores de 4 años | 71875'
-date: 2026-11-26 23:57:53
+date: 2026-11-28 13:51:27
 image: 'https://m.media-amazon.com/images/I/51q21G5EF6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYG3F61J/?tag=tolees-21'
 descuento: '46.01'
-average: '28.203225806451695'
+average: '28.129696969697047'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

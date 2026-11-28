@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Dinos | Triceratops con cría | Set de Juego de Dinosaurios | Figuras de Animales | Juguete de Aventura | para niños y niñas a Partir de 4 años | 71821'
-date: 2026-11-21 12:42:53
+date: 2026-11-28 14:56:23
 image: 'https://m.media-amazon.com/images/I/51n+Ol6Y5wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQVPB7QT/?tag=tolees-21'
 descuento: '32.58'
-average: '24.69'
+average: '24.415'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

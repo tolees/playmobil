@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 71471 Vétérinaire Avec animaux de la Ferme'
-date: 2026-11-18 06:02:31
+date: 2026-11-27 22:26:57
 image: 'https://m.media-amazon.com/images/I/510OIHawE5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CK1TG9SS/?tag=tolees-21'
 descuento: '25.01'
-average: '13.899230769230762'
+average: '14.044666666666659'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

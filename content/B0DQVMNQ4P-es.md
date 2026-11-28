@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Dinos | Encuentro con el Brachiosaurus y Aerodeslizador | Set de Juego de Dinosaurios | Aventura de Dinosaurios para niños y niñas a Partir de 4 años | 71819'
-date: 2026-11-20 03:59:41
+date: 2026-11-27 21:06:08
 image: 'https://m.media-amazon.com/images/I/51C7FJB-uHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQVMNQ4P/?tag=tolees-21'
 descuento: '32.50'
-average: '57.970000000000006'
+average: '57.306666666666672'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

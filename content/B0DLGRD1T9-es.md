@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | Action Heroes | Camión de Bomberos | Coche de Bomberos | Coche de Juguete | Juguete para niños y niñas a Partir de 4 años | 71824'
-date: 2026-11-20 20:48:58
+date: 2026-11-27 19:07:21
 image: 'https://m.media-amazon.com/images/I/51MIgx0NNoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DLGRD1T9/?tag=tolees-21'
 descuento: '31.44'
-average: '24.590000000000003'
+average: '24.523333333333337'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
